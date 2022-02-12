@@ -6,7 +6,7 @@ published: true
 ---
 
 
-Hi! I am a joint PhD student between Beihang University (BUAA) and Université Paris-Saclay (UPSACLAY). I am co-supervised by [] (Wang Kang), (Weisheng Zhao) [http://shi.buaa.edu.cn/09688/en/index.htm] at BUAA, and Damien Querlioz, Dafiné Ravelosona at Center for Nanoscience and Nanotechnology, attached to UPSACLAY.   
+Hi! I am a joint PhD student between Beihang University (BUAA) and Université Paris-Saclay (UPSACLAY). I am co-supervised by [http://shi.buaa.edu.cn/kangwang/en/index.htm] (Wang Kang), (Weisheng Zhao) [http://shi.buaa.edu.cn/09688/en/index.htm] at BUAA, and Damien Querlioz, Dafiné Ravelosona at Center for Nanoscience and Nanotechnology, attached to UPSACLAY.   
 
 ### Research interests
 
