@@ -6,7 +6,7 @@ published: true
 ---
 
 
-Hi! I am a PhD student at Beihang 
+Hi! I am a joint PhD student between Beihang University and Université Paris-Saclay. My research interests lie in the intersection spintronics, neuromorphic computing and machine learning.   
 
 ### More Information
 
