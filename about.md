@@ -6,7 +6,7 @@ published: true
 ---
 
 
-Hi! I am a joint PhD student between Beihang University and Université Paris-Saclay. My research interests lie in the intersection spintronics, neuromorphic computing and machine learning.   
+Hi! I am a joint PhD student between Beihang University (BUAA) and Université Paris-Saclay (UPSACLAY). I am co-supervised by Wang Kang, Weisheng Zhao at BUAA, and Damien Querlioz, Dafiné Ravelosona at Center for Nanoscience and Nanotechnology, attached to UPSACLAY. My research interests lie in the intersection of spintronics, neuromorphic computing and machine learning.   
 
 ### More Information
 
