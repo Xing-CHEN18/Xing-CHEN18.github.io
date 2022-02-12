@@ -15,6 +15,8 @@ My research interests lie in the intersection of Spintronics, Neuromorphic compu
 
 ### Experience
 
+2022.02
+
 ### Contact me
 
 [xingc217@gmail.com](mailto:xingc217@gmail.com)
