@@ -25,10 +25,11 @@ My passion for AI started when I was doing my research project at C2N in France.
 
 ### Other Experience
 
-* 2021.10 - 2022.02 	Research Intern at Huawei Technology, Beijing, China
-* 2018.07 - 2018.08 	Machine Learning Summer school at Technion, Israel
-* 2019.06 - 2019.06 	IEEE magnetics Summer school at Virgina, USA
-
+* 2021.10 - 2022.02 	Research Intern, at Huawei Technology, Beijing, China
+* 2018.07 - 2018.08 	Participate with scholarship, at Machine Learning Summer school, Technion, Israel
+* 2019.06 - 2019.06 	Participate with scholarship, at IEEE magnetics Summer school, Virgina, USA
+* 2019.01 - 2019.01 	oral presentation, at IEEE Joint-MMM conference 2019, DC, USA
+* 2018.05 - 2018.05 	oral presentation, at IEEE INTERMAG conference, Singapore
 
 ### Publications
 
