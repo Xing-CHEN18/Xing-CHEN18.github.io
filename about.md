@@ -19,7 +19,10 @@ My passion for AI started when I was doing my research project at C2N in France.
 
 ### Experience and Education
 
-2022.02
+* 2021.10 - 2022.02 	Research Intern at Huawei Technology
+* 2019.10 - 2021.05 	PhD student at C2N, Université Paris-Saclay
+* 2017.09 - now     	PhD student at school of Integrated Circuit science and engineering,  Beihang University
+* 2013.09 - 2017.06     Bachelor student at school of in Electronics and Information Engineering, Beihang University, 
 
 ### Publications
 
