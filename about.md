@@ -17,13 +17,18 @@ My research interests lie in the intersection of [Spintronics](https://en.wikipe
 
 My passion for AI started when I was doing my research project at C2N in France. I was exploring the [reservoir computing](https://en.wikipedia.org/wiki/Reservoir_computing) algorithm (an elegant solution to these problems that RNNs traditionally face, and importantly, it is hardware friendly) for a complicated prediction task by utilizing the physical properties of a spintronic nano-device. The problem is that the conventional simulations tool makes running a regular benchmark task in reservoir computing exceptionally time-consuming. I solved the problem by [modeling an equivalent system using machine learning techniques](https://arxiv.org/abs/2108.02318) to the original physical design, and it proves to be entirely accurate and computationally efficient! This experience made me realize that between these two communities of physics and machine learning, many things can be borrowed and learned to be benificial for each other.
 
-### Experience and Education
+### Education
 
-* 2021.10 - 2022.02 	Research Intern at Huawei Technology
-* 2019.10 - 2021.05 	PhD student at C2N, Université Paris-Saclay
-* 2018.07 - 2018.07 	Exchange program of summer school at 
-* 2017.09 - now     	PhD student at school of Integrated Circuit science and engineering,  Beihang University
-* 2013.09 - 2017.06     Bachelor student at school of in Electronics and Information Engineering, Beihang University, 
+* 2019.10 - 2022.06 	PhD, C2N, Université Paris-Saclay, France
+* 2017.09 - 2022.06 	PhD, school of Integrated Circuit science and engineering, Beihang University, China
+* 2013.09 - 2017.06     Bachelor, school of in Electronics and Information Engineering, Beihang University, China
+
+### Other Experience
+
+* 2021.10 - 2022.02 	Research Intern at Huawei Technology, Beijing, China
+* 2018.07 - 2018.08 	Machine Learning Summer school at Technion, Israel
+* 2019.06 - 2019.06 	IEEE magnetics Summer school at Virgina, USA
+
 
 ### Publications
 
