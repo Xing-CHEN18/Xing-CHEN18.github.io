@@ -11,7 +11,7 @@ Hi! I am a joint PhD student between Beihang University (BUAA) and Université P
 
 ### Research interests
 
-My research interests lie in the intersection of Spintronics, Neuromorphic computing and Machine Learning. I am also interested in applications of
+My research interests lie in the intersection of [Spintronics](https://en.wikipedia.org/wiki/Spintronics), [Neuromorphic computing](https://en.wikipedia.org/wiki/Neuromorphic_engineering) and Machine Learning. I am also very interested in the physics-informed learning rule and the applications of AI in the industry.  
 
 ### Experience
 
