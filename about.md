@@ -11,7 +11,7 @@ Hi! I am a joint PhD student between Beihang University (BUAA) and Université P
 
 ### Research interests
 
-My research interests lie in the intersection of [Spintronics](https://en.wikipedia.org/wiki/Spintronics), [Neuromorphic computing](https://en.wikipedia.org/wiki/Neuromorphic_engineering) and Machine Learning. I am also very interested in the physics-informed learning rule and the applications of AI in the industry.  
+My research interests lie in the intersection of [Spintronics](https://en.wikipedia.org/wiki/Spintronics), [Neuromorphic computing](https://en.wikipedia.org/wiki/Neuromorphic_engineering) and Machine Learning. I am also very interested in the physics-informed learning rule and the applications of AI in the industry. My passion for AI started when I was doing my research project at C2N in France. I was exploring the reservoir computing algorithm (an elegant solution to these problems that RNNs traditionally face, and importantly, it is hardware friendly) for a complicated prediction task by utilizing the physical properties of a spintronic nano-device. The problem is that the conventional simulations tool makes running a regular benchmark task in RC exceptionally time-consuming. I solved the problem by modeling an equivalent system using machine learning techniques to the original physical design, and it proves to be entirely accurate and computationally efficient! This experience made me realize that between these two communities of physics and machine learning, many things can be borrowed and learned to be benificial for each other.
 
 ### Experience
 
