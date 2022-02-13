@@ -19,6 +19,7 @@ My research interests lie in the intersection of [Spintronics](https://en.wikipe
 
 ### Publications
 
+Please see my [Google Scholar](https://scholar.google.com/citations?user=_1rFPswAAAAJ&hl=zh-CN) page.
 
 ### Contact me
 
