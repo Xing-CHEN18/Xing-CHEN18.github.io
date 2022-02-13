@@ -20,7 +20,7 @@ My passion for AI started when I was doing my research project at C2N in France.
 ### Education
 
 * 2019.10 - 2022.06 	PhD, C2N, Université Paris-Saclay, France
-* 2017.09 - 2022.06 	PhD, school of Integrated Circuit science and engineering, Beihang University, China
+* 2017.09 - 2022.06 	PhD, school of Integrated Circuit Science and Engineering, Beihang University, China
 * 2013.09 - 2017.06     Bachelor, school of in Electronics and Information Engineering, Beihang University, China
 
 ### Other Experience
