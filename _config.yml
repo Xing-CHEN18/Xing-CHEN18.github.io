@@ -20,7 +20,6 @@ avatar: https://github.com/Xing-CHEN18.png
 footer-links:
   dribbble:
   email: xingc217@gmail.com
-  googlescholar: https://scholar.google.com/citations?user=_1rFPswAAAAJ&hl=zh-CN
   facebook:
   flickr:
   github: Xing-CHEN18
@@ -32,6 +31,7 @@ footer-links:
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
+  googlescholar: https://scholar.google.com/citations?user=_1rFPswAAAAJ&hl=zh-CN
 
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
