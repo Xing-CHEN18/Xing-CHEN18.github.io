@@ -33,7 +33,7 @@ My passion for AI started when I was doing my research project at C2N in France.
 
 ### Publications
 
-Please see my [Google Scholar](https://scholar.google.com/citations?user=_1rFPswAAAAJ&hl=zh-CN) page.
+Please see my [Google Scholar](https://scholar.google.com/citations?user=_1rFPswAAAAJ&hl=zh-CN) or [Researchgate](https://www.researchgate.net/profile/Xing-Chen-26) page.
 
 ### Contact me
 
