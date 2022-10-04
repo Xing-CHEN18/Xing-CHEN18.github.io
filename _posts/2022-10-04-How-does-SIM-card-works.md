@@ -10,5 +10,5 @@ A detailed procudure of communication between the smartphone and the cellular ne
 
 ![communication.png]({{site.baseurl}}/_posts/communication.png)
 
-Sometimes we got used to the things that we are using everyday, but i don't ask a lot why it works that way?
+Sometimes we got used to the things that we are using everyday, but i didn't ask a lot why it works that way?
  
