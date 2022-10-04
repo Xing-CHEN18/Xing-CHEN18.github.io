@@ -8,7 +8,6 @@ After doing some research in google, I found that a smartphone recognizing a SIM
 
 A detailed procudure of communication between the smartphone and the cellular network is as follows:
 
-![communication.png]({{site.baseurl}}/_posts/communication.png)
+![_config.yml]({{ site.baseurl }}/images/communication.png)
 
 Sometimes we got used to the things that we are using everyday, but i didn't ask a lot why it works that way?
- 
