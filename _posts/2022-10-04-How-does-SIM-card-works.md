@@ -10,4 +10,4 @@ A detailed procudure of communication between the smartphone and the cellular ne
 
 ![_config.yml]({{ site.baseurl }}/images/communication.png)
 
-Sometimes we got used to the things that we are using everyday, but i didn't ask a lot why it works that way?
+Sometimes we got used to the things that we are using everyday, but i didn't ask a lot why and how they work?
