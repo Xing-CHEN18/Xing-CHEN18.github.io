@@ -6,4 +6,9 @@ I have never thought about this question of how does a SIM card work till I run 
 
 After doing some research in google, I found that a smartphone recognizing a SIM card works by recognizing a seriel number, called International Mobile Subscriber Identity (IMSI) in the card, and then the information of this number is sending by the phone to the network, in which the phone number related to the IMSI is stored in the database  (I could have thought about it!).
 
-The
+A detailed procudure of communication between the smartphone and the cellular network is as follows:
+
+![communication.png]({{site.baseurl}}/_posts/communication.png)
+
+Sometimes we got used to the things that we are using everyday, but i don't ask a lot why it works that way?
+ 
