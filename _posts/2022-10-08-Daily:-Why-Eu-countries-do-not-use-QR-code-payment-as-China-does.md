@@ -6,4 +6,6 @@ WeChat and Alipay payment system with a QR code is quite convenient and popular 
 
 - Other competitive methods: Card payment & paypal. Card payment method has been very well established, and it can be easily integrated with mobile through paypal. 
 - Technology aspect: No such unified standards. There are several standards (on both ends agreement on the content of the OR code) existing, which makes it difficult to be promoted and applied.
-- 
+- Limitation: Paying with QR code relies on the internet access. 
+
+Does technology limit people or liberate them? Sometimes I feel I just wanted to throw my phone out of my sight, but i cannot because it knows me more than I do，not to mention its use as a tool for integrating many functions.
