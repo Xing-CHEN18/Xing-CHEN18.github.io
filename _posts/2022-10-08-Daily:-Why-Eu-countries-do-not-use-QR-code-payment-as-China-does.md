@@ -10,7 +10,4 @@ WeChat and Alipay payment system with a QR code is quite convenient and popular 
 
 Does technology limit people or liberate them? Sometimes I feel I just wanted to throw my phone out of my sight, but i cannot because it knows me more than I do，not to mention its use as a tool for integrating many functions.
 
-# ![_config.yml]({{ site.baseurl }}/images/phone.png){: height="100px" width="auto"} .
-
-![_config.yml]({{ site.baseurl }}/images/phonepng){: height="100px" width="auto"}.
-
+![_config.yml]({{ site.baseurl }}/images/phonepng){: height="300px" width="auto"}.
