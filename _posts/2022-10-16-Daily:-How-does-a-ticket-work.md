@@ -15,6 +15,6 @@ In a broader sense, magnetic recording is a widely-used and fastly-developed tec
 Obviousely, it even calls back on what I did in my research projects: Spintronics, Magnetisim...
 
 
-For more information about machanisms of magnetic strips and their applications:
+For more information about machanisms of magnetic strips and their applications, have a look at the link below:
 [Introduction to Magnetic Stripe](http://www.hightechaid.com/tech/card/intro_ms.htm),
 [Magnetic Stripe Encoding](https://www.alphacard.com/learning-center/printer-technology-and-options/encoding-options/magnetic-stripe-encoding/#:~:text=Magnetic%20stripes%20are%20a%20popular,translated%20into%20a%20usable%20format.)
