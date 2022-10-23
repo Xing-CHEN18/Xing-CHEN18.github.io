@@ -13,3 +13,11 @@ $ git init && git symbolic-ref HEAD refs/heads/main
 3. Add the files in your new local repository. This stages them for the first commit.
 
 $ git add .
+
+4. Commit the files that you've staged in your local repository.
+
+$ git commit -m "First commit"
+
+5. 
+
+
