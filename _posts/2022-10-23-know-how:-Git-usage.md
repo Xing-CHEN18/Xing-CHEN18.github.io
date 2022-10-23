@@ -12,23 +12,23 @@ $ git init && git symbolic-ref HEAD refs/heads/main
 
 3. Add the files in your new local repository. This stages them for the first commit.> We loved with a love that was more than love
 
-> We loved with a love that was more than love
-
 > $ git add .
 
 4. Commit the files that you've staged in your local repository.
 
-$ git commit -m "First commit"
+> $ git commit -m "First commit"
 
 5. At the top of your repository on GitHub.com's Quick Setup page, click  to copy the remote repository URL.
 
 6. In the Command prompt, add the URL for the remote repository where your local repository will be pushed.
 
-$ git remote add origin <REMOTE_URL>
-$ git remote -v
-# Verifies the new remote URL
+> $ git remote add origin <REMOTE_URL>
+> $ git remote -v
+> # Verifies the new remote URL
 
 7. Push the changes in your local repository to GitHub.com.
+
+> We loved with a love that was more than love
 
 $ git push origin main
 
