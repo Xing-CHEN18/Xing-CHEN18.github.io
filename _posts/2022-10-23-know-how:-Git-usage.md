@@ -28,9 +28,7 @@ $ git init && git symbolic-ref HEAD refs/heads/main
 
 7. Push the changes in your local repository to GitHub.com.
 
-> We loved with a love that was more than love
-
-$ git push origin main
+> $ git push origin main
 
 
 
