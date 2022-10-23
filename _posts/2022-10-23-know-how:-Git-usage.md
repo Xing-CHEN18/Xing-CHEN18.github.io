@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 
 To creat a repository of an exsisting project in github from your local server:
