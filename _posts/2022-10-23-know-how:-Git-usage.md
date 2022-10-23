@@ -10,7 +10,6 @@ To creat a repository of an exsisting project in github from your local server:
 >$ git init && git symbolic-ref HEAD refs/heads/main
 
 3. Add the files in your new local repository. This stages them for the first commit.> We loved with a love that was more than love
-
 > $ git add .
 
 4. Commit the files that you've staged in your local repository.
