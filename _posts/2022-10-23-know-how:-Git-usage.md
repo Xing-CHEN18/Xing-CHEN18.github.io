@@ -18,8 +18,8 @@ To creat a repository of an exsisting project in github from your local server:
 5. At the top of your repository on GitHub.com's Quick Setup page, click  to copy the remote repository URL.
 
 6. In the Command prompt, add the URL for the remote repository where your local repository will be pushed.
-> $ git remote add origin <REMOTE_URL>  
-  $ git remote -v  
+> $ git remote add origin <REMOTE_URL> <br/> 
+  $ git remote -v  <br/>
   #Verifies the new remote URL  
 
 7. Push the changes in your local repository to GitHub.com.
