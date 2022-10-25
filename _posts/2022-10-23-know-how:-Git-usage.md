@@ -37,5 +37,8 @@ References:
 
 ## To sync with the local, push changes from the local to remote:
 
+1. Add the updated files in your local repository, which tells Git that you want to include all of your changes in the next commit.
+> $ git add .
 
-> $ git pull origin main
+2. Git commit takes a snapshot of those changes.
+> $ git commit -m "description of changes"
