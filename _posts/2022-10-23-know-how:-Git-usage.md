@@ -42,3 +42,6 @@ References:
 
 2. Git commit takes a snapshot of those changes.
 > $ git commit -m "description of changes"
+
+3. To push the current branch and set the remote as upstream.
+> $ git push --set-upstream origin main
