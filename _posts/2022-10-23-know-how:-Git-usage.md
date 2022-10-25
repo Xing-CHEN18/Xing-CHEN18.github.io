@@ -47,4 +47,4 @@ References:
 > $ git push --set-upstream origin main
 
 References:
-- [https://docs.github.com/en/get-started/quickstart/contributing-to-projects(https://docs.github.com/en/get-started/quickstart/contributing-to-projects)
+- [https://docs.github.com/en/get-started/quickstart/contributing-to-projects](https://docs.github.com/en/get-started/quickstart/contributing-to-projects)
