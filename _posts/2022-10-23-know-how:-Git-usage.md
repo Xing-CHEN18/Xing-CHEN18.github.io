@@ -30,4 +30,6 @@ References:
 - [https://docs.github.com/en/get-started/importing-your-projects-to-github/importing-source-code-to-github/adding-locally-hosted-code-to-github](https://docs.github.com/en/get-started/importing-your-projects-to-github/importing-source-code-to-github/adding-locally-hosted-code-to-github)
 
 
+## To merge changes from the remote repo to local, such as after readme file was added in the remote repo:
 
+> $ git pull origin main
