@@ -31,5 +31,7 @@ References:
 
 
 ## To merge changes from the remote repo to local, such as after readme file was added in the remote repo:
+> $ git pull origin main
 
+## To sync with the local, push changes from the local to remote:
 > $ git pull origin main
