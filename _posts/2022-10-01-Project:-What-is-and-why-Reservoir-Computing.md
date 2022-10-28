@@ -3,9 +3,9 @@ published: true
 ---
 ## The beginning of the story
 
-I started to know about Reservoir computing (RC) at the third year of my PhD where I was trying to apply my research findings about dynamic skyrmions into a fancy application, eg. neuromorphic, AI, etc. The idea of RC attracted me because it perfectly merges the idea of complex neural network for a fancy task (just a demonstration) and a dynamic physical system, that could exsist almost everywhere (simply from a drop of water to any experimental systems in research labs)!
+I started to know about Reservoir computing (RC) at the third year of my PhD where I was trying to apply my research findings about dynamic skyrmions into a fancy application, eg. neuromorphic, AI, etc. The idea of RC attracted me because it perfectly merges the idea of complex neural network for a fancy task (just a demonstration) and a dynamic physical system, that could exsist almost everywhere (simply from a drop of water to any experimental systems in research labs)! This can actually be expanded to the idea of "computing", which happens at almost every moment and naturally in every systems.  
 
 ## What is reservoir computing
-![_config.yml]({{ site.baseurl }}/images/water bucket.png){: height="400px" width="auto"}
+![_config.yml]({{ site.baseurl }}/images/water bucket.png){: height="350px" width="auto"}
 
 ##
