@@ -9,7 +9,10 @@ I started to know about Reservoir computing (RC) at the third year of my PhD whe
 
 ## What is RC?
 
-There are many research articles, thesis and tutorials that talk about RC ([Reservoir computing approaches to recurrent neural network training](https://amygdala.psychdept.arizona.edu/CompNeuro/Readings/week13/Lukosevicius-Jaeger+Reservoir-computing-recurrent-neural-network+CompSciRev+2019.pdf), [Hands-on reservoir computing: a tutorial for practical implementation](https://iopscience.iop.org/article/10.1088/2634-4386/ac7db7/pdf), [Recent advances in physical reservoir computing: A review](https://arxiv.org/pdf/1808.04962.pdf), [Theory and Modeling of Complex Nonlinear Delay Dynamics Applied to Neuromorphic Computing](https://hal.archives-ouvertes.fr/tel-01591441/file/PhD_thesis-Penkovsky-arch.pdf)). RC was firstly proposed to solve the problems of Recurrent Neural Network training can not be 
+There are many research articles, thesis and tutorials that talk about RC ([Reservoir computing approaches to recurrent neural network training](https://amygdala.psychdept.arizona.edu/CompNeuro/Readings/week13/Lukosevicius-Jaeger+Reservoir-computing-recurrent-neural-network+CompSciRev+2019.pdf), [Hands-on reservoir computing: a tutorial for practical implementation](https://iopscience.iop.org/article/10.1088/2634-4386/ac7db7/pdf), [Recent advances in physical reservoir computing: A review](https://arxiv.org/pdf/1808.04962.pdf), [Theory and Modeling of Complex Nonlinear Delay Dynamics Applied to Neuromorphic Computing](https://hal.archives-ouvertes.fr/tel-01591441/file/PhD_thesis-Penkovsky-arch.pdf)). RC was firstly proposed to solve the problems that Recurrent Neural Network training usually met. 
+
+![_config.yml]({{ site.baseurl }}/images/RNN and RC.png){: height="350px" width="auto"}
+
 
 ## Why RC is considered as "Brain-inspired"?
 
