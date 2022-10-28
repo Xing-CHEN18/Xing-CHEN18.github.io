@@ -7,7 +7,17 @@ I started to know about Reservoir computing (RC) at the third year of my PhD whe
 
 ![_config.yml]({{ site.baseurl }}/images/water bucket.png){: height="350px" width="auto"}
 
-## What is reservoir computing
+## What is RC?
+
+Reservoir computing can not be 
+
+## Why RC is considered as "Brain-inspired"?
+
+## Is there any real industrial-level applications of RC?
 
 
-##
+References:
+For someone who wants to know more about theoretical basis of RC
+- 
+
+
