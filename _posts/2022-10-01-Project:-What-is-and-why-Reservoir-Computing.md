@@ -17,21 +17,10 @@ readout component is trained (see the pic below).
 
 ## Why RC is considered as "Brain-inspired"?
 
-The computational approach of RC stands out as a brain-inspired framework to produce hardware neural networks and perform on-chip computation. Neural networks used for
-RC consist of a reservoir of randomly ordered nonlinear neurons, whose connections are not
-subject to training; this group of disordered, recurrent connected neurons behaves similarly
-to a cortical column in a biological neural system [100]. An analogy is that the brain serves as
-a general-purpose “device” allowing to quickly adapt to new and unexpected situations. One
-of the possible explanations how such adaptability is possible could be the brain is a complex
-network. If it is very complex, some of the solution trajectories must already exist [101] in the
-high-dimensional dynamics of such a system. The remaining learning procedure is rewiring
-the brain connections so that useful trajectories are amplified and not useful ones are suppressed.
+The computational approach of RC stands out as a brain-inspired framework to produce hardware neural networks and perform on-chip computation. 
+- Neural networks used for RC consist of a reservoir of randomly ordered nonlinear neurons, whose connections are not subject to training; this group of disordered, recurrent connected neurons behaves similarly to a cortical column in a biological neural system [100]. An analogy is that the brain serves as a general-purpose “device” allowing to quickly adapt to new and unexpected situations. One of the possible explanations how such adaptability is possible could be the brain is a complex network. If it is very complex, some of the solution trajectories must already exist [101] in the high-dimensional dynamics of such a system. The remaining learning procedure is rewiring the brain connections so that useful trajectories are amplified and not useful ones are suppressed.
 
-
-Another notable analogy between RC and the brain is their underlying memory hierarchy.
-Unlike conventional computers, the human brain has memory inseparable from computing
-units (neurons) [102]. RC tries to alleviate this discrepancy by including memory in the computation
-procedure
+- Another notable analogy between RC and the brain is their underlying memory hierarchy. Unlike conventional computers, the human brain has memory inseparable from computing units (neurons) [102]. RC tries to alleviate this discrepancy by including memory in the computation procedure.
 
 ## Is there any real industrial-level applications of RC?
 talks about the CNN +RC
