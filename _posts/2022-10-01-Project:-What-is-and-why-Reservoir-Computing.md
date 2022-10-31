@@ -21,7 +21,7 @@ The computational approach of RC stands out as a brain-inspired framework to pro
 
 - Another notable analogy between RC and the brain is their underlying memory hierarchy. Unlike conventional computers, the human brain has memory inseparable from computing units (neurons). RC tries to alleviate this discrepancy by including memory in the computation procedure.
 
-## Is there any real industrial-level applications of RC?
+## What is the advantages of RC & Is there any real industrial-level applications of RC?
 talks about the CNN +RC
 
 ## Limitations of RC method
