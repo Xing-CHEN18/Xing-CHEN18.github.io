@@ -8,9 +8,9 @@ One of the enlighting take-aways from one of my favorite podcasts -- 得意忘�
 
 Many people have suffered from the boring daily routines of their work and dreamed about only doing their favorite activities. It seems in very rare cases that what people are doing in their work is what they really like. So the reality is that it is extremely difficult to be one of the extermely lucky guys. But I started to think seriously about what kind of activites can give me the most fulfillment and pleasure when I have to started to look for a job. Thinking of my interests, what shows up in my mind is all about drawing, design, creation, ect. From this perpective, this also gives me a strong reason to keep on what I am doing now (drawing and writing blogs). I know I am just nobody at the moment, but I need to start to do it to creat a possibility.
 
-I found myself more peaceful when facing changes in my life, and started to see things from different perspectives. I know I would say after many years: Oh! that difficult period just occupied a small piece of my life, I have done many interesting things, I developed myself, and became a better person. 
+I found myself more peaceful when facing changes in my life, and started to see things from different perspectives. I know I would say after many years: Oh! that difficult period just occupied a small piece of my life, I have done many interesting things, I re-visited myself, and developed myself.
 
-PS: I also startd again learning playing piano, for myself, and also I don't want to disappoint someone's donation:)
+PS: I also startd again to learn how to play piano, for myself, and also for someone who made the donation:)
 
 
 
