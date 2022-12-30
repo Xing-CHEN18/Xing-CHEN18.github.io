@@ -22,13 +22,13 @@ The year of 2022 is about many Four-Person Board:
 </p>
 
 <p align="center">
-  <img alt="img-name" src="{{ site.baseurl }}/images/combined4.jpg" height="auto" width="700">
+  <img alt="img-name" src="{{ site.baseurl }}/images/combined4.jpg" height="auto" width="600">
     <em> Feb 17th of 2022, my birthday party Chez yeye</em>
 </p>
 
 Yeye was about to start her new job!
 <p align="center">
-  <img alt="img-name" src="{{ site.baseurl }}/images/72.jpg" height="200" width="auto">
+  <img alt="img-name" src="{{ site.baseurl }}/images/combined9.jpg" height="200" width="auto">
     <em> Mar 6th of 2022, we were celebrating for yeye's birthday</em>
 </p>
 
