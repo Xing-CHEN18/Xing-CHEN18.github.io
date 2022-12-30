@@ -48,10 +48,10 @@ Yeye was about to start her new job!
 </p>
 
 
+## 2022 is the year of PhD graduation
 
 
-
-## 2022 is the year of facing unpredictiable changes
+## 2022 is the year of facing unpredictable changes
 
 
 ## 2022 is the year of traveling
