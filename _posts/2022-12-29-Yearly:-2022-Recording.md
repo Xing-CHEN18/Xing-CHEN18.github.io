@@ -58,17 +58,17 @@ Finally, I was able to spend a casual and relaxing summer. With some bits of anx
 
 <p align="center">
   <img alt="img-name" src="{{ site.baseurl }}/images/combined12.jpg" height="auto" width="600">
-    <em> 3rd July of 2022, at Dongjiaominxiang-东交民巷/em>
+    <em> 3rd July of 2022, at Dongjiaominxiang-东交民巷</em>
 </p>
   
 <p align="center">
   <img alt="img-name" src="{{ site.baseurl }}/images/combined13.jpg" height="auto" width="600">
-    <em> 3rd July of 2022, at Dongjiaominxiang-东交民巷, which witnessed the birth of a playwright/em>
+    <em> 3rd July of 2022, at Dongjiaominxiang-东交民巷, which witnessed the birth of a playwright</em>
 </p>
   
 <p align="center">
   <img alt="img-name" src="{{ site.baseurl }}/images/combined14.jpg" height="auto" width="600">
-    <em> 3rd July of 2022, at Dongjiaominxiang-东交民巷/em>
+    <em> 3rd July of 2022, at Dongjiaominxiang-东交民巷</em>
 </p>
 
 
