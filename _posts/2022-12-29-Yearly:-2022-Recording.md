@@ -17,8 +17,8 @@ The year of 2022 starts with an incredible idea that two ladies decided to creat
 The year of 2022 is about many leFour-Person Board:
 
 <p align="center">
-  <img alt="img-name" src="{{ site.baseurl }}/images/combined3.jpg" height="330" width="auto">
-    <em>Selfie in Jan 1st of 2022 (Left: at home; Right: at Temple of Heaven 天坛)</em>
+  <img alt="img-name" src="{{ site.baseurl }}/images/combined3.jpg" height="350" width="auto">
+    <em>Selfie in Jan 3rd of 2022, we were doing ice skating in Summer Palace 颐和园</em>
 </p>
 
 
