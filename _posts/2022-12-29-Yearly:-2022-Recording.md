@@ -23,7 +23,7 @@ The year of 2022 is about many Four-Person Board:
 
 <p align="center">
   <img alt="img-name" src="{{ site.baseurl }}/images/combined3.jpg" height="370" width="auto">
-    <em> Feb 17th of 2022, my birthday party</em>
+    <em> Feb 17th of 2022, my birthday party Chez yeye</em>
 </p>
 
 ## 2022 is the year of facing unpredictiable changes
