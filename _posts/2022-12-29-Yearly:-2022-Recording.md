@@ -15,7 +15,6 @@ The year of 2022 starts with an incredible idea that two ladies decided to recor
 |:--:| 
 | *Space* |
 
-hklhkl
 
 ## 2022 is the year of facing unpredictiable changes
 
