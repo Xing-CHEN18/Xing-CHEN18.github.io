@@ -11,7 +11,6 @@ The year of 2022 starts with an incredible idea that two ladies decided to recor
 
 <p align="center">
   <img alt="img-name" src="{{ site.baseurl }}/images/combined1.jpg" height="330" width="auto">
-  <br>
     <em>Selfie in Jan 1st of 2022 (Left: at home; Right: at Temple of Heaven)</em>
 </p>
 
