@@ -26,7 +26,7 @@ The year of 2022 is about many Four-Person Board:
     <em> Feb 17th of 2022, my birthday party Chez yeye</em>
 </p>
 
-Yeye was about to start her new job!
+Yeye was about to start her new job! I love to see your happily smiling faces:D
 <p align="center">
   <img alt="img-name" src="{{ site.baseurl }}/images/combined9.jpg" height="auto" width="600">
     <em> Mar 6th of 2022, we were celebrating for yeye's birthday</em>
@@ -51,7 +51,7 @@ I celebrated with my friends after my PhD defense (not exactly, after I can be r
 
 <p align="center">
   <img alt="img-name" src="{{ site.baseurl }}/images/combined11.jpg" height="auto" width="600">
-    <em> 25th June of 2022, a vocation resort</em>
+    <em> 25th June of 2022, a vocation resort with barbecue, swimming pool and Board games</em>
 </p>
 
 
