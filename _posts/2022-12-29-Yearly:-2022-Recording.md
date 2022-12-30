@@ -42,6 +42,11 @@ Yeye was about to start her new job!
     <em> 5th April of 2022, A trip to zhiwuyuan, we were playing childhood game</em>
 </p>
 
+<p align="center">
+  <img alt="img-name" src="{{ site.baseurl }}/images/combined7.jpg" height="400" width="auto">
+    <em> 3rd May of 2022, early summer at beihai park</em>
+</p>
+
 
 
 
