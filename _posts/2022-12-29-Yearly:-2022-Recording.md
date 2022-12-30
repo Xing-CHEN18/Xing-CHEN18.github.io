@@ -19,7 +19,7 @@ The year of 2022 starts with an incredible idea that two ladies decided to recor
 </center>
 
 <p align="center">
-  <img alt="img-name" src="{{ site.baseurl }}/images/combined1.jpg" width="300">
+  <img alt="img-name" src="{{ site.baseurl }}/images/combined1.jpg" width="330">
   <br>
     <em>caption</em>
 </p>
