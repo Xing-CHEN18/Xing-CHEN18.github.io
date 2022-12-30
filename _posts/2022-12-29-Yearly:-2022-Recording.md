@@ -9,7 +9,7 @@ I truely appreciate the time that I spent with my dear friends. Revisiting thoes
 
 The year of 2022 starts with an incredible idea that two ladies decided to record a podcast and,..., they failed to do it because they could not come up with a good name for the podcast:<
 
-[_config.yml]({{ site.baseurl }}/images/combined1.jpg){: height="330px" width="auto" }{: .align-right}
+[_config.yml]({{ site.baseurl }}/images/combined1.jpg){: height="330px" width="auto" aligh="right"}
 
 ![_config.yml]({{ site.baseurl }}/images/combined1.jpg){: height="330px" width="auto" }
 *Space*
