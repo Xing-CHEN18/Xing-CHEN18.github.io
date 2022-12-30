@@ -18,6 +18,12 @@ The year of 2022 starts with an incredible idea that two ladies decided to recor
 | *Space* |
 </center>
 
+<p align="center">
+  <img alt="img-name" src="{{ site.baseurl }}/images/combined1.jpg" width="300">
+  <br>
+    <em>caption</em>
+</p>
+
 
 ## 2022 is the year of facing unpredictiable changes
 
