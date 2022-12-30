@@ -11,7 +11,7 @@ The year of 2022 starts with an incredible idea that two ladies decided to creat
 
 <p align="center">
   <img alt="img-name" src="{{ site.baseurl }}/images/combined1.jpg" height="320" width="auto">
-    <em>Selfie in Jan 1st of 2022 (Left: at home; Right: at Temple of Heaven 天坛)</em>
+    <em>Selfie with yeye in Jan 1st of 2022 (Left: at home; Right: at Temple of Heaven 天坛)</em>
 </p>
 
 The year of 2022 is about many Four-Person Board:
@@ -29,7 +29,7 @@ The year of 2022 is about many Four-Person Board:
 Yeye was about to start her new job!
 <p align="center">
   <img alt="img-name" src="{{ site.baseurl }}/images/72.jpg" height="250" width="auto">
-    <em> Feb 27th of 2022, Early spring Hiking in the outskirts of Beijing</em>
+    <em> Mar 6th of 2022, we were celebrating for yeye's birthday</em>
 </p>
 
 
