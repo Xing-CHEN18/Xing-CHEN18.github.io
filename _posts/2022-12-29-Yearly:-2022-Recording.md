@@ -14,6 +14,13 @@ The year of 2022 starts with an incredible idea that two ladies decided to creat
     <em>Selfie in Jan 1st of 2022 (Left: at home; Right: at Temple of Heaven 天坛)</em>
 </p>
 
+The year of 2022 is about many leFour-Person Board:
+
+<p align="center">
+  <img alt="img-name" src="{{ site.baseurl }}/images/combined3.jpg" height="330" width="auto">
+    <em>Selfie in Jan 1st of 2022 (Left: at home; Right: at Temple of Heaven 天坛)</em>
+</p>
+
 
 ## 2022 is the year of facing unpredictiable changes
 
