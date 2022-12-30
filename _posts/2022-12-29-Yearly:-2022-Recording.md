@@ -47,7 +47,7 @@ Yeye was about to start her new job! I love to see your happily smiling faces:D
     <em> 3rd May of 2022, early summer at beihai park</em>
 </p>
 
-I celebrated with my friends after my PhD defense (not exactly, after I was released from the confined university campus:). I got the first bouquet of flowers in my life from my girls :3. I also started my vocation mode---- without ending:-)
+I celebrated with my friends after my PhD defense (not exactly, but after I was released from the confined university campus:). I got the first bouquet of flowers in my life from my girls :3. I also started my vocation mode---- without ending:-)
 
 <p align="center">
   <img alt="img-name" src="{{ site.baseurl }}/images/combined11.jpg" height="auto" width="600">
