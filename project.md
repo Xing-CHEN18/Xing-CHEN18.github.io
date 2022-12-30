@@ -25,5 +25,4 @@ _This category of posts talks about my observations and reflections about myself
 
 -[Daily: Tunnel Vision](https://xing-chen18.github.io/Daily-Tunnel-vision/)
 
--[Daily: You Are Ready When You Are Ready](https://xing-chen18.github.io/Daily-You-are-ready-when-you-are-ready/)
--
+- [Daily: You Are Ready When You Are Ready](https://xing-chen18.github.io/Daily-You-are-ready-when-you-are-ready/)
