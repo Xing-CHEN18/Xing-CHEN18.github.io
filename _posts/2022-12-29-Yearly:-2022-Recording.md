@@ -33,7 +33,7 @@ Yeye was about to start her new job!
 </p>
 
 <p align="center">
-  <img alt="img-name" src="{{ site.baseurl }}/images/combined1.jpg" height="250" width="auto">
+  <img alt="img-name" src="{{ site.baseurl }}/images/combined6.jpg" height="250" width="auto">
     <em> 2rd April of 2022, celebrating for baioo's birthday</em>
 </p>
 
