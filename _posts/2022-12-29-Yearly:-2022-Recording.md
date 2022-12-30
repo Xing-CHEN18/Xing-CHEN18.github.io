@@ -51,6 +51,13 @@ Yeye was about to start her new job!
 ## 2022 is the year of PhD graduation
 
 
+<p align="center">
+  <img alt="img-name" src="{{ site.baseurl }}/images/combined11.jpg" height="auto" width="600">
+    <em> 24th May of 2022, I did my PhD defence!</em>
+</p>
+
+
+
 ## 2022 is the year of facing unpredictable changes
 
 
