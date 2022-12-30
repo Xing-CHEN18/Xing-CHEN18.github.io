@@ -47,6 +47,13 @@ Yeye was about to start her new job!
     <em> 3rd May of 2022, early summer at beihai park</em>
 </p>
 
+I celebrated with my friends after my PhD defense (not exactly, after I can be released from the confined university campus). I got the first bouquet of flowers in my life
+
+<p align="center">
+  <img alt="img-name" src="{{ site.baseurl }}/images/combined11.jpg" height="auto" width="600">
+    <em> 25th June of 2022, a vocation resort</em>
+</p>
+
 
 ## 2022 is the year of PhD graduation
 
