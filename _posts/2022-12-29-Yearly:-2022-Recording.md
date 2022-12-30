@@ -10,7 +10,7 @@ I truely appreciate the time that I spent with my dear friends. Revisiting thoes
 The year of 2022 starts with an incredible idea that two ladies decided to create a podcast and,..., they failed to do it because they could not come up with a good name for the podcast:<
 
 <p align="center">
-  <img alt="img-name" src="{{ site.baseurl }}/images/combined1.jpg" height="320" width="auto">
+  <img alt="img-name" src="{{ site.baseurl }}/images/combined1.jpg" height="250" width="auto">
     <em>Selfie with yeye in Jan 1st of 2022 (Left: at home; Right: at Temple of Heaven 天坛)</em>
 </p>
 
