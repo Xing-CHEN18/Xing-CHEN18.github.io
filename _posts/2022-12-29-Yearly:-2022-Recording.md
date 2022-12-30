@@ -28,17 +28,17 @@ The year of 2022 is about many Four-Person Board:
 
 Yeye was about to start her new job!
 <p align="center">
-  <img alt="img-name" src="{{ site.baseurl }}/images/combined9.jpg" height="300" width="auto">
+  <img alt="img-name" src="{{ site.baseurl }}/images/combined9.jpg" height="auto" width="600">
     <em> Mar 6th of 2022, we were celebrating for yeye's birthday</em>
 </p>
 
 <p align="center">
-  <img alt="img-name" src="{{ site.baseurl }}/images/combined6.jpg" height="250" width="auto">
+  <img alt="img-name" src="{{ site.baseurl }}/images/combined6.jpg" height="auto" width="600">
     <em> 2rd April of 2022, celebrating for baioo's birthday</em>
 </p>
 
 <p align="center">
-  <img alt="img-name" src="{{ site.baseurl }}/images/combined7.jpg" height="250" width="auto">
+  <img alt="img-name" src="{{ site.baseurl }}/images/combined7.jpg" height="auto" width="600">
     <em> 5th April of 2022, A trip to zhiwuyuan, we were playing childhood game</em>
 </p>
 
