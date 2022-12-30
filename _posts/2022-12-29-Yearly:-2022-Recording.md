@@ -28,9 +28,10 @@ The year of 2022 is about many Four-Person Board:
 
 Yeye was about to start her new job!
 <p align="center">
-  <img alt="img-name" src="{{ site.baseurl }}/images/combined5.jpg" height="280" width="auto">
+  <img alt="img-name" src="{{ site.baseurl }}/images/72.jpg" height="250" width="auto">
     <em> Feb 27th of 2022, Early spring Hiking in the outskirts of Beijing</em>
 </p>
+
 
 
 
