@@ -2,9 +2,9 @@
 
 _This is related to my research topics_
 
--[Project: What Is And Why Reservoir Computing](https://xing-chen18.github.io/Project-What-is-and-why-Reservoir-Computing/)
+- [Project: What Is And Why Reservoir Computing](https://xing-chen18.github.io/Project-What-is-and-why-Reservoir-Computing/)
 
--[How does FFT helps in micromagnetic simulations](https://xing-chen18.github.io/My-PhD/)
+- [How does FFT helps in micromagnetic simulations](https://xing-chen18.github.io/My-PhD/)
 
 ## Observation and reflection
 _This category shows some technical ideas_ 
