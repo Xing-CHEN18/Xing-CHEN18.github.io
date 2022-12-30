@@ -10,6 +10,10 @@ The year of 2022 initiates with an incredible idea that two ladies decided to re
 
 ![_config.yml]({{ site.baseurl }}/images/combined1.jpg){: height="330px" width="auto"}
 
+|![_config.yml]({{ site.baseurl }}/images/combined1.jpg){: height="330px" width="auto"}| 
+|:--:| 
+| *Space* |
+
 ## 2022 is the year of facing unpredictiable changes
 
 
