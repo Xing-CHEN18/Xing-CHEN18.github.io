@@ -47,11 +47,18 @@ Yeye was about to start her new job! I love to see your happily smiling faces:D
     <em> 3rd May of 2022, early summer at beihai park</em>
 </p>
 
-I celebrated with my friends after my PhD defense (not exactly, after I can be released from the confined university campus). I got the first bouquet of flowers in my life from my girls :3. I also started my vocation mode---- without ending:-)
+I celebrated with my friends after my PhD defense (not exactly, after I was released from the confined university campus:). I got the first bouquet of flowers in my life from my girls :3. I also started my vocation mode---- without ending:-)
 
 <p align="center">
   <img alt="img-name" src="{{ site.baseurl }}/images/combined11.jpg" height="auto" width="600">
     <em> 25th June of 2022, a vocation resort with barbecue, swimming pool and Board games</em>
+</p>
+
+Finally, I was able to spend a casual and relaxing summer. With some bits of anxieties, I didn't know how much uncertainty I was going to face. But, I would like to miss and memorize that unique summer, in the following winter.
+
+<p align="center">
+  <img alt="img-name" src="{{ site.baseurl }}/images/combined12.jpg" height="auto" width="600">
+    <em> 3rd July of 2022, at Dongjiaominxiang-东交民巷, which witnessed the birth of a playwright/em>
 </p>
 
 
@@ -59,7 +66,7 @@ I celebrated with my friends after my PhD defense (not exactly, after I can be r
 
 
 <p align="center">
-  <img alt="img-name" src="{{ site.baseurl }}/images/combined11.jpg" height="auto" width="600">
+  <img alt="img-name" src="{{ site.baseurl }}/images/combined8.jpg" height="auto" width="600">
     <em> 24th May of 2022, I did my PhD defence!</em>
 </p>
 
