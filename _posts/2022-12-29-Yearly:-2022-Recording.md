@@ -21,6 +21,10 @@ The year of 2022 is about many Four-Person Board:
     <em>Selfie in Jan 3rd of 2022, we were doing ice skating in Summer Palace 颐和园</em>
 </p>
 
+<p align="center">
+  <img alt="img-name" src="{{ site.baseurl }}/images/combined3.jpg" height="370" width="auto">
+    <em> Feb 17th of 2022, my birthday party</em>
+</p>
 
 ## 2022 is the year of facing unpredictiable changes
 
