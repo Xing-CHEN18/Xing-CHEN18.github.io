@@ -43,7 +43,7 @@ Yeye was about to start her new job!
 </p>
 
 <p align="center">
-  <img alt="img-name" src="{{ site.baseurl }}/images/combined7.jpg" height="400" width="auto">
+  <img alt="img-name" src="{{ site.baseurl }}/images/combined7.jpg" height="200" width="auto">
     <em> 3rd May of 2022, early summer at beihai park</em>
 </p>
 
