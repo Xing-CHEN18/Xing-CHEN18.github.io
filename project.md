@@ -9,20 +9,20 @@ _This is related to my research topics_
 ## Observation and reflection
 _This category shows some technical ideas_ 
 
--[Daily: Why Not Drink Hot Water From Tap](https://xing-chen18.github.io/Daily-Why-not-drink-hot-water-from-tap/)
+- [Daily: Why Not Drink Hot Water From Tap](https://xing-chen18.github.io/Daily-Why-not-drink-hot-water-from-tap/)
 
--[Know How: Git Usage](https://xing-chen18.github.io/know-how-Git-usage/)
+- [Know How: Git Usage](https://xing-chen18.github.io/know-how-Git-usage/)
 
--[Daily: How Does A Ticket Work](https://xing-chen18.github.io/Daily-How-does-a-ticket-work/)
+- [Daily: How Does A Ticket Work](https://xing-chen18.github.io/Daily-How-does-a-ticket-work/)
 
--[Daily: Why Eu Countries Do Not Use Qr Code Payment As China Does](https://xing-chen18.github.io/Daily-Why-Eu-countries-do-not-use-QR-code-payment-as-China-does/)
+- [Daily: Why Eu Countries Do Not Use Qr Code Payment As China Does](https://xing-chen18.github.io/Daily-Why-Eu-countries-do-not-use-QR-code-payment-as-China-does/)
 
 
 ## Great Life project
 _This category of posts talks about my observations and reflections about myself, my life, etc._
 
--[Yearly: 2022 Recording](https://xing-chen18.github.io/Yearly-2022-Recording/)
+- [Yearly: 2022 Recording](https://xing-chen18.github.io/Yearly-2022-Recording/)
 
--[Daily: Tunnel Vision](https://xing-chen18.github.io/Daily-Tunnel-vision/)
+- [Daily: Tunnel Vision](https://xing-chen18.github.io/Daily-Tunnel-vision/)
 
 - [Daily: You Are Ready When You Are Ready](https://xing-chen18.github.io/Daily-You-are-ready-when-you-are-ready/)
