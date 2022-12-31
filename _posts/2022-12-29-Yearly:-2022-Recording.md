@@ -76,8 +76,16 @@ Finally, I was able to spend a casual and relaxing summer. With some bits of anx
     <em> 9th July of 2022, outdoor bengdi and qingshuiyan first try </em>
 </p>
 
-For the first time I experienced
 
+<p align="center">
+  <img alt="img-name" src="{{ site.baseurl }}/images/combined16.jpg" height="auto" width="600">
+    <em> 10th July of 2022, at zhiwuyuan1 </em>
+</p>
+
+<p align="center">
+  <img alt="img-name" src="{{ site.baseurl }}/images/combined17.jpg" height="auto" width="600">
+    <em> 10th July of 2022, at zhiwuyuan2 </em>
+</p>
 
 
 ## 2022 is the year of PhD graduation
