@@ -6,7 +6,7 @@ I know that hot water from taps is not good to drink and cook long time ago, but
 
 So, do remind your friend next time;)
 
-![_config.yml]({{ site.baseurl }}/images/hot-and-cold-water.png){: height="400px" width="auto"}
+![_config.yml]({{ site.baseurl }}/images/hot-and-cold-water.png)
 
 References:
 1. [https://www.denverwater.org/tap/psa-dont-drink-or-cook-with-hot-water-from-the-tap#:~:text=Well%2C%20because%20your%20hot%20water,pipes%20faster%20than%20cold%20water.](https://www.denverwater.org/tap/psa-dont-drink-or-cook-with-hot-water-from-the-tap#:~:text=Well%2C%20because%20your%20hot%20water,pipes%20faster%20than%20cold%20water.)
