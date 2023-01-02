@@ -8,7 +8,7 @@ Have you ever thought about why such a small ticket (even including the transfer
 
 Magnetic stripes are actually used in many applications and everywhere: bank cards (credit, debit, and ATM), Airline tickets, Boarding pass, transit (bus or train) ticket and so on.
 
-![_config.yml]({{ site.baseurl }}/images/ticket.png){: height="300px" width="auto"}
+![_config.yml]({{ site.baseurl }}/images/ticket.png)
 
 In a broader sense, magnetic recording is a widely-used and fastly-developed technology. From the outdated audio casette, [magnetic tapes](https://en.wikipedia.org/wiki/Magnetic_tape), to the up-to-date [Hard-Disk-drive](https://en.wikipedia.org/wiki/Hard_disk_drive) for massive data storage, they are changing and revolurevolutionizing the way we interacte with information. 
 
