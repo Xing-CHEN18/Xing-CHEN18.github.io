@@ -3,7 +3,7 @@ published: true
 ---
 
 One of the most important things for the year of 2022 is to do the recording.
-![_config.yml]({{ site.baseurl }}/images/2022.png){: height="330px" width="auto"}
+![_config.yml]({{ site.baseurl }}/images/2022.png)
 ## 2022 is the year with friends
 I truely appreciate the time that I spent with my dear friends. Revisiting thoes pics made me remember those beautiful moments. For many days and nights, we sat around, we chatted, we had fun, we celebrated for each others' acheivements, we shared the pain and frustration,..., and I deeply felt I was listened, supported, and loved.
 
@@ -86,6 +86,7 @@ Finally, I was able to spend a casual and relaxing summer. With some bits of anx
   <img alt="img-name" src="{{ site.baseurl }}/images/combined17.jpg" height="auto" width="600">
     <em> 10th July of 2022, at zhiwuyuan2 </em>
 </p>
+
 
 
 ## 2022 is the year of PhD graduation
