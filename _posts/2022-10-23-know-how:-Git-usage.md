@@ -41,8 +41,8 @@ References:
 > $ touch README.md
 
 2. Then add, commit and push the changes:
-> $ git add .
-  $ git commit -m "added readme"
+> $ git add . <br/> 
+  $ git commit -m "added readme"  <br/> 
   $ git push origin main
 
 
