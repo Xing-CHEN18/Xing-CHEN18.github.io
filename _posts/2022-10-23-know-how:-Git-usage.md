@@ -18,7 +18,7 @@ published: true
 5. At the top of your repository on GitHub.com's Quick Setup page, click  to copy the remote repository URL.
 
 6. In the Command prompt, add the URL for the remote repository where your local repository will be pushed.
-> $ git remote add origin <REMOTE_URL> <br/> 
+> $ git remote add origin _REMOTEURL_ <br/> 
   $ git remote -v  <br/>
   #Verifies the new remote URL  
 
