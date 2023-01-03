@@ -57,6 +57,11 @@ References:
 3. To push the current branch and set the remote as upstream.
 > $ git push --set-upstream origin main
 
+## Clone from a remote repository:
+
+> $ git clone _REMOTEURL_
+
+
 ## Push git cloned repository to your own on GitHub:
 
 1. First you need to remove the remote repository associated using git remote rm origin
