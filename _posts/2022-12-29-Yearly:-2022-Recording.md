@@ -94,8 +94,9 @@ Finally, I was able to spend a casual and relaxing summer. With some bits of anx
 在我有关2022下半年的堪称坎坷曲折的叙事中，也是我的朋友，女性友谊在陪伴我，拯救我。我在法国最初的两个多月，借住在一位很久没见的印度朋友那里，当初她听到了我的遭遇后二话不说答应了我的请求和她住在了一起。在我找工作陷入自我怀疑迷茫之时，也是借住在现在荷兰工作的本科时期的室友那里，听她的建议，和她交换想法，她同时也请假陪我休闲娱乐，游泳，给我做她最拿手的饭。
 
 
-
 ## 2022 is the year of traveling
+
+因为
 
 ## 2022 is the year of PhD graduation
 
@@ -106,10 +107,6 @@ Finally, I was able to spend a casual and relaxing summer. With some bits of anx
 </p>
 
 
-## 2022 is the year of facing unpredictable changes
-
-changes in my professional carrer
-
 
 ## 2022 is the year of changes in my perceptions and ideas
 
@@ -117,4 +114,4 @@ changes in my professional carrer
 ## 2022 is the year of getting to know myself better
 
 
-## 
+## 2023 will be the year of being more creative and 
