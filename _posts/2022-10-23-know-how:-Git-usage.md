@@ -58,7 +58,6 @@ References:
 > $ git push --set-upstream origin main
 
 ## Clone from a remote repository:
-
 > $ git clone _REMOTEURL_
 
 
