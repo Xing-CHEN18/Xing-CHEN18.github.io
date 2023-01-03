@@ -36,7 +36,15 @@ References:
 > $ git pull origin main
 
 ## To add the README file locally:
-> $ git pull origin main
+
+1. First creat the README.md:
+> $ touch README.md
+
+2. Then add, commit and push the changes:
+> $ git add .
+  $ git commit -m "added readme"
+  $ git push origin main
+
 
 ## To sync with the local, push changes from the local to remote:
 
