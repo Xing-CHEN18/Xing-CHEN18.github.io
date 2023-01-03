@@ -87,7 +87,15 @@ Finally, I was able to spend a casual and relaxing summer. With some bits of anx
     <em> 10th July of 2022, at zhiwuyuan2 </em>
 </p>
 
+回忆起上半年还在北京的日子，我脑海中浮现的大都是和你们有关的时光。在我那时被毕业论文折磨的痛不欲生的日子里，我曾以为这段痛苦的经历必定会是刻骨铭心的。但我发现我错了，记忆是可以被篡改的，从我完成了我的博士论文答辩的那一刻起，我就已与过去的痛苦握手言和了，好像那些坎儿真的走过了，也就不过如此。
 
+有能够互相理解和支持的朋友真的很好，不仅仅是因为我们共同创造的很多快乐，而是友情帮我打开了自己，使我因此能够放下很多执念不去计较一些其他的得失，从而成为更加丰富和完整的人。我真心意识到并思考，当我开始拥抱和探索女性友谊，享受女性友谊带来的美好之时，我们是否有可能更加深入的结盟，一起走的更远，做更多更有影响力的事情。
+
+在我有关2022下半年的堪称坎坷曲折的叙事中，也是我的朋友，女性友谊在陪伴我，拯救我。我在法国最初的两个多月，借住在一位很久没见的印度朋友那里，当初她听到了我的遭遇后二话不说答应了我的请求和她住在了一起。在我找工作陷入自我怀疑迷茫之时，也是借住在现在荷兰工作的本科时期的室友那里，听她的建议，和她交换想法，她同时也请假陪我休闲娱乐，游泳，给我做她最拿手的饭。
+
+
+
+## 2022 is the year of traveling
 
 ## 2022 is the year of PhD graduation
 
@@ -98,10 +106,15 @@ Finally, I was able to spend a casual and relaxing summer. With some bits of anx
 </p>
 
 
-
 ## 2022 is the year of facing unpredictable changes
 
+changes in my professional carrer
 
-## 2022 is the year of traveling
 
-## 2022 is the year of
+## 2022 is the year of changes in my perceptions and ideas
+
+
+## 2022 is the year of getting to know myself better
+
+
+## 
