@@ -114,4 +114,4 @@ Finally, I was able to spend a casual and relaxing summer. With some bits of anx
 ## 2022 is the year of getting to know myself better
 
 
-## 2023 will be the year of being more creative and 
+## 2023 will be the year of being more creative and productive
