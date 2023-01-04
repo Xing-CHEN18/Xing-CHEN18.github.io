@@ -96,7 +96,7 @@ Finally, I was able to spend a casual and relaxing summer. With some bits of anx
 
 ## 2022 is the year of traveling
 
-因为
+2022年下半年在欧洲四处旅行的日子，像是偷来的一样。就好像我在外面快活逍遥，而我的朋友依旧在北京遭受随时降临的隔离之苦。
 
 ## 2022 is the year of PhD graduation
 
