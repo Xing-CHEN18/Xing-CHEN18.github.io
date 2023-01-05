@@ -57,6 +57,10 @@ References:
 3. To push the current branch and set the remote as upstream.
 > $ git push --set-upstream origin main
 
+References:
+- [https://docs.github.com/en/get-started/quickstart/contributing-to-projects](https://docs.github.com/en/get-started/quickstart/contributing-to-projects)
+
+
 ## Clone from a remote repository:
 
 1. Using git clone cmd
@@ -65,11 +69,19 @@ References:
 
 ## Push git cloned repository to your own on GitHub:
 
-1. First you need to remove the remote repository associated using git remote rm origin
-> $ git remote rm origin
+After you have cloned a remote repository to your own repository, and then push to your own remote server, you will find a white arrow in the github repository and you cannot open it and see the contents inside. This white arrow means it is a nested folder. To remove it and show the contents, do:
 
-2. Then creat your own repository and do the above procedures.
+1. If you don't care about the history of that folder, delete locally its .git subfolder inside that folder using
+> $ rm -rf .git
 
+2. Then you would need to delete the gitlink entry:
+> $ git rm --cache sub_folder_name
+
+3. Finally, you can add, commit and push that folder content.
 
 References:
-- [https://docs.github.com/en/get-started/quickstart/contributing-to-projects](https://docs.github.com/en/get-started/quickstart/contributing-to-projects)
+- [https://stackoverflow.com/questions/62056294/github-folders-have-a-white-arrow-on-them](https://stackoverflow.com/questions/62056294/github-folders-have-a-white-arrow-on-them)
+
+
+
+
