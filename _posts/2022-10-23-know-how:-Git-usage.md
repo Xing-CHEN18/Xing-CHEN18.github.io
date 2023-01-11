@@ -44,7 +44,21 @@ References:
 > $ git add . <br/> 
   $ git commit -m "added readme"  <br/> 
   $ git push origin main
+  
 
+## To merge changes from remote to local but the local files was also changed:
+
+1. If you want remove all local changes - including files that are untracked by git - from your working copy, simply stash them:
+> $ git stash push --include-untracked
+
+2. If you don't need them anymore, you now can drop that stash:
+> $ git stash drop
+
+3. Then you can pull from remote without errors:
+> $ git pull origin main
+
+References:
+- [https://stackoverflow.com/questions/14318234/how-do-i-ignore-an-error-on-git-pull-about-my-local-changes-would-be-overwritt](https://stackoverflow.com/questions/14318234/how-do-i-ignore-an-error-on-git-pull-about-my-local-changes-would-be-overwritt)
 
 ## To sync with the local, push changes from the local to remote:
 
@@ -81,7 +95,3 @@ After you have cloned a remote repository to your own repository, and then push 
 
 References:
 - [https://stackoverflow.com/questions/62056294/github-folders-have-a-white-arrow-on-them](https://stackoverflow.com/questions/62056294/github-folders-have-a-white-arrow-on-them)
-
-
-
-
