@@ -60,6 +60,13 @@ References:
 References:
 - [https://stackoverflow.com/questions/14318234/how-do-i-ignore-an-error-on-git-pull-about-my-local-changes-would-be-overwritt](https://stackoverflow.com/questions/14318234/how-do-i-ignore-an-error-on-git-pull-about-my-local-changes-would-be-overwritt)
 
+Or 
+
+> $ git fetch
+  $ git reset --hard HEAD
+  $ git merge '@{u}'
+  
+
 ## To sync with the local, push changes from the local to remote:
 
 1. Add the updated files in your local repository, which tells Git that you want to include all of your changes in the next commit.
