@@ -62,8 +62,8 @@ References:
 
 Or 
 
-> $ git fetch 
-  $ git reset --hard HEAD 
+> $ git fetch <br/>
+  $ git reset --hard HEAD <br/>
   $ git merge '@{u}'
   
 
