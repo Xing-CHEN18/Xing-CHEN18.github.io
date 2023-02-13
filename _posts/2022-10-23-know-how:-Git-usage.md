@@ -60,7 +60,7 @@ References:
 References:
 - [https://stackoverflow.com/questions/14318234/how-do-i-ignore-an-error-on-git-pull-about-my-local-changes-would-be-overwritt](https://stackoverflow.com/questions/14318234/how-do-i-ignore-an-error-on-git-pull-about-my-local-changes-would-be-overwritt)
 
-Or 
+Or
 > $ git fetch <br/> 
   $ git reset --hard HEAD  <br/> 
   $ git merge '@{u}'
