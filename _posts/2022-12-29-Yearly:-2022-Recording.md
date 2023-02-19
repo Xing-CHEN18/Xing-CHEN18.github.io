@@ -105,6 +105,8 @@ The second half of 2022 is also about accompany and encouragement from friends d
 
 2022年下半年在欧洲四处旅行的日子，像是偷来的一样。就好像我在外面快活逍遥，而我的朋友依旧在北京遭受随时降临的隔离之苦。在这段恢复自由行走的日子里，我也深刻意识到，人需要社交，需要旅行来舒展自己，更需要自由像空气一样唾手可得。❤亚琛 ❤马赛 ❤海牙 ❤阿姆 ❤格勒 当然还有 ❤巴黎
 
+The days of traveling around Europe in the summer of 2022 felt like a stolen pleasure. It was as if I was having a carefree time outside ch while my friends were still suffering from the possibility of sudden quarantine in Beijing. Because of this back to travel freely, I deeply realized that human need social interaction, need to travel to relax, and more importantly, need freedom that is as accessible as the air. ❤ Aachen ❤ Marseille ❤ The Hague ❤ Amsterdam ❤ Groningen And of course, ❤ Paris.
+
 ## 2022 is the year of PhD graduation
 
 现在看来，博士答辩算是一个时间节点吧！这之前的几年时光里，它于我很重要，我看重它并为它全力以赴。这之后的人生，我不想再不停地设定攀登的目标，我想更多地关注自己的内心，以及更多地关心、帮助、甚至影响我能关心到的人们和能触及到的世界。
