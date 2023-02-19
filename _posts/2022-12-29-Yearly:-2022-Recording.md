@@ -89,9 +89,16 @@ Finally, I was able to spend a casual and relaxing summer. With some bits of anx
 
 回忆起上半年还在北京的日子，我脑海中浮现的大都是和你们有关的时光。在我那时被毕业论文折磨的痛不欲生的日子里，我曾以为这段痛苦的经历必定会是刻骨铭心的。但我发现我错了，记忆是可以被篡改的，从我完成了我的博士论文答辩的那一刻起，我就已与过去的痛苦握手言和了，好像那些坎儿真的走过了，也就不过如此。
 
-有能够互相理解和支持的朋友真的很好，不仅仅是因为我们共同创造的很多快乐，而是友情帮我打开了自己，使我因此能够放下很多执念不去计较一些其他的得失，从而成为更加丰富和完整的人。我真心意识到并思考，当我开始拥抱和探索女性友谊，享受女性友谊带来的美好之时，我们是否有可能更加深入的结盟，一起走的更远，做更多更有影响力的事情。
+有能够互相理解和支持的朋友真的很好，不仅仅是因为我们共同创造的很多快乐，而是友情帮我打开了自己，使我因此能够放下很多执念不去计较一些其他的得失，从而成为更加丰富和完整的人。当我享受女性友谊带来的美好之时，我也希望我们能够更加深入的结盟，一起走的更远，做更多更有影响力的事情。
 
-在我有关2022下半年的堪称坎坷曲折的叙事中，也是我的朋友，女性友谊在陪伴我，鼓励我。我在法国最初的两个多月，借住在一位很久没见的印度朋友那里，当初她听到了我的遭遇后二话不说答应了我的请求和她住在了一起，我也有幸在那两个月经常吃到最地道的印度菜。我们那时彼此亲密的分享、述说和倾听，也是一段特别而美好的时光。在我找工作陷入自我怀疑和迷茫之时，我寻求目前在荷兰工作的朋友的帮助，和她同住，听她的建议，和她交换想法，她同时也请假陪我休闲娱乐，游泳，给我做她最拿手的饭。也是这些幸福的“遭遇”让我从未对那时有点冲动意味的行为后悔过。
+在我有关2022下半年的堪称坎坷曲折的叙事中，也是我的朋友，女性友谊在陪伴我，鼓励我。我在法国最初的两个多月，借住在一位很久没见的印度朋友那里，当初她听到了我的遭遇后二话不说答应了我的请求和她住在了一起，我也有幸在那两个月经常吃到最地道的印度菜。我们那时彼此亲密的分享、述说和倾听，也构成了一段特别而美好的记忆。在我找工作陷入自我怀疑和迷茫之时，我寻求目前在荷兰工作的朋友的帮助，和她同住，听她的建议，和她交换想法，她同时也请假陪我休闲娱乐，游泳，给我做她最拿手的饭。也是这些幸福的“遭遇”让我从未对那时有点冲动意味的行为后悔过。
+
+When I recall the days I spent in Beijing during the first half of the year, most of the memories that come to mind are related to the time I spent with you all. During the painful days when I was tormented by my PhD thesis, I thought that this painful experience would be unforgettable. But I was wrong. Memories can be tampered with. From the moment I completed my doctoral defense, I made peace with the past pain, as if those struggles were truly overcome and nothing more.
+
+Having friends who can understand and support each other is really great. Not only because we have created many happy moments together, but also because friendship has opened me up and allowed me to let go of many obsessions and not worry about other gains and losses, thus becoming a richer and more complete person. I do hope we can form deeper alliances and go further together, and do more influential things.
+
+The second half of 2022 is also about accompany and encouragement from friends during difficult times. In the first two months of my stay in France, I stayed with an Indian friend whom I had not seen for a long time. When she heard about my situation, she immediately accepted to help me, and we lived together. I was lucky enough to eat the most authentic Indian food during those two months. Our intimate sharing and listening to each other during that time were also a special and beautiful experience to me. When I was searching for a job and feeling confused, I sought the help of a friend who was currently working in the Netherlands. I lived with her, listened to her advice, exchanged ideas with her, and she even took time off work to relax and do entertainment with me, e.g., swimming and cooking her best dishes for me. It was these happy "encounters" that never made me regret the somewhat impulsive decision I made at the beginning of that August.
+
 
 
 ## 2022 is the year of traveling
