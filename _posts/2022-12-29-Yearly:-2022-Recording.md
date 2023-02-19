@@ -104,7 +104,7 @@ Finally, I was able to spend a casual and relaxing summer. With some bits of anx
 
 ## 2022 is the year of getting to know myself better
 
-
+我也许不是更了解自己了，而是对自己的认知随着年纪增长而变化。我发现了自身隐秘的角落，其实也有黑暗的潜藏。这变化也影响着我对周遭世界的认知改变，对我所接受的价值观念、以及过去的自己（说过的话，做过的事）的重新审视。
 
 ## 2023 will be the year of being more creative and productive
 
