@@ -6,7 +6,7 @@ published: true
 ---
 
 
-Hi! I am currently a postdoc at Mixed Unit Of Physics CNRS/Thales, Palaiseau, France. Before that, I did my PhD graduate at Université Paris-Saclay (UPSACLAY) and at Beihang University. I was co-supervised by [Damien Querlioz](https://sites.google.com/site/damienquerlioz), [Dafiné Ravelosona](http://integnano.c2n.u-psud.fr/?page_id=146) at [Center for Nanoscience and Nanotechnology](https://www.c2n.universite-paris-saclay.fr/en/), attached to UPSACLAY. 
+Hi! I am currently a postdoc at Mixed Unit Of Physics CNRS/Thales, Palaiseau, France. Before that, I did my PhD at Université Paris-Saclay (UPSACLAY) and at Beihang University. I was co-supervised by [Damien Querlioz](https://sites.google.com/site/damienquerlioz), [Dafiné Ravelosona](http://integnano.c2n.u-psud.fr/?page_id=146) at [Center for Nanoscience and Nanotechnology](https://www.c2n.universite-paris-saclay.fr/en/), attached to UPSACLAY. 
 
 Out of research, I am also interested in drawing, listening to podcasts, hiking, etc. I am also learning piano and skating board now!
 
