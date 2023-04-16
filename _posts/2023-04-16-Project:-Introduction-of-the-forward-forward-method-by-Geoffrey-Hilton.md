@@ -13,6 +13,51 @@ Video link: [https://www.youtube.com/watch?v=NWqy_b1OvwQ&t=1612s](https://www.yo
 
 Here is a timeline about this video:
 
+2.11: **why looking for something Beyond back propagation despite its tremendous success** 
+
+and back propagation is a way of
+figuring out that gradient we're
+figuring out how much a change in the
+weight would make the system have less
+error and then you change the weight in
+proportion to how much it helps and
+obviously if it hurts you change it in
+the opposite direction
+now about propagation
+looks like the forward pass but it goes
+backwards it has to use the same
+connectivity pattern with the same
+weights but in the backwards Direction
+and it has to go backwards through the
+non-linearity of the neuron there's no
+evidence that the brain is doing that
+and there's lots of elements it's not
+doing that
+so the worst case is if you're doing
+back propagation in a recurrent net
+because then you run the recurrent net
+forwards in time
+and it outputs an answer at the end of
+running forwards in time
+and then you have to run it backwards
+through time
+in order to get all these derivatives so
+I had to change the weights
+and that's particularly problematic if
+for example if you're trying to process
+video
+you can't stop and go backwards in time
+so combined with the fact that there's
+no evidence the brain does it
+well no good evidence
+there's the problem that just for
+technology it's a mess it interrupts the
+pipelining of stuff through so you'd
+really like something like video there's
+been multiple stages of processing and
+you'd like to just pipeline the inputs
+through those multiple stages and just
+keep pipelining it through
 
 
 
