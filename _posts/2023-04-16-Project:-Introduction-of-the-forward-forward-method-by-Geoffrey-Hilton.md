@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 Here's a nice video about interview of Geoffrey Hilton on his new Forwarad Forward algorithm, which I am currently working on based on his preliminary research. This interview is pretty cool as it shows us how a great idea was generated: thousands of times of trying, large amount of reading, consistent curiosity and explorations... and also hard working.
 
