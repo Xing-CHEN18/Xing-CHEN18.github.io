@@ -19,19 +19,8 @@ Back propagation is a way of how much a change in the weight would make the syst
 
 5.16: **Explanation of the forward forward algorithm** 
 
-and so the idea of the Ford algorithm
-is that if you can divide
-the learning the process of getting the
-gradients you need into two separate
-phases you can do one of them online and
-one of them offline
-and the way you do online can be very
-simple and will allow you to just
-pipeline stuff through
-so the online phase which is meant to
-correspond to wake
-you put input into the network
-and let's take the recurrent version
+The idea of the forward forward algorithm is that if you can divide the learning the process of getting the
+gradients you need into two separate phases you can do one of them online and one of them offline. The way you do online can be very simple and will allow you to just pipeline stuff through so the online phase which is meant to correspond to wake you put input into the network and let's take the recurrent version
 input keeps coming into the network
 and what you're trying to do
 for each layer at each time step
