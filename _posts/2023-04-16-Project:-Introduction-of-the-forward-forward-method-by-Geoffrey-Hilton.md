@@ -5,7 +5,7 @@ Here's a nice video about interview of Geoffrey Hilton on his new Forwarad Forwa
 
 Video link: [https://www.youtube.com/watch?v=NWqy_b1OvwQ&t=1612s](https://www.youtube.com/watch?v=NWqy_b1OvwQ&t=1612s)
 
-The first half of this video can be pretty technique, and pre-reading of his paper is highly recommended to get better understanding of the talk.
+The first half of this video can be pretty technique, and pre-reading of his paper ([https://arxiv.org/abs/2212.13345](https://arxiv.org/abs/2212.13345)) is highly recommended to get better understanding of the talk.
 
 <p align="center">
   <img alt="img-name" src="{{ site.baseurl }}/images/Hilton.png" height="auto" width="600">
@@ -165,7 +165,9 @@ predictions
 it works almost as well if you separate
 the phases
 as opposed to interleave
-and that's quite surprising
+and that's quite surprising.
+
+
 in human learning
 certainly in the we can sleep for
 complicated Concepts that you're
