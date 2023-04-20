@@ -20,7 +20,7 @@ Back propagation is a way of how much a change in the weight would make the syst
 5.16: **Explanation of the forward forward algorithm** 
 
 The idea of the forward forward algorithm is that if you can divide the learning the process of getting the
-gradients you need into two separate phases you can do one of them online and one of them offline. The way you do online can be very simple and will allow you to just pipeline stuff through so the online phase which is meant to correspond to wake you put input into the network and let's take the recurrent version
+gradients you need into two separate phases you can do one of them online and one of them offline. The way you do online can be very simple and will allow you to just pipeline stuff through so the online phase which is meant to correspond to wake, you put input into the network and let's take the recurrent version
 input keeps coming into the network
 and what you're trying to do
 for each layer at each time step
@@ -109,3 +109,82 @@ back propagation to learn the generative
 model it's harder to learn a good
 General model
 that's a rough overview of the algorithm
+
+9.13: **Cyclying between wake/sleep or?** 
+
+okay so most of the research what I
+would do is
+the preliminary research cycle quickly
+between them because that's the obvious
+thing to do
+and later on I discovered
+well I've known for some time that with
+contraceptive learning you can separate
+the phases
+and later on I discovered it worked
+pretty well to separate the phases
+recent experiments I've done with
+predicting characters
+You can predict
+you can have it predict about a quarter
+of a million characters so it's running
+on real data trying to predict the next
+character is making predictions he's
+running with mini batches so after
+making quite a large number of
+predictions they're going to updates the
+weights and then it sees more positive
+examples it updates away scan so in all
+those phases it's just trying to get
+higher activity
+in the hidden layers
+but only if it's not already got high
+activity
+and you can predict like quarter of a
+million characters in the positive phase
+and then switch to the negative phase
+where the Network's generating its own
+string of characters
+and
+it you're now trying to get
+low activity in the hidden layers for
+the characters it's predicting
+it's looking a little window characters
+and then you run for quarter of a
+million characters like that and it
+doesn't actually have to be the same
+number anymore we've bought some
+machines it's very important to have the
+same number of things in the positive
+phase and negative phase but with this
+it isn't
+the most remarkable is
+that up to a few hundred thousand
+predictions
+it works almost as well if you separate
+the phases
+as opposed to interleave
+and that's quite surprising
+in human learning
+certainly in the we can sleep for
+complicated Concepts that you're
+learning but there's learning going on
+all the time that
+doesn't require a sleep phase well there
+is in this too if you're just running on
+positive examples
+it's changing the weights
+for all the examples where it's not
+completely obvious that this is a
+positive data
+so it will do a lot of it does a lot of
+learning in the positive phase
+but if you go on too long you fails
+catastrophically
+and people seem to be the same if I
+probably sleep for a week you'll go
+completely psychotic
+and job hallucinations and you may never
+recover
+
+
