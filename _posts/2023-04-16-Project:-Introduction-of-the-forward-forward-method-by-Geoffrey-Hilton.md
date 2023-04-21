@@ -22,7 +22,9 @@ Back propagation is a way of how much a change in the weight would make the syst
 5.16: **Explanation of the forward forward algorithm** 
 
 The idea of the forward forward algorithm is that if you can divide the learning process of getting the
-gradients you need into two separate phases, you can do one of them online and one of them offline. The way you do online can be very simple and will allow you to just pipeline stuff through so the online phase which is meant to correspond to wake where you put input into the network. let's take the recurrent version as an example: input keeps coming into the network and what you're trying to do for each layer at each time step is you're trying to make the layer of high activity or rather high enough activity so that it can figure out that this is real data so the underlying idea is, for Real data you want every layer to have high activity and for fake data what comes out we get that later you'd like every layer to have low activity, and the task of the network or the thing it's trying to achieve is not to give the correct label (as in back propagation is trying to achieve this property) but being able to tell the difference between real data and fake data at every layer by each layer having high activity for real data and no activity for fake data so each layer has its own objective function. In fact, & to be more precise we take the sum of the squares of the activities of the units in a layer, we subtract off some thresholds and then we feed that to a logistic function that simply decides what's the probability that this is a real data as opposed to fake data and if the logistical function gets a lot of input it will say it's definitely real data and so there's no need to change anything, if it's getting lots of input you won't learn on that example because it's already getting it right and that explains how you can run lots of positive examples without running any negative examples which are fake data because it'll just saturate on positive examples it's getting right. So that's what it does in the positive phase where it tries to get high sum of squared activities in every layer so that it can tell that it's real data, and in the negative phase which is run Offline (that is during sleep) the network needs to generate its own data and try to give its own data as input, where it wants to have low activity in every layer. So the network has to learn a generative model and what it's trying to do is to discriminate between real data and fake data produced by its generative model. Obviously if it can't discriminate at all then what's going to happen is the derivatives that it gets for real data and the derivatives we get for fake data will be equal and opposite so it won't learn anything, and learning will have finished. Then if you can't tell the difference between what it generates and real data, this is very like again if you know about generative adversarial Networks (GAN) except that the discriminative net that's trying to tell the difference between real and fake and the generative model that's trying to generate fake
+gradients you need into two separate phases, you can do one of them online and one of them offline. The way you do online can be very simple and will allow you to just pipeline stuff through so the online phase which is meant to correspond to wake where you put input into the network. let's take the recurrent version as an example: input keeps coming into the network and what you're trying to do for each layer at each time step is you're trying to make the layer of high activity or rather high enough activity so that it can figure out that this is real data so the underlying idea is, for Real data you want every layer to have high activity and for fake data what comes out we get that later you'd like every layer to have low activity, and the task of the network or the thing it's trying to achieve is not to give the correct label (as in back propagation is trying to achieve this property) but being able to tell the difference between real data and fake data at every layer by each layer having high activity for real data and no activity for fake data so each layer has its own objective function. 
+
+In fact, & to be more precise we take the sum of the squares of the activities of the units in a layer, we subtract off some thresholds and then we feed that to a logistic function that simply decides what's the probability that this is a real data as opposed to fake data and if the logistical function gets a lot of input it will say it's definitely real data and so there's no need to change anything, if it's getting lots of input you won't learn on that example because it's already getting it right and that explains how you can run lots of positive examples without running any negative examples which are fake data because it'll just saturate on positive examples it's getting right. So that's what it does in the positive phase where it tries to get high sum of squared activities in every layer so that it can tell that it's real data, and in the negative phase which is run Offline (that is during sleep) the network needs to generate its own data and try to give its own data as input, where it wants to have low activity in every layer. So the network has to learn a generative model and what it's trying to do is to discriminate between real data and fake data produced by its generative model. Obviously if it can't discriminate at all then what's going to happen is the derivatives that it gets for real data and the derivatives we get for fake data will be equal and opposite so it won't learn anything, and learning will have finished. Then if you can't tell the difference between what it generates and real data, this is very like again if you know about generative adversarial Networks (GAN) except that the discriminative net that's trying to tell the difference between real and fake and the generative model that's trying to generate fake
 data use the same hidden units and so they use the same hidden representations that overcomes a lot of the problems that a GAN has. On the other hand because it's not doing back propagation to learn the generative
 model it's harder to learn a good General model. That's a rough overview of the algorithm.
 
@@ -33,26 +35,30 @@ Recent experiments I've done with predicting characters. You can have it predict
 
 11.08: **How this wate/sleep phase relate to human learning** 
 
-in human learning
-certainly in the we can sleep for
-complicated Concepts that you're
-learning but there's learning going on
-all the time that
-doesn't require a sleep phase well there
-is in this too if you're just running on
-positive examples
-it's changing the weights
-for all the examples where it's not
-completely obvious that this is a
-positive data
-so it will do a lot of it does a lot of
-learning in the positive phase
-but if you go on too long you fails
-catastrophically
-and people seem to be the same if I
-probably sleep for a week you'll go
-completely psychotic
-and job hallucinations and you may never
-recover
+In human learning, we can sleep for complicated Concepts that you're learning but there's learning going on all the time that doesn't require a sleep phase well. There is in this too, if you're just running on positive examples it's changing the weights for all the examples where it's not completely obvious that this is a positive data so it does a lot of learning in the positive phase but if you go on too long you fails catastrophically and people seem to be the same if probably sleep for a week you'll go completely psychotic and you may never recover.
+
+
+11.08: **How to understand the negative data** 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
