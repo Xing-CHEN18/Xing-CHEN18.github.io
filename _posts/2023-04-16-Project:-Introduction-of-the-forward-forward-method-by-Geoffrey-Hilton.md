@@ -28,57 +28,9 @@ model it's harder to learn a good General model. That's a rough overview of the 
 
 9.13: **Cyclying between wake/sleep or?** 
 
-Most of the research what I would do is the preliminary research. cycle quickly
-between them because that's the obvious
-thing to do
-and later on I discovered
-well I've known for some time that with
-contraceptive learning you can separate
-the phases
-and later on I discovered it worked
-pretty well to separate the phases
-recent experiments I've done with
-predicting characters
-You can predict
-you can have it predict about a quarter
-of a million characters so it's running
-on real data trying to predict the next
-character is making predictions he's
-running with mini batches so after
-making quite a large number of
-predictions they're going to updates the
-weights and then it sees more positive
-examples it updates away scan so in all
-those phases it's just trying to get
-higher activity
-in the hidden layers
-but only if it's not already got high
-activity
-and you can predict like quarter of a
-million characters in the positive phase
-and then switch to the negative phase
-where the Network's generating its own
-string of characters
-and
-it you're now trying to get
-low activity in the hidden layers for
-the characters it's predicting
-it's looking a little window characters
-and then you run for quarter of a
-million characters like that and it
-doesn't actually have to be the same
-number anymore we've bought some
-machines it's very important to have the
-same number of things in the positive
-phase and negative phase but with this
-it isn't
-the most remarkable is
-that up to a few hundred thousand
-predictions
-it works almost as well if you separate
-the phases
-as opposed to interleave
-and that's quite surprising.
+Most of the research what I would do is the preliminary research. Cyclying quickly between them because that's the obvious thing to do and later on I discovered well I've known for some time that with contrastive learning you can separate the phases and later on I discovered it worked pretty well to separate the phases.
+recent experiments I've done with predicting characters. You can have it predict about a quarter of a million characters when it's running on real data and trying to predict the next character is making predictions. And it's running with mini batches, so after making quite a large number of predictions they're going to updates the weights and then it sees more positive examples it updates away scan so in all those phases it's just trying to get higher activity in the hidden layers but only if it's not already got high
+activity and you can predict like quarter of a million characters in the positive phase and then switch to the negative phase where the Network's generating its own string of characters and it you're now trying to get low activity in the hidden layers for the characters it's predicting. it's looking a little window characters and then you run for quarter of a million characters like that and it doesn't actually have to be the same number anymore we've bought some machines it's very important to have the same number of things in the positive phase and negative phase but with this it isn't the most remarkable is that up to a few hundred thousand predictions it works almost as well if you separate the phases as opposed to interleave and that's quite surprising.
 
 
 in human learning
