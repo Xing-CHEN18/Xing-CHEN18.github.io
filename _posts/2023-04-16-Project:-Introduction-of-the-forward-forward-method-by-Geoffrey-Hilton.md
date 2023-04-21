@@ -41,6 +41,15 @@ In human learning, we can sleep for complicated Concepts that you're learning bu
 
 12.17: **How to understand the negative data** 
 
+What I mean by negative data is data that you give to the system when it's running in the negative phase
+that is when it's trying to get low activity in all the hidden layers and there are many ways of generating
+negative data in the end you'd like the model itself to generate the negative data. So this is just like it was in Boltzman machines the data that the model itself generates is negative data and real data is what
+you're trying to model and once you've got a really good model, the negative data looks just like the real data so no lo longer takes place. But negative data doesn't have to be produced by the model. For example you can train it to do supervised learning by inputting both an image and the label, so now the label's part of the input not part of the output and what you're asking it to do is when I input an image with the correct label that's going to be the positive data you want to have high activity. You want to input an image with the incorrect label which I just put in by hand that's the incorrect as an incorrect label that's negative data now. It works best if you get the model to predict the label and you put in the best of the model's predictions it's not correct because then you're giving it the things it's most the mistake is most likely to make as negative data but you can put in negative data by hand and it works fine.
+
+
+
+
+
 
 
 
