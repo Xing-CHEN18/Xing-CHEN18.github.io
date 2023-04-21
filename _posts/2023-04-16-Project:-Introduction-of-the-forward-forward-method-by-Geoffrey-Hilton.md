@@ -38,7 +38,9 @@ Recent experiments I've done with predicting characters. You can have it predict
 In human learning, we can sleep for complicated Concepts that you're learning but there's learning going on all the time that doesn't require a sleep phase well. There is in this too, if you're just running on positive examples it's changing the weights for all the examples where it's not completely obvious that this is a positive data so it does a lot of learning in the positive phase but if you go on too long you fails catastrophically and people seem to be the same if probably sleep for a week you'll go completely psychotic and you may never recover.
 
 
-11.08: **How to understand the negative data** 
+12.17: **How to understand the negative data** 
+
+
 
 
 
