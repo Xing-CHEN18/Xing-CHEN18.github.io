@@ -6,7 +6,11 @@ published: true
 ---
 
 
-Hi! I am currently a postdoc at Mixed Unit Of Physics CNRS/Thales, Palaiseau, France. Before that, I did my PhD at Université Paris-Saclay (UPSACLAY) and at Beihang University. I was co-supervised by [Damien Querlioz](https://sites.google.com/site/damienquerlioz), [Dafiné Ravelosona](http://integnano.c2n.u-psud.fr/?page_id=146) at [Center for Nanoscience and Nanotechnology](https://www.c2n.universite-paris-saclay.fr/en/), attached to UPSACLAY. 
+Welcome! I am currently a postdoctoral researcher at Mixed Unit of Physics CNRS/Thales in France. I am driven by the relentless pursuit of innovation and the desire to bridge the gap between physics and machine learning.
+
+My academic journey began with a PhD at Université Paris-Saclay (UPSACLAY) and Beihang University, where I was fortunate to be co-supervised by [Damien Querlioz](https://sites.google.com/site/damienquerlioz) and [Dafiné Ravelosona](http://integnano.c2n.u-psud.fr/?page_id=146) at [Center for Nanoscience and Nanotechnology](https://www.c2n.universite-paris-saclay.fr/en/). It was during my research project at C2N in France that I discovered my passion for AI, as I tackled complex problems in reservoir computing using the unique properties of spintronic nano-devices. By leveraging machine learning techniques to create an equivalent system to the original physical design, I managed to achieve remarkable accuracy and computational efficiency.
+
+My mission is to harness the power of AI and the insights from physics-informed learning rules to drive meaningful advances in industry applications. I invite you to explore my website and learn more about my work, interests, and the exciting potential at the crossroads of these groundbreaking fields. 
 
 Out of research, I am also interested in drawing, listening to podcasts, hiking, etc. I am also learning piano and skating board now!
 
