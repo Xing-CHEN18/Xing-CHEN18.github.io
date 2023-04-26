@@ -24,10 +24,10 @@ My current research interests are about bio-plausible learning rules of neural n
 * 2019.01 &nbsp;	Oral presentation, IEEE Joint-MMM conference &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; _DC, USA_
 * 2018.05 &nbsp; Oral presentation, IEEE INTERMAG conference &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_Singapore_
 
-### Publications
+## Publications
 
 Please see my [Google Scholar](https://scholar.google.com/citations?user=_1rFPswAAAAJ&hl=zh-CN) or [Researchgate](https://www.researchgate.net/profile/Xing-Chen-26) page.
 
-### Contact me
+## Contact me
 
 [xingc217@gmail.com](mailto:xingc217@gmail.com)
