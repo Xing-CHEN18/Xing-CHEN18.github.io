@@ -15,12 +15,12 @@ My current research interests are about bio-plausible learning rules of neural n
 
 ### Academic Exchange & Experience
 
-* 2022.11 	Finalist for **"Best student presentation award"**, IEEE JMMM  &nbsp        Minneapolis, USA
-* 2021.09 	Six-months Research Intern, AI lab of Huawei Technology                       Beijing, China
-* 2018.07 	Machine Learning Summer School (with scholarship)                           Technion, Israel
-* 2019.06 	IEEE magnetics Summer school (full scholarship)                                 Virgina, USA
-* 2019.01 	Oral presentation, IEEE Joint-MMM conference                                         DC, USA
-* 2018.05 	Oral presentation, IEEE INTERMAG conference                                        Singapore
+* 2022.11 	Finalist for **"Best student presentation award"**, IEEE JMMM  &nbsp        _Minneapolis, USA_
+* 2021.09 	Six-months Research Intern, AI lab of Huawei Technology                       _Beijing, China_
+* 2018.07 	Machine Learning Summer School (with scholarship)                           _Technion, Israel_
+* 2019.06 	IEEE magnetics Summer school (full scholarship)                                 _Virgina, USA_
+* 2019.01 	Oral presentation, IEEE Joint-MMM conference                                         _DC, USA_
+* 2018.05 	Oral presentation, IEEE INTERMAG conference                                        _Singapore_
 
 ### Publications
 
