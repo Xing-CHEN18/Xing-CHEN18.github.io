@@ -15,7 +15,7 @@ My current research interests are about bio-plausible learning rules of neural n
 
 ### Academic Exchange & Experience
 
-* 2022.11 	Oral presentation, IEEE Joint-MMM conference
+* 2022.11 	Oral presentation, IEEE MMM conference
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Finalist for **"Best student presentation award"**,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; _Minneapolis, USA_
 * 2021.09 	Six-months Research Intern, AI lab of Huawei Technology &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; _Beijing, China_
