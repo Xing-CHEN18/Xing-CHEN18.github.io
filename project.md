@@ -1,13 +1,13 @@
-## Research
+## Research on Research
 
-_This is related to my research topics_
+_These are really related to my research topics_
 
 - [Project: What Is And Why Reservoir Computing](https://xing-chen18.github.io/Project-What-is-and-why-Reservoir-Computing/)
 
 - [How does FFT helps in micromagnetic simulations](https://xing-chen18.github.io/My-PhD/)
 
-## Observation and reflection
-_This category shows some technical ideas_ 
+## Research on random things
+_I want to know more about other things_ 
 
 - [Daily: Why Not Drink Hot Water From Tap](https://xing-chen18.github.io/Daily-Why-not-drink-hot-water-from-tap/)
 
@@ -18,8 +18,8 @@ _This category shows some technical ideas_
 - [Daily: Why Eu Countries Do Not Use Qr Code Payment As China Does](https://xing-chen18.github.io/Daily-Why-Eu-countries-do-not-use-QR-code-payment-as-China-does/)
 
 
-## Great Life project
-_This category of posts talks about my observations and reflections about myself, my life, etc._
+## Research on myself
+_I want to jot down some flashing ideas_
 
 - [Yearly: 2022 Recording](https://xing-chen18.github.io/Yearly-2022-Recording/)
 
