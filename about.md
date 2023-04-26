@@ -13,7 +13,7 @@ My academic journey began with a PhD at Université Paris-Saclay (UPSACLAY) and 
 My current research interests are about bio-plausible learning rules of neural networks and their hardware implementations!
 
 
-### Academic Exchange & Experience
+## Academic Exchange & Experience
 
 * 2022.11 &nbsp;	Oral presentation, IEEE MMM conference
 
