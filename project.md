@@ -1,7 +1,7 @@
 
 
 
-I do research on:
+I do research on...
 
 ## Research on resesarch
 _These are really related to my research topics_
