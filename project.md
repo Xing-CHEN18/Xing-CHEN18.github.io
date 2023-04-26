@@ -1,9 +1,9 @@
 
 
 
+Research
 
 ## Research
-
 _These are really related to my research topics_
 
 - [Project: What Is And Why Reservoir Computing](https://xing-chen18.github.io/Project-What-is-and-why-Reservoir-Computing/)
