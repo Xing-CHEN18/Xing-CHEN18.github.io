@@ -47,104 +47,124 @@ negative data in the end you'd like the model itself to generate the negative da
 you're trying to model and once you've got a really good model, the negative data looks just like the real data so no lo longer takes place. But negative data doesn't have to be produced by the model. For example you can train it to do supervised learning by inputting both an image and the label, so now the label's part of the input not part of the output and what you're asking it to do is when I input an image with the correct label that's going to be the positive data you want to have high activity. You want to input an image with the incorrect label which I just put in by hand that's the incorrect as an incorrect label that's negative data now. It works best if you get the model to predict the label and you put in the best of the model's predictions it's not correct because then you're giving it the things it's most the mistake is most likely to make as negative data but you can put in negative data by hand and it works fine.
 
 
-18.04: **How to understand the negative data** 
+18.04: **Why Turning a static image into a boring video allows to have top-down effects** 
 
-right wish that there's no no good
-evidence of
-derivative information thrown back the
-studies these error gradients flowing
-backwards okay obviously the brain has
-top down connections if you look at the
-perceptual system there's a kind of
-forward direction that goes from
-the thalamus up to him for a temporal
-cortex where you recognize things and
-the thalamus is a sort of where the
-input comes in from the eyes
-and there's Connections in the backward
-Direction but the connection in the
-backward Direction don't look at all
-like what you'd need for back
-propagation for example in two cortical
-areas the connection is coming back
-don't go to the same cells as
-connections going forward come from
-it's not reciprocal in that sense yeah
-there's a loop between the cortical
-areas but information in one course got
-area goes through about six different
-neurons before it gets back to where it
-started
-and so it's a loop it's not uh it's not
-like a mirrored system
-okay but my question is you talk about
-turning the static image into a boring
-video that allows you to have top-down
-effects that's right yeah so you have to
-think of the being a forward Direction
-which is going from lower layers to
-higher layers
-and then orthogonal to that was the time
-dimension
-and so if I have a video even if it's a
-video of just a single thing that stays
-still
-I can be going up and down through the
-layers as I go forwards in time
-and that's what's allowing you to have
-top down effects
-okay I understood that yeah each layer
-can receive inputs from a higher layer
-in the previous time step exactly yeah
-so what a layer is doing it's receiving
-input from higher layers
-and lower layers at the previous time
-step and from itself at the previous
-time step
-and if you've got static input
-that whole process over time looks like
-a network settling down
-that's a bit more like a Baltimore
-machine settling down
-and the idea is that
-the time that you're using for that is
-the same as the time you're using for
-posting video
-and because of that
-if I give you fast input that's changing
-too fast you can never settle down to
-interpret it
-so I discovered this nice phenomenon if
-you take a new regularly shaped object
-like a potato for example a nice
-irregularly shaped potato
-and you throw it up in the air rotating
-slowly at one or two revolutions per
-second
-you cannot see what shape it is you just
-can't see the shape of it
-you don't have time to settle on a 3D
-interpretation
-because it's the very same
-time steps that you're using for posting
-videos you're using for settling with a
-static image
-and what I found fascinating about and
-maybe this is something that that is
-already
-in the literature but this idea of going
-up and down in the layers
-As you move through time
-but it's that's always been in recurrent
-Nets so to begin with recurrentness we
-just have one hidden layer so typical
-lstms and so on would have one hidden
-there and then Alex Graves
-the idea of having multiple hidden
-layers and showed that it was a winner
-so that idea has been around but it's
-always been paired with back propagation
-as the learning algorithm and in that
-case it was back propagation through
-time which was completely unrealistic
-but
+(there's no no good evidence of derivative information thrown back. Obviously the brain has top down connections if you look at the perceptual system there's a kind of forward direction that goes from the thalamus up to him for a temporal cortex where you recognize things and the thalamus is a sort of where the input comes in from the eyes and there's Connections in the backward Direction but the connection in the backward Direction don't look at all like what you'd need for back propagation for example in two cortical areas the connection is coming back don't go to the same cells as connections going forward come from it's not reciprocal in that sense. There's a loop between the cortical areas but information in one course got area goes through about six different neurons before it gets back to where it started and so it's a loop it's not and it's not like a mirrored system) 
+
+so you have to think of the being a forward Direction which is going from lower layers to higher layers
+and then orthogonal to that was the time dimension and so if I have a video even if it's a video of just a single thing that stays still, I can be going up and down through the layers as I go forwards in time
+and that's what's allowing you to have top down effects. So what a layer is doing it's receiving
+input from higher layers and lower layers at the previous time step and from itself at the previous
+time step and if you've got static input that whole process over time looks like a network settling down.
+That's a bit more like a Boltzman machine settling down and the idea is that the time that you're using for that is the same as the time you're using for posting video and because of that if I give you fast input that's changing too fast you can never settle down to interpret it. So I discovered this nice phenomenon if
+you take a new regularly shaped object like a potato for example a nice irregularly shaped potato and you throw it up in the air rotating slowly at one or two revolutions per second you cannot see what shape it is you just can't see the shape of it, you don't have time to settle on a 3D interpretation because it's the very same time steps that you're using for posting videos you're using for settling with a static image and what I found fascinating about and maybe this is something that that is already in the literature but this idea of going up and down in the layers as you move through time --it's that's always been in recurrent
+Nets. So to begin with recurrentness we just have one hidden layer so typical lstms and so on would have one hidden layer and then Alex Graves the idea of having multiple hidden layers and showed that it was a winner
+so that idea has been around but it's always been paired with back propagation as the learning algorithm and in that case it was back propagation through time which was completely unrealistic.
+
+
+21.48: **Brain is not static so you're not perceiving in a truly static fashion how much of this grew out of Simclr's contrastive learning or end grads activity differences**
+
+A couple of years ago I got very excited because I was trying to make a more biologically plausible version of things like Simclr. There's a whole bunch of things like Simclr, it wasn't the first of them in fact it's something a bit like simpler that Sue Becker and I published in about 1992 in nature but we didn't use negative examples we tried to analytically compute the negative phase and there was a mistake, it just that would never work. Once you start using negative examples then you get things like Simclr and I discovered that you could separate the phases that they didn't and that got me very excited a few years ago because
+it seemed like I only had an explanation for what sleep was for. One big difference is Simclr is taking two different Patches from the same image and if they're from the same image it's trying to make them have a similar representation, if they're from different images it's trying to make them have different representations. Once they're different it doesn't try and make them more different and when you think how to say this simply involves looking at two representations and seeing how similar they are and that's one way to measure agreement and in fact if you think about the squared difference between two vectors that decomposes into three terms the sun is to do with the square of the first vector there's something to do with the square of the second vector and then there's the scalar product of the two vectors and the scalar product of the two vectors is the only kind is the only interactive term and so it turns out that squared difference is very like a scalar product a big Square difference is like a small scale of product. Now there's a different way to measure agreement which is to take the things you'd like to agree and feed them into one set of neurons and now if two sources coming into that set of neurons agree you'll get high activity in those neurons it's like positive interference between light waves and if they disagree you'll get low activity and if you measure agreement just by the activity in a layer of neurons you're measuring an agreement between the inputs then you don't have to have two things you can have as many things as you like you don't have to divide the input into two patches and say to the representation of the two patches agree you can just say I've got a hidden letter does this hidden layer get highly active and it seems to me that's a better way to measure agreement it's easier for the brain to do and it's particularly interesting if you
+have spiking neurons because what I'm using at present doesn't use Spike Insurance it just says a hidden layer is really asking are my inputs agreeing with each other in which case I'll be highly active or
+are they disagree in which case I won't but if the inputs arrive at specific times very precise times like spikes do then you can ask not just other stem neurons being stimulated but are they being stimulated at exactly the same time and that's a much sharper way to measure agreement so spiking neurons seem particularly good for measuring agreement which is what I need that's the objective function to get agreement in the positive phase is not in the negative phase and I'm thinking about ways of trying to
+implant you spiking neurons to make this work better but that's one big difference from Simclr that you're not taking two things and saying do they agree you're just taking all the inputs coming into a layer and saying do all those inputs agree
+
+
+when you talk about the activity that's
+similar to what you were doing with n
+grads where
+you're comparing top-down predictions
+and bottom-up predictions okay okay okay
+this when you do the recurrent version
+of the forward algorithm
+at each time step
+neurons in a Larry getting top down
+input and bottom-up input right
+and
+they'd like them to agree
+and if your objective function is to
+have high activity
+they'd like to make things highly active
+there's another version of the forward
+algorithm where the objective is to have
+low activity
+and then you want the top down to cancel
+out the bottom up
+and then it looks much more like
+predictive coding it's not quite the
+same but it's very similar but let's
+stick with the version where you're
+going for high activity you want the top
+down and bottom up to agree and give you
+high activity
+but notice that
+it's not like the top down is a
+derivative
+so in attempts to
+Implement back crop in neural Nets
+you try and have top down things which
+are like derivatives
+and bottom-up things which are like
+activities
+and you try and use temporal differences
+to give you the derivatives
+and that's somewhat different
+here everything's activities you're
+never propagated derivatives
+and this algorithm also
+
+does away with the idea of dynamic
+routing that you talked about with yes
+stacked capsule encoders yeah yes so
+with capsules I moved on from the
+dynamic routing to having what are
+called Universal capsules
+capsule would be a small collection of
+neurons
+and in the original capsules models that
+collection of neurons would only be able
+to represent one type of thing like a
+nose and a different kind of capsule
+would represent a mouse
+in Universal capsules what you'd have is
+that each capsule
+could represent any type of thing so it
+would have different activity patterns
+to represent the different kinds of
+things that might be there the capsule
+would be dedicated to a location in the
+image so a capsule will be representing
+what kind of thing you have at that
+location at a particular level of
+butthole hierarchy
+so it might be representing you that at
+the part level you have a nose
+um and then at a higher level you'd have
+other capsules that are representing
+other at the object level you have a
+face or something
+but when you get rid of the dedication
+of a bunch of neurons to a particular
+type of thing you don't need to do
+routing anymore
+and in the forward fold algorithm
+I'm not doing routine and one of the
+diagrams in the paper from the product
+is actually taken from my paper on
+pothole hierarchies my last paper on
+capsule models
+so I had a system called glom an
+imaginary system and the problem with it
+was I never had a plausible learning out
+of it and the thought algorithm is a
+plausible learning algorithm for glom is
+something that's neurally reasonable
+what was fascinating to me at least
+about capsules is that they captured the
+3D nature of reality right lots of
+neural Nets are now doing that
+so Nerf models neural Regions Field
+models
+
+
