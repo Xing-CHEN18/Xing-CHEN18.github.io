@@ -79,54 +79,12 @@ high activity but notice that it's not like the top down is a derivative so in a
 
 Yes. so with capsules I moved on from the dynamic routing to having what are called Universal capsules. Capsule would be a small collection of neurons and in the original capsules models that collection of neurons would only be able to represent one type of thing like a nose and a different kind of capsule
 would represent a mouse in Universal capsules what you'd have is that each capsule could represent any type of thing so it would have different activity patterns to represent the different kinds of things that might be there. The capsule would be dedicated to a location in the image so a capsule will be representing what kind of thing you have at that location at a particular level of butthole hierarchy so it might be representing you that at the part level you have a nose nd then at a higher level you'd have other capsules that are representing other at the object level you have a face or something but when you get rid of the dedication of a bunch of neurons to a particular type of thing you don't need to do routing anymore. And in the forward forward algorithm I'm not doing routine and one of the diagrams in the paper from the product is actually taken from my paper on pothole hierarchies my last paper on capsule models. So I had a system called glom an imaginary system and the problem with it was I never had a plausible learning out of it and the ff algorithm is a plausible learning algorithm for glom is something that's neurally reasonable.
-(What was fascinating to me at least about capsules is that they captured the 3D nature of reality) Lots of neural Nets are now doing that so Nerf models neural Regions Field models, now giving you very good 3D models in neural Nets so you can see something from a few different viewpoints and then produce an image of what it would look like from a new viewpoint that's very good for example making smooth videos from frames that are taken a quite long time intervals. but in the forward forward algorithm what's your intuition that this is the if indeed everything works out that this is a model for information processing in the cerebral cortex and that perception of depth and the 3D nature of reality would emerge in particular if I'm showing you a video and the Viewpoint is changing during the video then what you'd want is that the hidden layers should represent 3D structure. That's all pie in the sky at present go ahead reach that stage but yeah but with capsules because I think you you
-referred to pixels having depth
-so that if one object moved in front of
-another the system understood that the
-that it was behind
-the thing in front of it
-do you capture that with forward
-you would want it to learn to deal with
-that yes yeah I wouldn't wire that in
-but it's an obvious feature video that
-it should learn about with babies
-they learn in just a few days to get
-structure from motion that is if I take
-a static scene
-and I move the Observer
-or if I take keep the Observer
-stationary
-and the experiments were done with a
-piece of paper folded into a w
-and if you see it the wrong way around
-it looks weird
-and so
-experiments done by Elizabeth Stokey and
-other people use the idea that
-you can tell a lot about the perception
-of a baby by seeing what they're
-interested in because they're interested
-in things that look odd and so they'll
-pay more attention to things that look
-hard and within a few days
-they learn to deal with how 3D structure
-ought to be related to motion and if you
-make it related wrong they think it's
-weird
-so they learn that very fast whereas it
-takes them like at least six months I
-think to learn to do stereo
-to get it from the true eyes it's just
-much easier to get from video than from
-stereo but from evolutionary point of
-view if something's really easy to learn
-there's not much Point wiring it in
-you've been working in Matlab famously
-now
-on toy problems are you starting to
-scale are you still refining
-I'm doing a bit of scanning I'm using a
-GPU to make these go a bit faster but
+(What was fascinating to me at least about capsules is that they captured the 3D nature of reality) Lots of neural Nets are now doing that so Nerf models neural Regions Field models, now giving you very good 3D models in neural Nets so you can see something from a few different viewpoints and then produce an image of what it would look like from a new viewpoint that's very good for example making smooth videos from frames that are taken a quite long time intervals. (but in the forward forward algorithm what's your intuition that this is the if indeed everything works out that this is a model for information processing in the cerebral cortex and that perception of depth and the 3D nature of reality would emerge in particular if I'm showing you a video and the Viewpoint is changing during the video then what you'd want is that the hidden layers should represent 3D structure. But with capsules because I think you referred to pixels having depth so that if one object moved in front of another the system understood that the that it was behind the thing in front of it. Do you capture that with ff?) You would want it to learn to deal with that, yes I wouldn't wire that in but it's an obvious feature video that it should learn about with. Babies, they learn in just a few days to get structure from motion that is if I take a static scene and I move the Observer or if I take keep the Observer stationary and the experiments were done with a piece of paper folded into a w and if you see it the wrong way around it looks weird and so experiments done by Elizabeth Stokey and other people use the idea that you can tell a lot about the perception of a baby by seeing what they're interested in because they're interested in things that look odd and so they'll pay more attention to things that look hard and within a few days they learn to deal with how 3D structure ought to be related to motion and if you
+make it related wrong they think it's weird so they learn that very fast whereas it takes them like at least six months. I think to learn to do stereo to get it from the two eyes it's just much easier to get from video than from stereo. But from evolutionary point of view if something's really easy to learn there's not much Point wiring it in.
+
+32.54: **You've been working in Matlab famously now on toy problems, are you starting to scale or are you still refining**
+
+I'm doing a bit of scaling I'm using a GPU to make these go a bit faster but
 I'm still at the stage where there's
 very basic properties of the algorithm
 I'm exploring in particular how to
