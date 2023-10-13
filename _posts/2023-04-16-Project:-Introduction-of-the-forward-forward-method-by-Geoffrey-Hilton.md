@@ -148,30 +148,3 @@ as the learning algorithm and in that
 case it was back propagation through
 time which was completely unrealistic
 but
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
