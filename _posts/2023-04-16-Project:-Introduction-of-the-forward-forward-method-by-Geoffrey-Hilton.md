@@ -65,40 +65,16 @@ so that idea has been around but it's always been paired with back propagation a
 21.48: **Brain is not static so you're not perceiving in a truly static fashion how much of this grew out of Simclr's contrastive learning or end grads activity differences**
 
 A couple of years ago I got very excited because I was trying to make a more biologically plausible version of things like Simclr. There's a whole bunch of things like Simclr, it wasn't the first of them in fact it's something a bit like simpler that Sue Becker and I published in about 1992 in nature but we didn't use negative examples we tried to analytically compute the negative phase and there was a mistake, it just that would never work. Once you start using negative examples then you get things like Simclr and I discovered that you could separate the phases that they didn't and that got me very excited a few years ago because
-it seemed like I only had an explanation for what sleep was for. One big difference is Simclr is taking two different Patches from the same image and if they're from the same image it's trying to make them have a similar representation, if they're from different images it's trying to make them have different representations. Once they're different it doesn't try and make them more different and when you think how to say this simply involves looking at two representations and seeing how similar they are and that's one way to measure agreement and in fact if you think about the squared difference between two vectors that decomposes into three terms the sun is to do with the square of the first vector there's something to do with the square of the second vector and then there's the scalar product of the two vectors and the scalar product of the two vectors is the only kind is the only interactive term and so it turns out that squared difference is very like a scalar product a big Square difference is like a small scale of product. Now there's a different way to measure agreement which is to take the things you'd like to agree and feed them into one set of neurons and now if two sources coming into that set of neurons agree you'll get high activity in those neurons it's like positive interference between light waves and if they disagree you'll get low activity and if you measure agreement just by the activity in a layer of neurons you're measuring an agreement between the inputs then you don't have to have two things you can have as many things as you like you don't have to divide the input into two patches and say to the representation of the two patches agree you can just say I've got a hidden letter does this hidden layer get highly active and it seems to me that's a better way to measure agreement it's easier for the brain to do and it's particularly interesting if you
-have spiking neurons because what I'm using at present doesn't use Spike Insurance it just says a hidden layer is really asking are my inputs agreeing with each other in which case I'll be highly active or
-are they disagree in which case I won't but if the inputs arrive at specific times very precise times like spikes do then you can ask not just other stem neurons being stimulated but are they being stimulated at exactly the same time and that's a much sharper way to measure agreement so spiking neurons seem particularly good for measuring agreement which is what I need that's the objective function to get agreement in the positive phase is not in the negative phase and I'm thinking about ways of trying to
-implant you spiking neurons to make this work better but that's one big difference from Simclr that you're not taking two things and saying do they agree you're just taking all the inputs coming into a layer and saying do all those inputs agree
+it seemed like I only had an explanation for what sleep was for. One big difference is Simclr is taking two different Patches from the same image and if they're from the same image it's trying to make them have a similar representation, if they're from different images it's trying to make them have different representations. Once they're different it doesn't try and make them more different and when you think how to say this simply involves looking at two representations and seeing how similar they are and that's one way to measure agreement and in fact **if you think about the squared difference between two vectors that decomposes into three terms the sum is to do with the square of the first vector there's something to do with the square of the second vector and then there's the scalar product of the two vectors and the scalar product of the two vectors is the only kind is the only interactive term and so it turns out that squared difference is very like a scalar product -- a big Square difference is like a small scale of product.** Now there's a different way to measure agreement which is to take the things you'd like to agree and feed them into one set of neurons and now if two sources coming into that set of neurons agree you'll get high activity in those neurons it's like positive interference between light waves and if they disagree you'll get low activity and if you measure agreement just by the activity in a layer of neurons you're measuring an agreement between the inputs then you don't have to have two things you can have as many things as you like you don't have to divide the input into two patches and say to the representation of the two patches agree you can just say I've got a hidden layer, does this hidden layer get highly active and it seems to me that's a better way to measure agreement it's easier for the brain to do and it's particularly interesting if you
+have spiking neurons because what **I'm using at present doesn't use Spike inputs it just says a hidden layer is really asking are my inputs agreeing with each other in which case I'll be highly active or
+are they disagree in which case I won't but if the inputs arrive at specific times very precise times like spikes do then you can ask not just the same neurons being stimulated but are they being stimulated at exactly the same time and that's a much sharper way to measure agreement so spiking neurons seem particularly good for measuring agreement** which is what I need that's the objective function to get agreement in the positive phase is not in the negative phase and I'm thinking about ways of trying to
+implement spiking neurons to make this work better but that's one big difference from Simclr that you're not taking two things and saying do they agree you're just taking all the inputs coming into a layer and saying do all those inputs agree. 
+
+When you talk about the activity that's similar to what you were doing with **end grads** where you're comparing top-down predictions and bottom-up predictions.
 
 
-when you talk about the activity that's
-similar to what you were doing with n
-grads where
-you're comparing top-down predictions
-and bottom-up predictions okay okay okay
-this when you do the recurrent version
-of the forward algorithm
-at each time step
-neurons in a Larry getting top down
-input and bottom-up input right
-and
-they'd like them to agree
-and if your objective function is to
-have high activity
-they'd like to make things highly active
-there's another version of the forward
-algorithm where the objective is to have
-low activity
-and then you want the top down to cancel
-out the bottom up
-and then it looks much more like
-predictive coding it's not quite the
-same but it's very similar but let's
-stick with the version where you're
-going for high activity you want the top
-down and bottom up to agree and give you
-high activity
-but notice that
+When you do the recurrent version of the forward algorithm, at each time step neurons in a layer getting top down input and bottom-up input and they'd like them to agree and if your objective function is to have high activity they'd like to make things highly active. There's another version of the forward algorithm where the objective is to have low activity and then you want the top down to cancel out the bottom up and then it looks much more like predictive coding it's not quite the same but it's very similar. But let's stick with the version where you're going for high activity you want the top down and bottom up to agree and give you
+high activity but notice that
 it's not like the top down is a
 derivative
 so in attempts to
