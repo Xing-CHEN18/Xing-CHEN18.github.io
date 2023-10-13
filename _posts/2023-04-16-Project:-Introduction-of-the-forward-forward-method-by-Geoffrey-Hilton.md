@@ -84,81 +84,632 @@ make it related wrong they think it's weird so they learn that very fast whereas
 
 32.54: **You've been working in Matlab famously now on toy problems, are you starting to scale or are you still refining**
 
-I'm doing a bit of scaling I'm using a GPU to make these go a bit faster but
-I'm still at the stage where there's
-very basic properties of the algorithm
-I'm exploring in particular how to
-generate negative data effectively from
-the model
-and until I've got the sort of basic
-stuff working nicely
-I think it's silly to scale it up as
-soon as you scale it up it's slower to
-investigate changes in the basic
-algorithm and I'm still at the stage
-where there's lots and lots of different
-things I want to investigate for example
-here's just one little thing that I
-haven't had time to invest in yet you
-can use
-as your objective function to have high
-activity
-in the positive phase and low activity
-in the negative phase
-and if you do that it'll find nice
-features in the hidden units
-or you can have a zero objective
-function to have low activity in the
-positive phase
-if you do that it'll find nice
+I'm doing a bit of scaling I'm using a GPU to make these go a bit faster but I'm still at the stage where there's very basic properties of the algorithm I'm exploring in particular how to generate negative data effectively from the model and until I've got the sort of basic stuff working nicely. I think it's silly to scale it up as soon as you scale it up it's slower to investigate changes in the basic algorithm and I'm still at the stage where there's lots and lots of different things I want to investigate, for example here's just one little thing that I haven't had time to invest in yet you can use as your objective function to have high activity in the positive phase and low activity in the negative phase and if you do that it'll find nice features in the hidden units or you can have a zero objective function to have low activity in the
+positive phase. If you do that it'll find nice constraints if you think about what physicists do they try and understand nature by finding apparently different things that add up to zero. Another way of saying is that they're equal and opposite but if you take force and you subtract mass times acceleration you get zero
+but that's a constraint. So if you have two sorts of information one of which is force and the other
+which is mass times acceleration you'd like to have hidden units that see both those inputs and that say zero no activity and then when they see things that don't fit the physics they'll have high activity they'll be the negative data, so that's called a constraint and so if you make your objective function have low activity for real things and high activity for things that aren't real you'll find constraints in the data as opposed to features. So features are things that have high variance and constraints of things that have low variance. A feature something that's got higher variance and it should have constrained as low variance than it should now there's no reason why you shouldn't have two types of neurons one's looking for features and one's looking for constraints and we know with just linear models that a method like principal  components analysis looks for the directions in the space at the highest variance they're like features 
+
+and it's very stable
+there's other methods like minor
+components analysis that look for
+directions in the space that have the
+lowest variance they're looking for
 constraints
-if you think about what physicists do
-they try and understand nature
-by finding apparently different things
-that add up to zero
-another way of saying is that they're
-equal and opposite but
-if you take force and you subtract mass
-times acceleration you get zero
-but that's a constraint
-okay
-so if you have two sorts of information
-one of which is force and the other
-which is mass times acceleration
-you'd like to
-have hidden units that see both those
-inputs and that say zero
-no activity
-and then when they see things that don't
-fit the physics
-they'll have high activity they'll be
-the negative data
-so that's called a constraint
-and so if you make your objective
-function B have low activity for real
-things and high activity for
-things that aren't real you'll find
-constraints in the data as opposed to
-features
-so features are things that have high
-variance and constraints of things that
-have low variance
-a feature something that's got higher
-variance and it should have constrained
-as low various than it should now
-there's no reason why you shouldn't
-have two types of neurons one's looking
-for features and one's looking for
-constraints
-and we know with just linear models
+they're less numerically stable
+but we know that it pays to have both
+
+and so that for example is a direction
+that might make things work better but
+there's lots
+there's about 20 things like that I need
+to investigate
+and my feeling is until I've got a good
+recipe for whether you should use
+features or constraints or both
+what's the most effective way to
+generate negative data and so on
+it's premature to investigate really big
+systems
+with regard to really big systems one of
+the things you talk about is the need
+for a new kind of computer and I've seen
+confusion about this too in the Press
+I've seen people talk about how you talk
+about getting rid of the annoyman
+yeah you obviously want computers where
+the hardware and software are separate
+yeah and you want them to do things like
+keep track of your bank account
+this is for things that where we want
+computers to be like people to process
+natural language to process vision all
+those things that
+some years ago Bill Gates said computers
+couldn't do like they're blind and deaf
+they're not blind and deaf anymore but
+for processing natural language or doing
+motor control or doing Common Sense
+reasoning
+we probably want a different kind of
+computer if we want to do a very low
+energy
+we need to make much better use of all
+the properties of the hardware your
+interest is understanding the brain well
+I have a side interest in getting low
+energy computation going and the point
+about the forward forward is it works
+when you don't have a good model of the
+hardware so if for example I take a a
+neural net and I insert a black box so I
+have a layer that's just a black box I
+have no idea how it works
+it does stochastic things
+I don't know what's going on
+the question is can the whole system
+learn with that black box in there
+and it has absolutely no problem you've
+done something different because the
+black box is changing what happens on
+the forward pass
+but the point is it's changing into
+exactly the same way for both forward
+passes so it all cancels out
+whereas in back propagation you're
+completely sunk at this back box the
+best you can do is try and learn a
+differentiable model of the black box
+and that's not going to be very good if
+the black box is wandering in its
+Behavior
+so the forward algorithm doesn't need to
+have a perfect model of a forward system
+it needs to have a good enough model of
+what one neuron is doing so that it can
+change the incoming weights of that
+neuron to make it more active or less
+active but that's all it needs it
+doesn't need to be able to
+invert the forward pass
+and you're not talking about replacing
+back propagation which has obviously had
+enormous success there's plenty of
+compute plenty of power then
+back crop is fine but and this is
+speculative I understand where you are
+in the research but can you imagine if
+you had low power
+computer
+architecture that that could handle Ford
+algorithms and you scale them imagine
+that it would be great I've actually
+been talking to someone called Jack
+Kendall who works for a company called
+rain who is very insightful about what
+you can do with analog Hardware using
+properties of the circuits using word
+for circuits positives of the electrical
+circuits natural properties of
+electrical circles
+um initially
+that was very interesting for doing a
+form of Baltimore machine learning
+but it's also going to be very
+interesting for the forward algorithm so
+I can imagine it's scaling up very well
+but there's a lot of work to be done to
+make that happen
+and if it did scale up very well to the
+degree that large language models have
+been successful do you think that its
+abilities would Eclipse those of models
+
+based on back propagation I'm not at all
+sure I think they may not so I think
+back propagation might be a better
+algorithm in the sense that a given
+number of connections you can get more
+knowledge into those connections using
+back propagation than you can with the
+thought algorithm
+so the Network's moving forward
+better if they're somewhat bigger than
+the best size networks for back
+propagation
+it's not good at squeezing a lot of
+information into a few connections
+back propagation will squeeze lots of
+information into a few connections if
+you force it to
+it is much more happy not having to do
+that but it'll do it if you force it to
+and the full algorithm isn't good at
 that
-a method like principal components
-analysis
-looks for the directions in the space at
-the highest variance they're like
-features
+so if you take these large language
+models
+so take something with a trillion
+connections
+which is about the largest language
+model that kind of size
+that's about a cubic centimeter of
+Cortex
+and our cortex is like we got a thousand
+times that much cortex
+so these large language models that
+actually know a lot more facts than your
+ideal
+because they've read everything on the
+web not everything but an awful lot yeah
+the sense in which they know them is a
+bit dodgy but
+if you had a sort of general knowledge
+quiz
+I think gpg3 even would beat me at a
+general knowledge quiz
+there'd be all sorts of people it knows
+about and when they were born and what
+they did but I don't know about it and
+it all fits in a cubic centimeter cortex
+if you measure by connections
+so it's got much more knowledge than me
+I mean much less brain
+so I think back crop is much better at
+squeezing information
+but that's not the brain's main problem
+broad brains we've got plenty of
+synapses the question is how do you
+effectively get information into them
+how do you make good use of experience
+David Chalmers talked about the
+possibility of Consciousness and you're
+certainly interested in
+the possibility if you understand how
+the brain works and you can
+replicate it this kind of a model let's
+imagine that it scales beautifully
+do you see the potential for reasoning
+and
+oh I see the potential for reasoning
+sure
+but Consciousness is a different kind of
+question so I think people
+I'm amazed that anybody thinks they
+understand what they're talking about
+when they talk about consciousness
+they talk about as if we can Define it
+and it's really a jumble of a whole
+bunch of different concepts yeah and
+they're all mixed together into this
+attempt to explain a really complicated
+mechanism in terms of an essence
+yeah so we've seen that before like 100
+years ago if you asked philosophers what
+makes something alive or even if you ask
+biologists what makes something alive
+they say Well it has vital force but if
+you say what is vital force and can we
+make machines have vital force
+they can't really Define vital force
+other than saying is what makes people
+alive and as soon as you start
+understanding biochemistry
+you give up on the notion of vital force
+you understand about biochemical
+processes that are stable and things
+breaking down and
+so it's not that we cease to have vital
+force we've got as much vital force as
+we had before it's just that it's not a
+useful concept because in an attempt to
+explain something complicated in terms
+of some simple essence
+so
+another model like that is
+so sports cars have oomph and some have
+a lot of them
+like an Aston Martin with big noisy
+exhausts and lots of acceleration and
+bucket seats
+has lots of
+and
+month is an intuitive concept you can
+ask it doesn't Aston Martin have more
+umph than my Toyota Corolla and it
+definitely has a lot more oomph so we
+really need to find out what oomph is
+because umph is what's it what it's all
+about if you're interested in cars or
+fast cars anyway
+but the concept of umph it's a perfectly
+good concept but it doesn't really
+explain much but if you want to know why
+is it that when I press the accelerator
+it goes very fast the concept of oomph
+isn't going to help you you need to get
+into the mechanics of it
+how it actually works
+and that that's a good analogy because
+what I was going to say is it doesn't
+really matter what Consciousness is it
+matters whether
+we as humans perceive something as
+having Consciousness and I think there's
+a lot to I think there's a lot to be
+said to that yes yeah so if the if this
+forward in a large model that scaled
+relatively low power consumption
+if it can reason there'll always be
+philosophers that say yeah but it's not
+conscious
+but it doesn't really matter if you
+can't tell the difference it matters to
+the philosophers I think it would be
+nice to show them the way out of
+their trap they make for themselves
+which is I think most people have a
+radical misunderstanding of how terms
+about perception and experience and
+sensation and feelings actually work
+I've had the language works
+if for example I say I'm seeing a pink
+elephant notice the words pink and
+elephant refer to things in the world
+so what's actually happening is I'd like
+to tell you what's going on inside my
+head yeah
+but telling you what the neurons are
+doing won't do you much good
+particularly since all our brains are
+wired slightly differently it's just no
+use to you to tell you what the neurons
+are doing
+but I can tell you that whatever it is
+my neurons are doing it's the kind of
+thing that's normally caused by Pink
+Elephant being out there if I was doing
+veridical perception the cause of my
+brain state would be a pink elephant I
+can tell you that and that doesn't mean
+a pink elephant exists in some spooky
+thing inside my head or it's just a
+mental thing what it really tells you is
+I'm giving you a counterfactual I'm
+saying the world doesn't really contain
+a pink elephant but if it did contain a
+pink elephant
+that would explain my brain stage
+that plus normal perceptual causation
+will explain my brain stage
+so when I say I'm having the experience
+of a pink elephant the word experience
+many people think experience refers to
+some funny internal goings on it's an
+experience it's some internal no what
+I'm denoting when I use the word
+experience is that it's not real
+I'm took I'm giving you a hypothetical
+statement but if this hypothetical thing
+were out there in the world that would
+explain this brain State and so I'm
+giving you insight into my brain state
+by talking about a hypothetical world
+what's not real about experience is that
+it's a hypothetical I'm giving them it's
+not that it lives in some other Spooky
+World
+and it's the same for feelings
+if I say I feel like hitting you
+what I'm doing is I'm giving you
+a sense of what's going on in my head
+via what it would normally cause so in
+perception it's the world causing of a
+sexual state with feelings it's the
+internal State causing an action and I'm
+giving you insight into my internal
+state by telling you what kind of action
+it would cause now
+I might feel like hitting you or anybody
+else or kicking the cat or whatever in
+which case I instead of giving you any
+one of those actions I just use a term
+like angry
+but really that shorthand for all those
+angry actions
+so I'm giving you
+I'm giving you a way of seeing what's
+going on in my head via describing
+actions I might do but they're just
+hypothetical actions
+and that's what the word feel means when
+I say I feel
+typically if I say I feel and then say I
+feel like blah
+it's not that there's some special
+internal Essence that's feeling and
+computers don't have it computers are
+just transistors they don't have feeling
+you have to have a soul to have feeling
+or something
+no I'm describing my internal State via
+the actions it would cause if I were to
+disinhibit it
+from another human's point of view if
+you were a machine and you were saying
+things like that I would perceive it
+as you having feelings
+right so let's take the perception cases
+it's slightly simpler I think suppose we
+make a
+big complicated neural network that can
+do perception and can also produce
+language we have those now yeah
+and so you can show them a minute and
+they can give you a description what's
+there
+and suppose we now take one of those
+networks and we say
+I want you to just imagine something
+and okay so it imagine something
+and then it tells you what it's
+imagining so it says I'm experiencing a
+pink elephant
+that's experiencing the Pink Elephant
+just as much as a person is when they
+say they experience something elephant
+it's got an internal perceptual state
+that would normally be caused by a pink
+elephant but in this case it's not
+caused by a pink elephant and so it uses
+the word experience to denote that there
+you go I think it's got just as much
+perceptual Sensations as we have
+although at the current state of large
+language models don't exhibit that kind
+of cohesive internal logic you know but
+they will they will you you think they
+will oh yeah
+yeah I don't think I don't think
+Consciousness is people treat it like
+it's like the sound barrier that
+you're either below the speed of sound
+or you're above the speed of sound
+you've either got a model that hasn't
+yet got Consciousness or you've got
+there it's not like that at all
+I think a lot of people were impressed
+by you talking about using Matlab
+I'm not sure impressed is the right word
+they were interested they were surprised
+but what is your day-to-day work like
+you have other responsibilities but you
+spend more time on conceptualizing and
+that could happen while taking a walk or
+taking a shower or do you spend more
+time on
+experimenting like on Matlab or do you
+spend more time on running large
+experiments
+okay
+it varies a lot over time so I'll often
+spent a long time like when I wrote that
+paper about glom I spent a long time
+thinking about how to organize a
+perceptual system that was more neurally
+realistic and could deal with pothole
+hierarchists without having to do
+Dynamic setting up and connections
+and so I spent many months just thinking
+about how to do that and writing a paper
+about that I spent a lot of time trying
+to think about more biologically
+possible learning algorithms yes and
+then programming little systems in
+Matlab and discovering why they don't
+work so the point about most original
+ideas is they're wrong
+and matlab's very convenient for quickly
+showing that they're wrong and very
+small toy problems like recognizing
+handwritten digits I'm very familiar
+with that task I can very quickly test
+out an idea to see if it works and I've
+got I've probably got on my computer
+thousands of programs that didn't work
+well that I programmed in an afternoon
+and
+an afternoon was sufficient to decide
+that okay that's not going to work
+probably that's probably not going to
+work you never know for sure because
+there might be some little trick you
+didn't think of and then there will be
+periods when I think I've got onto
+something that does work
+and I'll spend
+several weeks programming and running
+things to see if it works
+yeah I've been doing that recently with
+the Ford forward let me see why I use
+Matlab I learned lots of languages when
+I was young I learned
+pop two which was an Edinburgh language
+UCSD Pascal a lisp
+common lisp scheme
+all sorts of lisps and
+vanilla Matlab which is ugly in some
+ways but if you're dealing with vectors
+and matrices it's what you want it makes
+it convenient and I became fluent in
+Matlab
+and I should have learned Python and I
+should have learned all sorts of other
+things but when you're old you're much
+slower learning language and I'd learned
+plenty of them and I figured since I'm
+fluent in Matlab and I can test out
+little ideas in Matlab and then other
+people can test out running your own big
+systems I would just stick with testing
+out things on Matlab
+there's a lot of things about just
+literally shaped me but it's also very
+convenient and you talk a lot about
+learning in toddlers And
+is that knowledge base something you
+accumulated
+years ago or are you continuing to read
+and talk to people in different fields I
+talk to a lot of people and I learned
+most things from talking to people I'm
+not very good at reading it I read very
+slowly and when I come to equations they
+slow me up a lot so I've learned most of
+what I know from talking to people
+and I'm lucky it's only got lots of good
+people to talk to like I talked to Terry
+sonoski and he tells me about all sorts
+of Neuroscience things I talked to Josh
+Tenenbaum when he tells me about all
+sorts of cognitive science things
+I talked to James Howell and he tells me
+lots of kind of science psychology
+things
+so I get most of my knowledge just from
+talking to people
+your target nerves you mentioned yeah he
+corrected my pronunciation of his name
+look Khan why did you reference him in
+that talk
+oh because for many years he was pushing
+convolutional neural networks oh okay
+and the vision Community said okay
+they're fine for little things like
+handwritten digits but they'll never
+work for real images
+and
+there was a
+famous paper submitted to a conference
+where him and his co-workers
+where he actually did better than any
+other system on a particular Benchmark I
+think it was segmenting pedestrians but
+I'm not quite sure it was something like
+that and the paper got rejected even
+though it had the best results
+and one of the referees
+so the reason they were rejecting the
+paper was because
+the system learned everything so it
+taught us nothing about vision and this
+is a wonderful example of a paradigm and
+the Paradigm for computer vision was you
+study the task that has to be performed
+the computation has to be performed you
+figure out an algorithm that'll do that
+computation and then you figure out how
+to implement it
+efficiently
+and so the knowledge is all explicit the
+knowledge that it's using to do the
+vision
+is explicit you have to sort it out
+mathematically and then implement it and
+sitting there in the program
+and they just assumed that's the way
+that computer vision is going to work
+and because computer vision has to work
+that way if someone comes along and just
+learns everything
+so they're no use to you because they
+haven't said what the knowledge is what
+is the heuristic you're using
+and so it's okay maybe it works but
+that's just good luck in the end we're
+bound to work better than that because
+we're using real knowledge shouldn't we
+understand what's going on
+so they completely failed to get the
+main message which was that it learned
+everything
+not quite everything because you're
+writing convolution
+but the machine Learning Community they
+respected him because he's obviously a
+smart guy but they thought he was on
+completely the wrong path and they
+dismissed his work years and years
+and then when Fife Lee and her
+collaborators produced the imagenet
+competition
+finally we had a big enough data set
+to show that neural networks would
+really work well
+and
+Jan actually tried to get several
+different students to
+make a serious attempt to do the image
+Network convolutional Nets but he
+couldn't find a student who was
+interested in doing it at the same time
+Elia became very interested in doing it
+and I was interested in doing it and
+Alex fishevski was a superb programmer
+who put a lot of hard work within you
+into making it work really well
+so it was very unfortunate for Yan that
+it wasn't
+his group
+that finally convinced the computer
+vision Community actually this stuff
+works much better than what you're doing
+you've now
+put this paper out there are you hoping
+to ignite sort of an army of yeah of
+people trying to put some simple Matlab
+code out there too
+yeah because there's a bunch of little
+things you have to otherwise it won't
+work and
+the code needs to get there it's more
+picky than backup with back propagation
+you just show people the equations and
+anybody can go and implement it
+and it doesn't need a lot of tricks for
+it to work quite well to work really
+well it needs lots of Tricks but it's
+worked quite well it's fine with the
+forward forwards you need a few tricks
+for it to work at all
+the tricks are quite reasonable tricks
+but once you put them in there then it
+works and I want to put that Matlab code
+out there so other people can get it to
+work
+but I didn't want to put my very
+primitive Matlab code out there because
+it's disgusting
+[Music]
+thank you
+that's it for this week's podcast I want
+to thank Jeff for his time I also want
+to thank clear ml for their support
+we're looking for more sponsors so if
+you are interested in supporting the
+podcast
+please email me at Craig c r a i g at
 
-
+ionai that's
+e-y-e-hyphen on dot a i
+as always you can find a transcript of
+this episode on our website ey hyphen on
+dot a i
+I encourage you to read the transcript
+if you're serious about understanding
+the forward forward algorithm
+in the meantime remember
+The Singularity may not be near but AI
+is about to change your world so pay
+attention
 
 
 
