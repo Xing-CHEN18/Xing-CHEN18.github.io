@@ -51,7 +51,7 @@ you're trying to model and once you've got a really good model, the negative dat
 
 (there's no no good evidence of derivative information thrown back. Obviously the brain has top down connections if you look at the perceptual system there's a kind of forward direction that goes from the thalamus up to him for a temporal cortex where you recognize things and the thalamus is a sort of where the input comes in from the eyes and there's Connections in the backward Direction but the connection in the backward Direction don't look at all like what you'd need for back propagation for example in two cortical areas the connection is coming back don't go to the same cells as connections going forward come from it's not reciprocal in that sense. There's a loop between the cortical areas but information in one course got area goes through about six different neurons before it gets back to where it started and so it's a loop it's not and it's not like a mirrored system) 
 
-so you have to think of the being a forward Direction which is going from lower layers to higher layers
+So you have to think of the being a forward Direction which is going from lower layers to higher layers
 and then orthogonal to that was the time dimension and so if I have a video even if it's a video of just a single thing that stays still, I can be going up and down through the layers as I go forwards in time
 and that's what's allowing you to have top down effects. So what a layer is doing it's receiving
 input from higher layers and lower layers at the previous time step and from itself at the previous
