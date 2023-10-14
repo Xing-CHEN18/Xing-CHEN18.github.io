@@ -95,210 +95,31 @@ Yeah you obviously want computers where the hardware and software are separate a
 
 **This is speculative I understand where you are in the research but can you imagine if you had low power computer architecture that that  could handle FF algorithms and you scale them imagine that it would be great.**
 
-I've actually been talking to someone called Jack Kendall who works for a company called rain who is very insightful about what you can do with analog Hardware using properties of the circuits using word for circuits, positives of the electrical circuits, natural properties of electrical circles. Initially that was very interesting for doing a form of Baltimore machine learning but it's also going to be very interesting for the forward algorithm so
-I can imagine it's scaling up very well
-but there's a lot of work to be done to
-make that happen
-and if it did scale up very well to the
-degree that large language models have
-been successful do you think that its
-abilities would Eclipse those of models
+I've actually been talking to someone called Jack Kendall who works for a company called rain who is very insightful about what you can do with analog Hardware using properties of the circuits using word for circuits, positives of the electrical circuits, natural properties of electrical circles. Initially that was very interesting for doing a form of Baltimore machine learning but it's also going to be very interesting for the forward algorithm so I can imagine it's scaling up very well but there's a lot of work to be done to
+make that happen.
 
-based on back propagation I'm not at all
-sure I think they may not so I think
-back propagation might be a better
-algorithm in the sense that a given
-number of connections you can get more
-knowledge into those connections using
-back propagation than you can with the
-thought algorithm
-so the Network's moving forward
-better if they're somewhat bigger than
-the best size networks for back
-propagation
-it's not good at squeezing a lot of
-information into a few connections
-back propagation will squeeze lots of
-information into a few connections if
-you force it to
-it is much more happy not having to do
-that but it'll do it if you force it to
-and the full algorithm isn't good at
-that
-so if you take these large language
-models
-so take something with a trillion
-connections
-which is about the largest language
-model that kind of size
-that's about a cubic centimeter of
-Cortex
-and our cortex is like we got a thousand
-times that much cortex
-so these large language models that
-actually know a lot more facts than your
-ideal
-because they've read everything on the
-web not everything but an awful lot yeah
-the sense in which they know them is a
-bit dodgy but
-if you had a sort of general knowledge
-quiz
-I think gpg3 even would beat me at a
-general knowledge quiz
-there'd be all sorts of people it knows
-about and when they were born and what
-they did but I don't know about it and
-it all fits in a cubic centimeter cortex
-if you measure by connections
-so it's got much more knowledge than me
-I mean much less brain
-so I think back crop is much better at
-squeezing information
-but that's not the brain's main problem
-broad brains we've got plenty of
-synapses the question is how do you
-effectively get information into them
-how do you make good use of experience
-David Chalmers talked about the
-possibility of Consciousness and you're
-certainly interested in
-the possibility if you understand how
-the brain works and you can
-replicate it this kind of a model let's
-imagine that it scales beautifully
-do you see the potential for reasoning
-and
-oh I see the potential for reasoning
-sure
-but Consciousness is a different kind of
-question so I think people
-I'm amazed that anybody thinks they
-understand what they're talking about
-when they talk about consciousness
-they talk about as if we can Define it
-and it's really a jumble of a whole
-bunch of different concepts yeah and
-they're all mixed together into this
-attempt to explain a really complicated
-mechanism in terms of an essence
-yeah so we've seen that before like 100
-years ago if you asked philosophers what
-makes something alive or even if you ask
-biologists what makes something alive
-they say Well it has vital force but if
-you say what is vital force and can we
-make machines have vital force
-they can't really Define vital force
-other than saying is what makes people
-alive and as soon as you start
-understanding biochemistry
-you give up on the notion of vital force
-you understand about biochemical
-processes that are stable and things
-breaking down and
-so it's not that we cease to have vital
-force we've got as much vital force as
-we had before it's just that it's not a
-useful concept because in an attempt to
-explain something complicated in terms
-of some simple essence
-so
-another model like that is
-so sports cars have oomph and some have
-a lot of them
-like an Aston Martin with big noisy
-exhausts and lots of acceleration and
-bucket seats
-has lots of
-and
-month is an intuitive concept you can
-ask it doesn't Aston Martin have more
-umph than my Toyota Corolla and it
-definitely has a lot more oomph so we
-really need to find out what oomph is
-because umph is what's it what it's all
-about if you're interested in cars or
-fast cars anyway
-but the concept of umph it's a perfectly
-good concept but it doesn't really
-explain much but if you want to know why
-is it that when I press the accelerator
-it goes very fast the concept of oomph
-isn't going to help you you need to get
-into the mechanics of it
-how it actually works
-and that that's a good analogy because
-what I was going to say is it doesn't
-really matter what Consciousness is it
-matters whether
-we as humans perceive something as
-having Consciousness and I think there's
-a lot to I think there's a lot to be
-said to that yes yeah so if the if this
-forward in a large model that scaled
-relatively low power consumption
-if it can reason there'll always be
-philosophers that say yeah but it's not
-conscious
-but it doesn't really matter if you
-can't tell the difference it matters to
-the philosophers I think it would be
-nice to show them the way out of
-their trap they make for themselves
-which is I think most people have a
-radical misunderstanding of how terms
-about perception and experience and
-sensation and feelings actually work
-I've had the language works
-if for example I say I'm seeing a pink
-elephant notice the words pink and
-elephant refer to things in the world
-so what's actually happening is I'd like
-to tell you what's going on inside my
-head yeah
-but telling you what the neurons are
-doing won't do you much good
-particularly since all our brains are
-wired slightly differently it's just no
-use to you to tell you what the neurons
-are doing
-but I can tell you that whatever it is
-my neurons are doing it's the kind of
-thing that's normally caused by Pink
-Elephant being out there if I was doing
-veridical perception the cause of my
-brain state would be a pink elephant I
-can tell you that and that doesn't mean
-a pink elephant exists in some spooky
-thing inside my head or it's just a
-mental thing what it really tells you is
-I'm giving you a counterfactual I'm
-saying the world doesn't really contain
-a pink elephant but if it did contain a
-pink elephant
-that would explain my brain stage
-that plus normal perceptual causation
-will explain my brain stage
-so when I say I'm having the experience
-of a pink elephant the word experience
-many people think experience refers to
-some funny internal goings on it's an
-experience it's some internal no what
-I'm denoting when I use the word
-experience is that it's not real
-I'm took I'm giving you a hypothetical
-statement but if this hypothetical thing
-were out there in the world that would
-explain this brain State and so I'm
-giving you insight into my brain state
-by talking about a hypothetical world
-what's not real about experience is that
-it's a hypothetical I'm giving them it's
-not that it lives in some other Spooky
-World
-and it's the same for feelings
-if I say I feel like hitting you
+**If it did scale up very well to the degree that large language models have been successful do you think that its abilities would Eclipse those of models based on back propagation**
+
+I'm not at all sure I think they may not. so I think back propagation might be a better algorithm in the sense that a given number of connections you can get more knowledge into those connections using back propagation than you can with the FF algorithm. So the Network's moving forward better if they're somewhat bigger than the best size networks for back propagation. It's not good at squeezing a lot of information into a few connections. Back propagation will squeeze lots of information into a few connections if you force it to. It is much more happy not having to do that but it'll do it if you force it to and the full algorithm isn't good at that. So if you take these large language models, so take something with a trillion
+connections which is about the largest language model that kind of size that's about a cubic centimeter of
+Cortex and our cortex is like we got a thousand times that much in cortex. So these large language models that actually know a lot more facts than your ideal because they've read everything on the web not everything but an awful lot yeah the sense in which they know them is a bit dodgy but if you had a sort of general knowledge quiz. I think gpg3 even would beat me at a general knowledge quiz there'd be all sorts of people it knows about and when they were born and what they did but I don't know about it and it all fits in a cubic centimeter cortex if you measure by connections. So it's got much more knowledge than me. I mean much less brain **so I think back brop is much better at squeezing information but that's not the brain's main problem. Broad brains we've got plenty of synapses the question is how do you effectively get information into them how do you make good use of experience.** 
+
+
+**David Chalmers talked about the possibility of Consciousness and you're certainly interested in the possibility if you understand how the brain works and you can replicate it this kind of a model. Let's
+imagine that it scales beautifully, do you see the potential for reasoning**
+
+I see the potential for reasoning sure. But Consciousness is a different kind of question so I think people
+I'm amazed that anybody thinks they understand what they're talking about when they talk about consciousness
+they talk about as if we can Define it and it's really a jumble of a whole bunch of different concepts yeah and they're all mixed together into this attempt to explain a really complicated mechanism in terms of an essence. So we've seen that before like 100 years ago if you asked philosophers what makes something alive or even if you ask biologists what makes something alive they say Well it has vital force but if you say what is vital force and can we make machines have vital force they can't really Define vital force other than saying is what makes people alive and as soon as you start understanding biochemistry you give up on the notion of vital force you understand about biochemical processes that are stable and things breaking down and so it's not that we cease to have vital force we've got as much vital force as we had before. It's just that it's not a useful concept because in an attempt to explain something complicated in terms
+of some simple essence. So another model like that is so sports cars have oomph and some have a lot of them like an Aston Martin with big noisy exhausts and lots of acceleration and bucket seats has lots of and month is an intuitive concept you can ask it doesn't Aston Martin have more umph than my Toyota Corolla and it
+definitely has a lot more oomph so we really need to find out what oomph is because umph is what's it what it's all about if you're interested in cars or fast cars anyway but the concept of umph it's a perfectly
+good concept but it doesn't really explain much but if you want to know why is it that when I press the accelerator it goes very fast the concept of oomph isn't going to help you you need to get into the mechanics of it how it actually works and that that's a good analogy because what I was going to say is it doesn't really matter what Consciousness is, it matters whether we as humans perceive something as
+having Consciousness and I think there's a lot to I think there's a lot to be said to that.
+
+Yes yeah so if this forward in a large model that scaled relatively low power consumption if it can reason there'll always be philosophers that say yeah but it's not conscious but it doesn't really matter if you
+can't tell the difference it matters to the philosophers I think it would be nice to show them the way out of their trap they make for themselves which is I think most people have a radical misunderstanding of how terms about perception and experience and sensation and feelings actually work. I've had the language works
+if for example I say I'm seeing a pink elephant notice the words pink and elephant refer to things in the world, so what's actually happening is I'd like to tell you what's going on inside my head yeah but telling you what the neurons are doing won't do you much good particularly since all our brains are wired slightly differently it's just no use to you to tell you what the neurons are doing but I can tell you that whatever it is my neurons are doing it's the kind of thing that's normally caused by Pink Elephant being out there if I was doing veridical perception the cause of my brain state would be a pink elephant I can tell you that and that doesn't mean a pink elephant exists in some spooky thing inside my head or it's just a mental thing what it really tells you is. I'm giving you a counterfactual, I'm saying the world doesn't really contain
+a pink elephant but if it did contain a pink elephant, that would explain my brain stage that plus normal perceptual causation will explain my brain stage. So when I say I'm having the experience of a pink elephant the word experience many people think experience refers to some funny internal goings on it's an experience it's some internal no what I'm denoting when I use the word experience is that it's not real. I'm giving you a hypothetical statement but if this hypothetical thing were out there in the world that would explain this brain State and so I'm giving you insight into my brain state by talking about a hypothetical world what's not real about experience is that it's a hypothetical I'm giving them it's not that it lives in some other Spooky World and it's the same for feelings. If I say I feel like hitting you
 what I'm doing is I'm giving you
 a sense of what's going on in my head
 via what it would normally cause so in
