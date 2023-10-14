@@ -84,7 +84,7 @@ make it related wrong they think it's weird so they learn that very fast whereas
 
 32.54: **You've been working in Matlab famously now on toy problems, are you starting to scale or are you still refining**
 
-I'm doing a bit of scaling I'm using a GPU to make these go a bit faster but I'm still at the stage where there's very basic properties of the algorithm I'm exploring in particular how to generate negative data effectively from the model and until I've got the sort of basic stuff working nicely. I think it's silly to scale it up as soon as you scale it up it's slower to investigate changes in the basic algorithm and I'm still at the stage where there's lots and lots of different things I want to investigate, for example here's just one little thing that I haven't had time to invest in yet you can use as your objective function to have high activity in the positive phase and low activity in the negative phase and if you do that it'll find nice features in the hidden units or you can have a zero objective function to have low activity in the
+I'm doing a bit of scaling. I'm using a GPU to make these go a bit faster but I'm still at the stage where there's very basic properties of the algorithm I'm exploring in particular how to generate negative data effectively from the model and until I've got the sort of basic stuff working nicely. I think it's silly to scale it up as soon as you scale it up it's slower to investigate changes in the basic algorithm and I'm still at the stage where there's lots and lots of different things I want to investigate, for example here's just one little thing that I haven't had time to invest in yet you can use as your objective function to have high activity in the positive phase and low activity in the negative phase and if you do that it'll find nice features in the hidden units or you can have a zero objective function to have low activity in the
 positive phase. If you do that it'll find nice constraints if you think about what physicists do they try and understand nature by finding apparently different things that add up to zero. Another way of saying is that they're equal and opposite but if you take force and you subtract mass times acceleration you get zero
 but that's a constraint. So if you have two sorts of information one of which is force and the other
 which is mass times acceleration you'd like to have hidden units that see both those inputs and that say zero no activity and then when they see things that don't fit the physics they'll have high activity they'll be the negative data, so that's called a constraint and so if you make your objective function have low activity for real things and high activity for things that aren't real you'll find constraints in the data as opposed to features. So features are things that have high variance and constraints of things that have low variance. A feature something that's got higher variance and it should have constrained as low variance than it should now there's no reason why you shouldn't have two types of neurons one's looking for features and one's looking for constraints and we know with just linear models that a method like principal  components analysis looks for the directions in the space at the highest variance they're like features 
@@ -710,8 +710,3 @@ in the meantime remember
 The Singularity may not be near but AI
 is about to change your world so pay
 attention
-
-
-
-
-
