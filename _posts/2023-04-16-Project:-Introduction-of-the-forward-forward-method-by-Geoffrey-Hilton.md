@@ -143,45 +143,6 @@ sonoski and he tells me about all sorts of Neuroscience things I talked to Josh 
 
 **Put this paper out there, are you hoping to ignite sort of an army of yeah of people trying to put some simple Matlab code out there too**
 
-yeah because there's a bunch of little things you have to otherwise it won't
-work and
-the code needs to get there it's more
-picky than backup with back propagation
-you just show people the equations and
-anybody can go and implement it
-and it doesn't need a lot of tricks for
-it to work quite well to work really
-well it needs lots of Tricks but it's
-worked quite well it's fine with the
-forward forwards you need a few tricks
-for it to work at all
-the tricks are quite reasonable tricks
-but once you put them in there then it
-works and I want to put that Matlab code
-out there so other people can get it to
-work
-but I didn't want to put my very
-primitive Matlab code out there because
-it's disgusting
-[Music]
-thank you
-that's it for this week's podcast I want
-to thank Jeff for his time I also want
-to thank clear ml for their support
-we're looking for more sponsors so if
-you are interested in supporting the
-podcast
-please email me at Craig c r a i g at
+yeah because there's a bunch of little things you have to otherwise it won't work and the code needs to get there it's more picky than backup with back propagation. You just show people the equations and anybody can go and implement it and it doesn't need a lot of tricks for it to work quite well to work really well. It needs lots of Tricks but it's worked quite well it's fine with the forward forwards you need a few tricks
+for it to work at all the tricks are quite reasonable tricks but once you put them in there then it works and I want to put that Matlab code out there so other people can get it to work. But I didn't want to put my very primitive Matlab code out there because it's disgusting.
 
-ionai that's
-e-y-e-hyphen on dot a i
-as always you can find a transcript of
-this episode on our website ey hyphen on
-dot a i
-I encourage you to read the transcript
-if you're serious about understanding
-the forward forward algorithm
-in the meantime remember
-The Singularity may not be near but AI
-is about to change your world so pay
-attention
