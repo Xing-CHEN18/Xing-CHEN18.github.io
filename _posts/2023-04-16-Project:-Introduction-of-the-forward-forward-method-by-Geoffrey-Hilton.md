@@ -113,237 +113,35 @@ I'm amazed that anybody thinks they understand what they're talking about when t
 they talk about as if we can Define it and it's really a jumble of a whole bunch of different concepts yeah and they're all mixed together into this attempt to explain a really complicated mechanism in terms of an essence. So we've seen that before like 100 years ago if you asked philosophers what makes something alive or even if you ask biologists what makes something alive they say Well it has vital force but if you say what is vital force and can we make machines have vital force they can't really Define vital force other than saying is what makes people alive and as soon as you start understanding biochemistry you give up on the notion of vital force you understand about biochemical processes that are stable and things breaking down and so it's not that we cease to have vital force we've got as much vital force as we had before. It's just that it's not a useful concept because in an attempt to explain something complicated in terms
 of some simple essence. So another model like that is so sports cars have oomph and some have a lot of them like an Aston Martin with big noisy exhausts and lots of acceleration and bucket seats has lots of and month is an intuitive concept you can ask it doesn't Aston Martin have more umph than my Toyota Corolla and it
 definitely has a lot more oomph so we really need to find out what oomph is because umph is what's it what it's all about if you're interested in cars or fast cars anyway but the concept of umph it's a perfectly
-good concept but it doesn't really explain much but if you want to know why is it that when I press the accelerator it goes very fast the concept of oomph isn't going to help you you need to get into the mechanics of it how it actually works and that that's a good analogy because what I was going to say is it doesn't really matter what Consciousness is, it matters whether we as humans perceive something as
-having Consciousness and I think there's a lot to I think there's a lot to be said to that.
+good concept but it doesn't really explain much but if you want to know why is it that when I press the accelerator it goes very fast the concept of oomph isn't going to help you you need to get into the mechanics of it how it actually works and that that's a good analogy because **what I was going to say is it doesn't really matter what Consciousness is, it matters whether we as humans perceive something as
+having Consciousness and I think there's a lot to I think there's a lot to be said to that.**
 
-Yes yeah so if this forward in a large model that scaled relatively low power consumption if it can reason there'll always be philosophers that say yeah but it's not conscious but it doesn't really matter if you
-can't tell the difference it matters to the philosophers I think it would be nice to show them the way out of their trap they make for themselves which is I think most people have a radical misunderstanding of how terms about perception and experience and sensation and feelings actually work. I've had the language works
-if for example I say I'm seeing a pink elephant notice the words pink and elephant refer to things in the world, so what's actually happening is I'd like to tell you what's going on inside my head yeah but telling you what the neurons are doing won't do you much good particularly since all our brains are wired slightly differently it's just no use to you to tell you what the neurons are doing but I can tell you that whatever it is my neurons are doing it's the kind of thing that's normally caused by Pink Elephant being out there if I was doing veridical perception the cause of my brain state would be a pink elephant I can tell you that and that doesn't mean a pink elephant exists in some spooky thing inside my head or it's just a mental thing what it really tells you is. I'm giving you a counterfactual, I'm saying the world doesn't really contain
-a pink elephant but if it did contain a pink elephant, that would explain my brain stage that plus normal perceptual causation will explain my brain stage. So when I say I'm having the experience of a pink elephant the word experience many people think experience refers to some funny internal goings on it's an experience it's some internal no what I'm denoting when I use the word experience is that it's not real. I'm giving you a hypothetical statement but if this hypothetical thing were out there in the world that would explain this brain State and so I'm giving you insight into my brain state by talking about a hypothetical world what's not real about experience is that it's a hypothetical I'm giving them it's not that it lives in some other Spooky World and it's the same for feelings. If I say I feel like hitting you
-what I'm doing is I'm giving you
-a sense of what's going on in my head
-via what it would normally cause so in
-perception it's the world causing of a
-sexual state with feelings it's the
-internal State causing an action and I'm
-giving you insight into my internal
-state by telling you what kind of action
-it would cause now
-I might feel like hitting you or anybody
-else or kicking the cat or whatever in
-which case I instead of giving you any
-one of those actions I just use a term
-like angry
-but really that shorthand for all those
-angry actions
-so I'm giving you
-I'm giving you a way of seeing what's
-going on in my head via describing
-actions I might do but they're just
-hypothetical actions
-and that's what the word feel means when
-I say I feel
-typically if I say I feel and then say I
-feel like blah
-it's not that there's some special
-internal Essence that's feeling and
-computers don't have it computers are
-just transistors they don't have feeling
-you have to have a soul to have feeling
-or something
-no I'm describing my internal State via
-the actions it would cause if I were to
-disinhibit it
-from another human's point of view if
-you were a machine and you were saying
-things like that I would perceive it
-as you having feelings
-right so let's take the perception cases
-it's slightly simpler I think suppose we
-make a
-big complicated neural network that can
-do perception and can also produce
-language we have those now yeah
-and so you can show them a minute and
-they can give you a description what's
-there
-and suppose we now take one of those
-networks and we say
-I want you to just imagine something
-and okay so it imagine something
-and then it tells you what it's
-imagining so it says I'm experiencing a
-pink elephant
-that's experiencing the Pink Elephant
-just as much as a person is when they
-say they experience something elephant
-it's got an internal perceptual state
-that would normally be caused by a pink
-elephant but in this case it's not
-caused by a pink elephant and so it uses
-the word experience to denote that there
-you go I think it's got just as much
-perceptual Sensations as we have
-although at the current state of large
-language models don't exhibit that kind
-of cohesive internal logic you know but
-they will they will you you think they
-will oh yeah
-yeah I don't think I don't think
-Consciousness is people treat it like
-it's like the sound barrier that
-you're either below the speed of sound
-or you're above the speed of sound
-you've either got a model that hasn't
-yet got Consciousness or you've got
-there it's not like that at all
-I think a lot of people were impressed
-by you talking about using Matlab
-I'm not sure impressed is the right word
-they were interested they were surprised
-but what is your day-to-day work like
-you have other responsibilities but you
-spend more time on conceptualizing and
-that could happen while taking a walk or
-taking a shower or do you spend more
-time on
-experimenting like on Matlab or do you
-spend more time on running large
-experiments
-okay
-it varies a lot over time so I'll often
-spent a long time like when I wrote that
-paper about glom I spent a long time
-thinking about how to organize a
-perceptual system that was more neurally
-realistic and could deal with pothole
-hierarchists without having to do
-Dynamic setting up and connections
-and so I spent many months just thinking
-about how to do that and writing a paper
-about that I spent a lot of time trying
-to think about more biologically
-possible learning algorithms yes and
-then programming little systems in
-Matlab and discovering why they don't
-work so the point about most original
-ideas is they're wrong
-and matlab's very convenient for quickly
-showing that they're wrong and very
-small toy problems like recognizing
-handwritten digits I'm very familiar
-with that task I can very quickly test
-out an idea to see if it works and I've
-got I've probably got on my computer
-thousands of programs that didn't work
-well that I programmed in an afternoon
-and
-an afternoon was sufficient to decide
-that okay that's not going to work
-probably that's probably not going to
-work you never know for sure because
-there might be some little trick you
-didn't think of and then there will be
-periods when I think I've got onto
-something that does work
-and I'll spend
-several weeks programming and running
-things to see if it works
-yeah I've been doing that recently with
-the Ford forward let me see why I use
-Matlab I learned lots of languages when
-I was young I learned
-pop two which was an Edinburgh language
-UCSD Pascal a lisp
-common lisp scheme
-all sorts of lisps and
-vanilla Matlab which is ugly in some
-ways but if you're dealing with vectors
-and matrices it's what you want it makes
-it convenient and I became fluent in
-Matlab
-and I should have learned Python and I
-should have learned all sorts of other
-things but when you're old you're much
-slower learning language and I'd learned
-plenty of them and I figured since I'm
-fluent in Matlab and I can test out
-little ideas in Matlab and then other
-people can test out running your own big
-systems I would just stick with testing
-out things on Matlab
-there's a lot of things about just
-literally shaped me but it's also very
-convenient and you talk a lot about
-learning in toddlers And
-is that knowledge base something you
-accumulated
-years ago or are you continuing to read
-and talk to people in different fields I
-talk to a lot of people and I learned
-most things from talking to people I'm
-not very good at reading it I read very
-slowly and when I come to equations they
-slow me up a lot so I've learned most of
-what I know from talking to people
-and I'm lucky it's only got lots of good
-people to talk to like I talked to Terry
-sonoski and he tells me about all sorts
-of Neuroscience things I talked to Josh
-Tenenbaum when he tells me about all
-sorts of cognitive science things
-I talked to James Howell and he tells me
-lots of kind of science psychology
-things
-so I get most of my knowledge just from
-talking to people
-your target nerves you mentioned yeah he
-corrected my pronunciation of his name
-look Khan why did you reference him in
-that talk
-oh because for many years he was pushing
-convolutional neural networks oh okay
-and the vision Community said okay
-they're fine for little things like
-handwritten digits but they'll never
-work for real images
-and
-there was a
-famous paper submitted to a conference
-where him and his co-workers
-where he actually did better than any
-other system on a particular Benchmark I
-think it was segmenting pedestrians but
-I'm not quite sure it was something like
-that and the paper got rejected even
-though it had the best results
-and one of the referees
-so the reason they were rejecting the
-paper was because
-the system learned everything so it
-taught us nothing about vision and this
-is a wonderful example of a paradigm and
-the Paradigm for computer vision was you
-study the task that has to be performed
-the computation has to be performed you
-figure out an algorithm that'll do that
-computation and then you figure out how
-to implement it
-efficiently
-and so the knowledge is all explicit the
-knowledge that it's using to do the
-vision
-is explicit you have to sort it out
-mathematically and then implement it and
-sitting there in the program
-and they just assumed that's the way
-that computer vision is going to work
-and because computer vision has to work
-that way if someone comes along and just
-learns everything
-so they're no use to you because they
-haven't said what the knowledge is what
-is the heuristic you're using
+Yes yeah so if this forward in a large model that scaled relatively low power consumption, if it can reason there'll always be philosophers that say yeah but it's not conscious. But it doesn't really matter if you
+can't tell the difference, it matters to the philosophers I think it would be nice to show them the way out of their trap they make for themselves which is I think most people have a radical misunderstanding of how terms about perception and experience and sensation and feelings actually work. I've had the language works
+if for example I say I'm seeing a pink elephant. Notice the words pink and elephant refer to things in the world, so what's actually happening is I'd like to tell you what's going on inside my head yeah but telling you what the neurons are doing won't do you much good particularly since all our brains are wired slightly differently it's just no use to you to tell you what the neurons are doing but I can tell you that whatever it is my neurons are doing it's the kind of thing that's normally caused by Pink Elephant being out there if I was doing veridical perception the cause of my brain state would be a pink elephant, I can tell you that and that doesn't mean a pink elephant exists in some spooky thing inside my head or it's just a mental thing what it really tells you is. I'm giving you a counterfactual, I'm saying the world doesn't really contain
+a pink elephant but if it did contain a pink elephant, that would explain my brain stage that plus normal perceptual causation will explain my brain stage. So when I say I'm having the experience of a pink elephant the word experience many people think experience refers to some funny internal goings on it's an experience it's some internal no what I'm denoting when I use the word experience is that it's not real. I'm giving you a hypothetical statement but if this hypothetical thing were out there in the world that would explain this brain State and so I'm giving you insight into my brain state by talking about a hypothetical world what's not real about experience is that it's a hypothetical I'm giving them it's not that it lives in some other Spooky World and it's the same for feelings. If I say I feel like hitting you, what I'm doing is I'm giving you a sense of what's going on in my head via what it would normally cause. So in perception it's the world causing of a sexual state with feelings it's the internal State causing an action and I'm giving you insight into my internal state by telling you what kind of action it would cause now. I might feel like hitting you or anybody else or kicking the cat or whatever in which case I instead of giving you any one of those actions I just use a term like angry but really that shorthand for all those angry actions. So I'm giving you a way of seeing what's going on in my head via describing actions I might do but they're just
+hypothetical actions and that's what the word feel means when I say I feel typically if I say I feel and then say I feel like blah it's not that there's some special internal Essence that's feeling and computers don't have it computers are just transistors they don't have feeling, you have to have a soul to have feeling or something, no,  I'm describing my internal State via the actions it would cause if I were to
+disinhibit it from another human's point of view if you were a machine and you were saying things like that I would perceive it as you having feelings right. So let's take the perception cases, it's slightly simpler I think suppose we make a big complicated neural network that can do perception and can also produce language we have those now yeah and so you can show them a minute and they can give you a description what's
+there and suppose we now take one of those networks and we say I want you to just imagine something and okay so it imagine something and then it tells you what it's imagining so it says I'm experiencing a pink elephant that's experiencing the Pink Elephant just as much as a person is when they say they experience something elephant, it's got an internal perceptual state that would normally be caused by a pink elephant but in this case it's not caused by a pink elephant and so it uses the word experience to denote that there
+you go. I think it's got just as much perceptual Sensations as we have although at the current state of large language models don't exhibit that kind of cohesive internal logic you know but they will they will. (you think they will) oh yeah, I don't think Consciousness is people treat it's like the sound barrier that you're either below the speed of sound or you're above the speed of sound you've either got a model that hasn't yet got Consciousness or you've got there it's not like that at all. 
+
+**I think a lot of people were impressed by you talking about using Matlab. I'm not sure impressed is the right word, they were interested they were surprised. But what is your day-to-day work like you have other responsibilities but you spend more time on conceptualizing and that could happen while taking a walk or taking a shower or do you spend more time on experimenting like on Matlab or do you spend more time on running large experiments.**
+
+
+okay it varies a lot over time so I'll often spent a long time like when I wrote that paper about glom I spent a long time thinking about how to organize a perceptual system that was more neurally realistic and could deal with pothole hierarchists without having to do Dynamic setting up and connections and so I spent many months just thinking about how to do that and writing a paper about that I spent a lot of time trying
+to think about more biologically possible learning algorithms. yes and then programming little systems in
+Matlab and discovering why they don't work so the point about most original ideas is they're wrong and matlab's very convenient for quickly showing that they're wrong and very small toy problems like recognizing
+handwritten digits I'm very familiar with that task, I can very quickly test out an idea to see if it works and I've got I've probably got on my computer thousands of programs that didn't work well that I programmed in an afternoon and an afternoon was sufficient to decide that okay that's not going to work probably that's probably not going to work you never know for sure because there might be some little trick you didn't think of and then there will be periods when I think I've got onto something that does work and I'll spend several weeks programming and running things to see if it works. yeah I've been doing that recently with the forward forward. Let me see why I use Matlab I learned lots of languages when I was young I learned pop two which was an Edinburgh language, UCSD Pascal a lisp common lisp scheme, all sorts of lisps and vanilla Matlab which is ugly in some ways but if you're dealing with vectors and matrices it's what you want it makes
+it convenient and I became fluent in Matlab and I should have learned Python and I should have learned all sorts of other things but when you're old you're much slower learning language and I'd learned plenty of them and I figured since I'm fluent in Matlab and I can test out little ideas in Matlab and then other
+people can test out running your own big systems I would just stick with testing out things on Matlab
+there's a lot of things about just literally shaped me but it's also very convenient.
+
+**and you talk a lot about learning in toddlers And is that knowledge base something you accumulated years ago or are you continuing to read and talk to people in different fields.**
+
+I talk to a lot of people and I learned most things from talking to people I'm not very good at reading it. I read very slowly and when I come to equations they slow me up a lot so I've learned most of what I know from talking to people and I'm lucky it's only got lots of good people to talk to like I talked to Terry
+sonoski and he tells me about all sorts of Neuroscience things I talked to Josh Tenenbaum when he tells me about all sorts of cognitive science things. I talked to James Howell and he tells me lots of kind of science psychology things. So I get most of my knowledge just from talking to people. your target nerves you mentioned yeah he corrected my pronunciation of his name look Khan why did you reference him in that talk oh because for many years he was pushing convolutional neural networks oh okay and the vision Community said okay they're fine for little things like handwritten digits but they'll never work for real images and
+there was a famous paper submitted to a conference where him and his co-workers where he actually did better than any other system on a particular Benchmark I think it was segmenting pedestrians but I'm not quite sure it was something like that and the paper got rejected even though it had the best results and one of the referees so the reason they were rejecting the paper was because the system learned everything so it
+taught us nothing about vision and this is a wonderful example of a paradigm and the Paradigm for computer vision was you study the task that has to be performed the computation has to be performed you figure out an algorithm that'll do that computation and then you figure out how to implement it efficiently. and so the knowledge is all explicit the knowledge that it's using to do the vision, is explicit you have to sort it out mathematically and then implement it and sitting there in the program and they just assumed that's the way that computer vision is going to work and because computer vision has to work that way if someone comes along and just learns everything. so they're no use to you because they haven't said what the knowledge is what is the heuristic you're using
 and so it's okay maybe it works but
 that's just good luck in the end we're
 bound to work better than that because
