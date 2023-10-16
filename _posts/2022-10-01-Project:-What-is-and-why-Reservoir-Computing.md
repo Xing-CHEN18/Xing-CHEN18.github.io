@@ -76,11 +76,29 @@ _Limited Transfer Learning_: One of the strengths of deep learning is the abilit
 
 _Physical Implementation Challenges_: While there's interest in physical reservoir computing (e.g., using optical systems or other physical processes as reservoirs), these can introduce challenges in terms of hardware implementation, stability, and reproducibility.
 
-
 ## Ongoing research and future of RC
+
+Physical Reservoirs: There's growing interest in implementing reservoirs in physical systems, such as optical systems, water waves, or electronic circuits. These physical reservoirs can be incredibly fast and power-efficient, opening the door for real-time, low-power processing applications.
+
+Optimization of Hyperparameters: Given the sensitivity of RC to hyperparameters, research into automated methods for optimizing these (e.g., using genetic algorithms or other search techniques) continues to be of interest.
+
+Deep Reservoirs: While traditional RC typically employs a single reservoir layer, there's exploration into stacking multiple reservoirs to form a deep architecture, potentially improving the expressive power of the model.
+
+Training the Reservoir: Although the reservoir is traditionally kept fixed, some research directions involve partially training or adapting the reservoir to better fit specific tasks, aiming to combine the best of traditional RNNs and RC.
+
+Hybrid Models: Combining RC with other neural network architectures, such as convolutional layers for image data or transformers for sequence data, could harness the strengths of both worlds.
+
+Regularization and Stability: Investigating techniques to improve the stability and generalization of RC, ensuring that the reservoir dynamics are rich yet controlled.
+
+Neuromorphic Implementations: With the rise of neuromorphic computing, where hardware is designed to mimic the brain's neural structure, RC could play a role given its brain-inspired approach to processing temporal data.
+
+Large-scale Applications: Exploring the scalability of RC to handle larger, more complex real-world applications, such as high-dimensional time series forecasting, large-scale robotics control, and more.
+
+Theory and Analysis: Deepening the theoretical understanding of why and when RC works, drawing parallels to brain function, and studying the mathematical properties of reservoirs.
+
+Application in Edge Devices: Given the efficiency of RC, there's potential for its application in edge devices where computational resources are limited but real-time processing is essential.
+
 talks about next generation of RC
 
 
-References:
-For someone who wants to know more about theoretical basis of RC
--
+
