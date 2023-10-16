@@ -98,6 +98,6 @@ _Theory and Analysis_: Deepening the theoretical understanding of why and when R
 
 _Application in Edge Devices_: Given the efficiency of RC, there's potential for its application in edge devices where computational resources are limited but real-time processing is essential.
 
-Also checkout the paper of [Reservoir Computing with Untrained Convolutional Neural Networks for Image Recognition](https://ieeexplore.ieee.org/document/8545471) for further insights.
+Also checkout the paper of [Next generation reservoir computing](https://www.nature.com/articles/s41467-021-25801-2) for further insights.
 
 
