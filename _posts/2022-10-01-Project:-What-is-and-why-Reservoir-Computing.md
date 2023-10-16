@@ -22,9 +22,40 @@ The computational approach of RC stands out as a brain-inspired framework to pro
 - Another notable analogy between RC and the brain is their underlying memory hierarchy. Unlike conventional computers, the human brain has memory inseparable from computing units (neurons). RC tries to alleviate this discrepancy by including memory in the computation procedure.
 
 ## What is the advantages of RC & Is there any real industrial-level applications of RC?
-talks about the CNN +RC
+
+Here are some advantages of Reservoir Computing:
+
+Training Efficiency: One of the main benefits of RC is that training is typically much faster compared to traditional recurrent neural networks (RNNs) like LSTMs or GRUs. This is because only the output weights of the reservoir need to be trained, while the recurrent part remains fixed.
+
+Rich Dynamics with Sparse Connectivity: The reservoir, even when sparsely connected, can exhibit a wide range of dynamic behaviors, allowing it to generate rich temporal representations of the input sequences.
+
+Avoidance of Gradient-based Issues: Traditional RNNs can suffer from problems like the vanishing or exploding gradient. Because RC doesn't require gradient-based training for its recurrent part, it avoids these issues.
+
+Flexibility: The reservoir can be implemented using various structures or even physical systems. This leads to applications in "physical reservoir computing", where physical processes, such as water waves or optical systems, act as reservoirs.
+
+Regularization: The structure of RC naturally introduces a form of regularization, which can sometimes lead to better generalization on certain tasks.
+
+Adaptability: Reservoir Computing can be applied to a variety of time series tasks without much change in the reservoir's structure.
+
+As for industrial-level applications:
+
+Time Series Prediction: This is one of the primary applications of RC. Industries with a lot of time series data (like finance, energy, or retail) can use RC for forecasting.
+
+Anomaly Detection: In industries like manufacturing, RC can be used to detect anomalies in time series data, such as machine wear and tear or process disruptions.
+
+Robotics: RC has been explored in robot control tasks, especially in scenarios that involve temporal patterns.
+
+Telecommunications: RC has been researched for applications in channel equalization and signal processing.
+
+Physical Reservoir Computing: As mentioned, there's growing interest in using physical processes as reservoirs. This has potential applications in areas like optical computing and other specialized computing architectures.
+
+Image classification: Though not widely used, there are also some work exploring the power of RC for image recognition. For example, in the paper of [Reservoir Computing with Untrained Convolutional Neural Networks for Image Recognition](https://ieeexplore.ieee.org/document/8545471), where they propose a new method which combines reservoir computing with untrained convolutional neural networks. They use an untrained convolutional neural network to transform raw image data into a set of smaller feature maps in a preprocessing step of the reservoir computing. 
+
 
 ## Limitations of RC method
+
+However, while RC has some advantages and has been applied in various domains, it hasn't seen as widespread industrial adoption as some other neural network architectures. This is partially due to the dominance and flexibility of other RNN architectures like LSTMs and GRUs, as well as the surge of Transformer-based models, which have achieved state-of-the-art performance on many tasks.
+
 
 
 
