@@ -56,7 +56,25 @@ _Image classification_: Though not widely used, there are also some work explori
 
 However, while RC has some advantages and has been applied in various domains, it hasn't seen as widespread industrial adoption as some other neural network architectures. This is partially due to the dominance and flexibility of other RNN architectures like LSTMs and GRUs, as well as the surge of Transformer-based models, which have achieved state-of-the-art performance on many tasks.
 
+More specifically:
 
+_Fixed Reservoir_: The reservoir in RC is typically not trained. While this speeds up training, it can also limit the performance of the network, especially if the reservoir's initial configuration isn't suitable for the task.
+
+_Hyperparameter Sensitivity_: The performance of RC is often sensitive to the choice of hyperparameters, such as reservoir size, connectivity density, spectral radius, and input scaling. Finding the right set of hyperparameters can require a lot of trial and error.
+
+_Scalability_: While RC is efficient in certain applications, especially those involving time series data, it might not scale as effectively for more complex tasks when compared to other architectures like LSTMs or GRUs.
+
+_Memory Limitations_: Large reservoirs can require significant memory, which can become a bottleneck in some applications.
+
+_Non-universality_: While traditional recurrent networks like LSTMs have demonstrated versatility across a wide range of tasks, RC's applicability can sometimes be more niche.
+
+_Difficulty with Long Sequences_: Despite being a recurrent architecture, RC can sometimes struggle with very long sequences, especially if the reservoir is not sufficiently large or properly configured.
+
+_Research Gap_: Compared to more mainstream neural network architectures, there's a smaller community working on RC, which means there might be fewer tools, pre-trained models, and resources available.
+
+_Limited Transfer Learning_: One of the strengths of deep learning is the ability to transfer learned features from one task to another using pre-trained models. Given the fixed nature of the reservoir in RC, this kind of transfer learning is less straightforward.
+
+_Physical Implementation Challenges_: While there's interest in physical reservoir computing (e.g., using optical systems or other physical processes as reservoirs), these can introduce challenges in terms of hardware implementation, stability, and reproducibility.
 
 
 ## Ongoing research and future of RC
