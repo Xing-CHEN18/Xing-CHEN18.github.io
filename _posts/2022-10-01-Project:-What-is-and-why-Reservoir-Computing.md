@@ -25,31 +25,31 @@ The computational approach of RC stands out as a brain-inspired framework to pro
 
 Here are some advantages of Reservoir Computing:
 
-Training Efficiency: One of the main benefits of RC is that training is typically much faster compared to traditional recurrent neural networks (RNNs) like LSTMs or GRUs. This is because only the output weights of the reservoir need to be trained, while the recurrent part remains fixed.
+_Training Efficiency_: One of the main benefits of RC is that training is typically much faster compared to traditional recurrent neural networks (RNNs) like LSTMs or GRUs. This is because only the output weights of the reservoir need to be trained, while the recurrent part remains fixed.
 
-Rich Dynamics with Sparse Connectivity: The reservoir, even when sparsely connected, can exhibit a wide range of dynamic behaviors, allowing it to generate rich temporal representations of the input sequences.
+_Rich Dynamics with Sparse Connectivity_: The reservoir, even when sparsely connected, can exhibit a wide range of dynamic behaviors, allowing it to generate rich temporal representations of the input sequences.
 
-Avoidance of Gradient-based Issues: Traditional RNNs can suffer from problems like the vanishing or exploding gradient. Because RC doesn't require gradient-based training for its recurrent part, it avoids these issues.
+_Avoidance of Gradient-based Issues_: Traditional RNNs can suffer from problems like the vanishing or exploding gradient. Because RC doesn't require gradient-based training for its recurrent part, it avoids these issues.
 
-Flexibility: The reservoir can be implemented using various structures or even physical systems. This leads to applications in "physical reservoir computing", where physical processes, such as water waves or optical systems, act as reservoirs.
+_Flexibility_: The reservoir can be implemented using various structures or even physical systems. This leads to applications in "physical reservoir computing", where physical processes, such as water waves or optical systems, act as reservoirs.
 
-Regularization: The structure of RC naturally introduces a form of regularization, which can sometimes lead to better generalization on certain tasks.
+_Regularization_: The structure of RC naturally introduces a form of regularization, which can sometimes lead to better generalization on certain tasks.
 
-Adaptability: Reservoir Computing can be applied to a variety of time series tasks without much change in the reservoir's structure.
+_Adaptability_: Reservoir Computing can be applied to a variety of time series tasks without much change in the reservoir's structure.
 
 As for industrial-level applications:
 
-Time Series Prediction: This is one of the primary applications of RC. Industries with a lot of time series data (like finance, energy, or retail) can use RC for forecasting.
+_Time Series Prediction_: This is one of the primary applications of RC. Industries with a lot of time series data (like finance, energy, or retail) can use RC for forecasting.
 
-Anomaly Detection: In industries like manufacturing, RC can be used to detect anomalies in time series data, such as machine wear and tear or process disruptions.
+_Anomaly Detection_: In industries like manufacturing, RC can be used to detect anomalies in time series data, such as machine wear and tear or process disruptions.
 
-Robotics: RC has been explored in robot control tasks, especially in scenarios that involve temporal patterns.
+_Robotics_: RC has been explored in robot control tasks, especially in scenarios that involve temporal patterns.
 
-Telecommunications: RC has been researched for applications in channel equalization and signal processing.
+_Telecommunications_: RC has been researched for applications in channel equalization and signal processing.
 
-Physical Reservoir Computing: As mentioned, there's growing interest in using physical processes as reservoirs. This has potential applications in areas like optical computing and other specialized computing architectures.
+_Physical Reservoir Computing_: As mentioned, there's growing interest in using physical processes as reservoirs. This has potential applications in areas like optical computing and other specialized computing architectures.
 
-Image classification: Though not widely used, there are also some work exploring the power of RC for image recognition. For example, in the paper of [Reservoir Computing with Untrained Convolutional Neural Networks for Image Recognition](https://ieeexplore.ieee.org/document/8545471), where they propose a new method which combines reservoir computing with untrained convolutional neural networks. They use an untrained convolutional neural network to transform raw image data into a set of smaller feature maps in a preprocessing step of the reservoir computing. 
+_Image classification_: Though not widely used, there are also some work exploring the power of RC for image recognition. For example, in the paper of [Reservoir Computing with Untrained Convolutional Neural Networks for Image Recognition](https://ieeexplore.ieee.org/document/8545471), where they propose a new method which combines reservoir computing with untrained convolutional neural networks. They use an untrained convolutional neural network to transform raw image data into a set of smaller feature maps in a preprocessing step of the reservoir computing. 
 
 
 ## Limitations of RC method
