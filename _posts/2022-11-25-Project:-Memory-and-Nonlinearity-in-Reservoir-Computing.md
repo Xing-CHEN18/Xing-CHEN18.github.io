@@ -27,6 +27,9 @@ Nonlinear systems, however, are characterized by equations where the output is n
 In the context of reservoir computing, we typically require the system to be nonlinear because linear systems, even with memory, can be insufficient for capturing the complexity of many real-world signals. Nonlinear systems can create complex, high-dimensional representations of input data, which are essential for tasks such as pattern recognition in noisy environments.
 
 Here's a simple mathematical contrast between a linear and a nonlinear system with memory:
+\\[
+y(t) = b_0x(t) + b_1x(t - 1) + b_2x(t - 2) + \ldots
+\\]
 
 
 
