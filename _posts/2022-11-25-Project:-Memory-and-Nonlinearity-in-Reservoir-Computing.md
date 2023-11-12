@@ -35,7 +35,17 @@ y(t) = b_0x(t) + b_1x(t - 1) + b_2x(t - 2) + \ldots
 \\]
 
 This is a convolution operation, which is linear. Despite having memory (past inputs influence the output), it is linear because doubling the input 
-\\( x(t) \\) will double the output \\( y(t) \\).
+\\( x(t) \\) will double the output \\( y(t) \\). 
+
+More strictly saying, a system is considered linear if it satisfies two properties:
+
+1. Additivity (or Superposition): If input \( x_1(t) \) produces response \( y_1(t) \) and input \( x_2(t) \) produces response \( y_2(t) \), then input \( a_1x_1(t) + a_2x_2(t) \) should produce response \( a_1y_1(t) + a_2y_2(t) \), where \( a_1 \) and \( a_2 \) are constants.
+
+2. Homogeneity (or Scaling): If input \( x(t) \) produces response \( y(t) \), then input \( ax(t) \) should produce response \( ay(t) \), where \( a \) is a constant.
+
+Additivity (or Superposition): If input produces response  (t) and input  (t) produces response  (t), then input  should produce response  , where  and  are constants.
+
+Homogeneity (or Scaling): If input  produces response  , then input  should produce response , where is a constant.
 
 For the nonlinear system with memory:
 \\[
