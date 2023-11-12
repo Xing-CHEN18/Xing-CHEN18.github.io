@@ -14,13 +14,13 @@ Furthermore, the Zeigarnik effect, a psychological phenomenon which states that 
 
 **Then, how can we navigate these cognitive patterns**
 
-Setting smaller, incremental goals can help maintain a sense of achievement and provide ongoing motivation. Behavioral psychologists also suggest using implementation intentions—specific plans about when, where, and how you will perform a behavior—as these can increase the likelihood of follow-through.
+Setting smaller, incremental goals can help maintain a sense of achievement and provide ongoing motivation. Behavioral psychologists also suggest using implementation intentions—specific plans about when, where, and how we will perform a behavior—as these can increase the likelihood of follow-through.
 
 Self-compassion is also key. Understanding that what you're experiencing is a natural part of human behavior can alleviate some of the self-imposed stigma around 'failing' to maintain new habits. Research on self-compassion suggests that being kind to yourself during times of perceived failure can actually increase motivation and improve emotional well-being.
 
 Finally, re-evaluating the intrinsic value you place on tasks like writing and language learning can reignite your commitment. If these activities align with your deeper values and sense of purpose, reflecting on this alignment can rekindle your motivation.
 
-In conclusion, the ebb and flow of enthusiasm and motivation you're experiencing are not merely personal quirks but are woven into the fabric of human psychology. By understanding the underlying mechanisms, you can adopt strategies to navigate these waters and perhaps find a more sustained rhythm to your endeavors.
+In conclusion, the ebb and flow of enthusiasm and motivation are not merely personal quirks but are woven into the fabric of human psychology. Hope everyone can be self-consistent, make joyful progress, and cheer for every little achievement of their own.
 
 
 <!-- This is a comment and will not be visible in the rendered Markdown 
