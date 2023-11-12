@@ -6,7 +6,7 @@ One of the enlighting take-aways from one of my favorite podcasts -- 得意忘�
 
 I realized the most difficult part for me is not to get started (which I feel happy about that), but to keep on doing things that I think is important or correct. For example, I think keep writing blogs to record my thinking during my research and my life either to reflect myself or to help others is meaningful. But I failed to keep the consistency just after doing it for several days. I think keep learning french is necessary, extremely useful and interesting at the same time, I was full of enthusiastic about my detailed study plan for the near future, but I lost the fighting spirit after a few days of consistency (though i still have motivation:). Is that possible they are just not that important than you imagined? How can I break through from these embarrassing situations? 
 
-I think most people met similar situations. Before finding solutions, let's understand it a bit more.
+I think most people met similar situations. Before finding solutions, let's dig it out a bit more.
 
 ![_config.yml]({{ site.baseurl }}/images/you are ready.png)
 
