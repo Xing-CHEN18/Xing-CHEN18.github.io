@@ -27,10 +27,24 @@ Nonlinear systems, however, are characterized by equations where the output is n
 In the context of reservoir computing, we typically require the system to be nonlinear because linear systems, even with memory, can be insufficient for capturing the complexity of many real-world signals. Nonlinear systems can create complex, high-dimensional representations of input data, which are essential for tasks such as pattern recognition in noisy environments.
 
 Here's a simple mathematical contrast between a linear and a nonlinear system with memory:
+
+For the linear system with memory:
+
 \\[
 y(t) = b_0x(t) + b_1x(t - 1) + b_2x(t - 2) + \ldots
 \\]
 
+This is a convolution operation, which is linear. Despite having memory (past inputs influence the output), it is linear because doubling the input 
+\\( x(t) \\) will double the output \\( y(t) \\).
+
+For the nonlinear system with memory:
+\\[
+y(t) = \tanh(a_0x(t) + a_1x(t - 1) + a_2x(t - 2) + \ldots)
+\\]
+
+Here, the use of a nonlinear function like the hyperbolic tangent tanh ⁡tanh means that the relationship between input and output is no longer directly proportional. The memory effect is present, but the system can now capture more complex dynamics that a purely linear system cannot.
+
+In summary, while systems with memory can be linear or nonlinear, reservoir computing benefits from nonlinear dynamics to create rich, complex temporal patterns that enable the successful processing of time-series data.
 
 
 
