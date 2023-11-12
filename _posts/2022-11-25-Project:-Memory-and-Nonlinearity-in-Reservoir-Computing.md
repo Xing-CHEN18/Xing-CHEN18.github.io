@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 
 When talking about reservoir computing, one must mention that the reservoir's main requirements are nonlinearity and a memory effect, also known as the 'echo state property' in the context of Echo State Networks (see more in one of my other blog: ([What is and why reservoir computing](https://xing-chen18.github.io/Project-What-is-and-why-Reservoir-Computing/)). But why it isn't a system has certain memory effect must also have nonlinearity? Intuitively, Nonlinear systems often exhibit complex behaviors that are sensitive to initial conditions, such as chaos. Since memory effects introduce a form of complexity— where the output depends not just on the current input but also on past inputs— it can be easy to conflate this complexity with nonlinearity.
@@ -22,5 +22,3 @@ A Linear Time-Invariant (LTI) system is defined by linearity and time-invariance
 A Linear Time-Varying (LTV) system also can have memory and might have coefficients that change over time, but still maintains linearity in terms of the input-output relationship. An example might be a system whose resistance changes over time in a predictable manner.
 
 Nonlinear systems, however, are characterized by equations where the output is not proportional to the input. The behavior of such systems can be much more complex and less predictable than linear systems.
-
-
