@@ -12,7 +12,7 @@ I realized the most difficult part for me is not to get started (which I feel ha
 
 Furthermore, the Zeigarnik effect, a psychological phenomenon which states that people remember uncompleted or interrupted tasks better than completed tasks, can actually be harnessed to your advantage. Leaving a task slightly unfinished may increase the likelihood of returning to it, as our brains linger on unsolved or incomplete work. The notion that the importance of a task may be inflated at the outset is also grounded in psychological principles. The 'planning fallacy,' a term coined by Daniel Kahneman and Amos Tversky, refers to our tendency to underestimate the time, costs, and risks of future actions, while at the same time overestimating the benefits. Thus, the initial appeal of a new venture, like learning a language or writing a blog, can be magnified in our minds.
 
-**Then, how can we navigate these cognitive patterns**
+**Then, how can we navigate these cognitive patterns?**
 
 Setting smaller, incremental goals can help maintain a sense of achievement and provide ongoing motivation. Behavioral psychologists also suggest using implementation intentions—specific plans about when, where, and how we will perform a behavior—as these can increase the likelihood of follow-through.
 
