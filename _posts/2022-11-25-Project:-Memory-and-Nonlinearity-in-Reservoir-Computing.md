@@ -22,3 +22,6 @@ A Linear Time-Invariant (LTI) system is defined by linearity and time-invariance
 A Linear Time-Varying (LTV) system also can have memory and might have coefficients that change over time, but still maintains linearity in terms of the input-output relationship. An example might be a system whose resistance changes over time in a predictable manner.
 
 Nonlinear systems, however, are characterized by equations where the output is not proportional to the input. The behavior of such systems can be much more complex and less predictable than linear systems.
+
+
+
