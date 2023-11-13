@@ -18,6 +18,10 @@ It was during my research project at C2N in France that I discovered my passion 
 
 ## Recent news/experience
 
+* 2023.10 &nbsp; I attended the [International conference on neuromorphic, natural and physical computing](https://nnpc-conference.com/) (NNPC 2023) in Hanover, Germany. 
+
+* 2023.06 &nbsp; Our work of "Experimental demonstration of a skyrmion-enhanced strain-mediated physical reservoir computing system" was published in [Nature communications](https://www.nature.com/articles/s41467-023-39207-9)
+
 * 2022.11 &nbsp;	Oral presentation, IEEE MMM conference
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Finalist for **"Best student presentation award"**,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; _Minneapolis, USA_
