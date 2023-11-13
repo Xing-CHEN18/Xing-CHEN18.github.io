@@ -30,7 +30,7 @@ Related field: Noise contrastive Learning, visual representations, un/self super
 
 ## Reservoir computing for modeling time series data
 
-Related field: Noise contrastive Learning, visual representations, un/self supervised learning
+Related field: Echo state network, Ridge regression
 
 
 - [Project: What Is And Why Reservoir Computing](https://xing-chen18.github.io/Project-What-is-and-why-Reservoir-Computing/)
