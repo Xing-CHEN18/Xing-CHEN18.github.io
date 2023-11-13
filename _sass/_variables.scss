@@ -2,8 +2,6 @@
 // VARIABLES
 //
 @import url('https://fonts.googleapis.com/css?family=Roboto:400,700&display=swap');
-@import url('https://fonts.googleapis.com/css?family=Montserrat:400,700&display=swap');
-@import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,700&display=swap');
 
 // Colors
 $blue: #4183C4;
@@ -16,11 +14,15 @@ $gray: #666;
 $lightGray: #eee;
 $white: #fff;
 
+
+
+
+
 //  Font stacks
-$helvetica: monospace, Montserrat, Corbel, 'URW Gothic', 'Source Sans Pro', sans-serif;
+$helvetica: Roboto, Arial, sans-serif;
 $helveticaNeue: "Helvetica Neue", Helvetica, Arial, sans-serif;
 $georgia: Roboto, Georgia, serif;
-font-family: Avenir, Montserrat, Corbel, 'URW Gothic', source-sans-pro, sans-serif;
+
 
 // Base styles
 body {
