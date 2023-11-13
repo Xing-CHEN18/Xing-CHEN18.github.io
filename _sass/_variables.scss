@@ -15,25 +15,26 @@ $gray: #666;
 $lightGray: #eee;
 $white: #fff;
 
-// Font stacks
-$helvetica: Roboto, Arial, sans-serif;
-$helveticaNeue: "Helvetica Neue", Helvetica, Arial, sans-serif;
-$georgia: Roboto, Georgia, serif;
 
+
+// Font stacks
+$system-stack: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
 
 // Base styles
 body {
-  font-family: $helvetica;
+  font-family: $system-stack;
   color: $black;
+  font-size: 16px; // Set the base font size
   line-height: 1.6; // Adjust line height as needed
+  word-break: break-word; // Ensure words break to prevent overflow
+  background: $white; // Assuming you want a white background; replace with a variable if needed
 }
 
-// You can also apply specific font weights if needed
+// Heading styles
 h1, h2, h3, h4, h5, h6 {
-  font-family: $helveticaNeue; // If you want headings to use a different font
+  font-family: $system-stack; // Keep headings consistent with the body font
   font-weight: normal; // or 700 for bold, adjust as you prefer
 }
-
 
 // Mobile breakpoints
 @mixin mobile {
