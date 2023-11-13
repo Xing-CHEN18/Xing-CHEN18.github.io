@@ -1,7 +1,7 @@
 //
 // VARIABLES
 //
-@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,700&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Roboto:400,700&display=swap');
 
 // Colors
 $blue: #4183C4;
@@ -14,10 +14,11 @@ $gray: #666;
 $lightGray: #eee;
 $white: #fff;
 
-// Font stacks
-$helvetica: "Open Sans", Arial, sans-serif;
-$helveticaNeue: "Helvetica Neue", "Open Sans", Arial, sans-serif;
-$georgia: "Open Sans", Georgia, serif;
+//  Font stacks
+$helvetica: Roboto, Arial, sans-serif;
+$helveticaNeue: "Helvetica Neue", Helvetica, Arial, sans-serif;
+$georgia: Roboto, Georgia, serif;
+
 
 // Base styles
 body {
@@ -26,11 +27,12 @@ body {
   line-height: 1.6; // Adjust line height as needed
 }
 
-// Heading styles
+// You can also apply specific font weights if needed
 h1, h2, h3, h4, h5, h6 {
   font-family: $helveticaNeue; // If you want headings to use a different font
   font-weight: normal; // or 700 for bold, adjust as you prefer
 }
+
 
 // Mobile breakpoints
 @mixin mobile {
