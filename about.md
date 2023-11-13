@@ -28,6 +28,8 @@ It was during my research project at C2N in France that I discovered my passion 
 
 * 2022.02 &nbsp; Our work of "Forecasting the outcome of spintronic experiments with neural ordinary differential equations" was published in [Nature communications](https://www.nature.com/articles/s41467-022-28571-7)!
 
+* 2019.10 &nbsp; I won the **Best poster award** at 4th .
+
 * 2019.06 &nbsp; I attened IEEE magnetics Summer school with full scholarship in Virgina, USA.
 
 * 2019.01 &nbsp; I gave an oral presentation at IEEE Joint-MMM conference in DC, USA. 
