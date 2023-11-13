@@ -18,15 +18,15 @@ Impact: Improving machine learning models' interpretability.
 Reflection:
 
 
-## Forward-forward algorithm
+## Neural Ordinary Differential Equations for modeling time series data
 
+Related field: Noise contrastive Learning, visual representations, un/self supervised learning
 
-
-- [Project: Introduction Of The Forward Forward Method By Geoffrey Hilton](https://xing-chen18.github.io/Project-Introduction-of-the-forward-forward-method-by-Geoffrey-Hilton/)
 
 - [Project: What Is And Why Reservoir Computing](https://xing-chen18.github.io/Project-What-is-and-why-Reservoir-Computing/)
 
 - [How does FFT helps in micromagnetic simulations](https://xing-chen18.github.io/My-PhD/)
+
 
 ## Research on random things
 _I want to know more about other things_ 
@@ -43,7 +43,6 @@ _I want to know more about other things_
 ## Research on myself
 _I want to jot down some flashing ideas_
 
-- [Yearly: 2022 Recording](https://xing-chen18.github.io/Yearly-2022-Recording/)
 
 - [Daily: Tunnel Vision](https://xing-chen18.github.io/Daily-Tunnel-vision/)
 
