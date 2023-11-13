@@ -28,13 +28,11 @@ It was during my research project at C2N in France that I discovered my passion 
 
 * 2022.02 &nbsp; Our work of "Forecasting the outcome of spintronic experiments with neural ordinary differential equations" was published in [Nature communications](https://www.nature.com/articles/s41467-022-28571-7)!
 
-* 2019.06 &nbsp; I attened	IEEE magnetics Summer school with full scholarship)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_Virgina, USA_
+* 2019.06 &nbsp; I attened IEEE magnetics Summer school with full scholarship in Virgina, USA.
 
-* 2018.07 &nbsp; I attended one-month Machine Learning Summer School (with scholarship) at Technion in Israel
+* 2019.01 &nbsp; I gave an oral presentation at IEEE Joint-MMM conference in DC, USA. 
 
-* 2019.06 &nbsp;	IEEE magnetics Summer school (full scholarship)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_Virgina, USA_
-* 2019.01 &nbsp;	Oral presentation, IEEE Joint-MMM conference &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; _DC, USA_
-* 2018.05 &nbsp; Oral presentation, IEEE INTERMAG conference &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_Singapore_
+* 2018.05 &nbsp; I gave an oral presentation at IEEE INTERMAG conference in Singapore. 
 
 ## Publications
 
