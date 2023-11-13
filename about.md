@@ -22,7 +22,7 @@ It was during my research project at C2N in France that I discovered my passion 
 
 * 2023.06 &nbsp; Our work of "Experimental demonstration of a skyrmion-enhanced strain-mediated physical reservoir computing system" was published in [Nature communications](https://www.nature.com/articles/s41467-023-39207-9)!
 
-* 2022.11 &nbsp; I gave an oral presentation at IEEE MMM conference in Minneapolis, USA. My talk was also selected as [**Best student presentation award**](https://2023.magnetism.org/awards/presentations-awards)!
+* 2022.11 &nbsp; I gave an oral presentation at IEEE MMM conference in Minneapolis, USA. My talk was also selected as a finalist for the [**Best student presentation award**](https://2023.magnetism.org/awards/presentations-awards)!
 
 * 2022.09 &nbsp; I started my six-months internship as a research scientist at AI lab of Huawei Technology in Beijing, China.
 
