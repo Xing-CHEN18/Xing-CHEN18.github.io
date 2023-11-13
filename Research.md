@@ -38,7 +38,7 @@ Related field: Echo state network, Ridge regression
 - [How does FFT helps in micromagnetic simulations](https://xing-chen18.github.io/My-PhD/)
 
 
-## Other thinkings
+## List of my posts
 _I want to know more about other things_ 
 
 - [Daily: Why Not Drink Hot Water From Tap](https://xing-chen18.github.io/Daily-Turning-Up-the-Heat-Why-You-Rethink-Drinking-Warm-Tap-Water/)
