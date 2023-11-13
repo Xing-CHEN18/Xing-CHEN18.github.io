@@ -20,13 +20,18 @@ It was during my research project at C2N in France that I discovered my passion 
 
 * 2023.10 &nbsp; I attended the [International conference on neuromorphic, natural and physical computing](https://nnpc-conference.com/) (NNPC 2023) in Hanover, Germany. 
 
-* 2023.06 &nbsp; Our work of "Experimental demonstration of a skyrmion-enhanced strain-mediated physical reservoir computing system" was published in [Nature communications](https://www.nature.com/articles/s41467-023-39207-9)
+* 2023.06 &nbsp; Our work of "Experimental demonstration of a skyrmion-enhanced strain-mediated physical reservoir computing system" was published in [Nature communications](https://www.nature.com/articles/s41467-023-39207-9)!
 
-* 2022.11 &nbsp; I gave an oral presentation at IEEE MMM conference in Minneapolis, USA, and my talk was selected as [**Best student presentation award**](https://2023.magnetism.org/awards/presentations-awards)
+* 2022.11 &nbsp; I gave an oral presentation at IEEE MMM conference in Minneapolis, USA. My talk was also selected as [**Best student presentation award**](https://2023.magnetism.org/awards/presentations-awards)!
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Finalist for **"Best student presentation award"**,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; _Minneapolis, USA_
-* 2021.09 &nbsp;	Six-months Research Intern, AI lab of Huawei Technology &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; _Beijing, China_
-* 2018.07 &nbsp;	Machine Learning Summer School (with scholarship) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; _Technion, Israel_
+* 2022.09 &nbsp; I started my six-months internship as a research scientist at AI lab of Huawei Technology in Beijing, China.
+
+* 2022.02 &nbsp; Our work of "Forecasting the outcome of spintronic experiments with neural ordinary differential equations" was published in [Nature communications](https://www.nature.com/articles/s41467-022-28571-7)!
+
+* 2019.06 &nbsp; I attened	IEEE magnetics Summer school with full scholarship)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_Virgina, USA_
+
+* 2018.07 &nbsp; I attended one-month Machine Learning Summer School (with scholarship) at Technion in Israel
+
 * 2019.06 &nbsp;	IEEE magnetics Summer school (full scholarship)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_Virgina, USA_
 * 2019.01 &nbsp;	Oral presentation, IEEE Joint-MMM conference &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; _DC, USA_
 * 2018.05 &nbsp; Oral presentation, IEEE INTERMAG conference &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_Singapore_
