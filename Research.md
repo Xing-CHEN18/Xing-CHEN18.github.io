@@ -27,8 +27,17 @@ Related field: Noise contrastive Learning, visual representations, un/self super
 
 - [How does FFT helps in micromagnetic simulations](https://xing-chen18.github.io/My-PhD/)
 
+## Neural Ordinary Differential Equations for modeling time series data
 
-## Ohter sresearch
+Related field: Noise contrastive Learning, visual representations, un/self supervised learning
+
+
+- [Project: What Is And Why Reservoir Computing](https://xing-chen18.github.io/Project-What-is-and-why-Reservoir-Computing/)
+
+- [How does FFT helps in micromagnetic simulations](https://xing-chen18.github.io/My-PhD/)
+
+
+## Other thinkings
 _I want to know more about other things_ 
 
 - [Daily: Why Not Drink Hot Water From Tap](https://xing-chen18.github.io/Daily-Turning-Up-the-Heat-Why-You-Rethink-Drinking-Warm-Tap-Water/)
