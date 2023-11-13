@@ -11,7 +11,7 @@ Introduction: The Forward-Forward algorithm replaces the forward and backward pa
 
 [Project: Introduction Of The Forward Forward Method By Geoffrey Hilton](https://xing-chen18.github.io/Project-Introduction-of-the-forward-forward-method-by-Geoffrey-Hilton/)
 
-My Work: Generalize the forward-forward algorithm in a broader situation and can be applied in different dataset with better accuracy
+My Work: Generalize the forward-forward algorithm in a broader situation and can be applied in different dataset with higher accuracy
 
 Impact: Improving machine learning models' interpretability.
 
