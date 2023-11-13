@@ -28,21 +28,16 @@ Related field: Noise contrastive Learning, visual representations, un/self super
 - [How does FFT helps in micromagnetic simulations](https://xing-chen18.github.io/My-PhD/)
 
 
-## Research on random things
+## Ohter sresearch
 _I want to know more about other things_ 
 
-- [Daily: Why Not Drink Hot Water From Tap](https://xing-chen18.github.io/Daily-Why-not-drink-hot-water-from-tap/)
+- [Daily: Why Not Drink Hot Water From Tap](https://xing-chen18.github.io/Daily-Turning-Up-the-Heat-Why-You-Rethink-Drinking-Warm-Tap-Water/)
 
 - [Know How: Git Usage](https://xing-chen18.github.io/know-how-Git-usage/)
 
 - [Daily: How Does A Ticket Work](https://xing-chen18.github.io/Daily-How-does-a-ticket-work/)
 
 - [Daily: Why Eu Countries Do Not Use Qr Code Payment As China Does](https://xing-chen18.github.io/Daily-Why-Eu-countries-do-not-use-QR-code-payment-as-China-does/)
-
-
-## Research on myself
-_I want to jot down some flashing ideas_
-
 
 - [Daily: Tunnel Vision](https://xing-chen18.github.io/Daily-Tunnel-vision/)
 
