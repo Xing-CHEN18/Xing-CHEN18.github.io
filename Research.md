@@ -27,7 +27,8 @@ Related field: Noise contrastive Learning, visual representations, un/self super
 
 - [How does FFT helps in micromagnetic simulations](https://xing-chen18.github.io/My-PhD/)
 
-## Neural Ordinary Differential Equations for modeling time series data
+
+## Reservoir computing for modeling time series data
 
 Related field: Noise contrastive Learning, visual representations, un/self supervised learning
 
