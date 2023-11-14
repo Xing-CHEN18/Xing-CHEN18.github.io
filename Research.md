@@ -15,16 +15,14 @@ To learn more about the details, I would recommend watching his interview, or my
 
 **My Work**: I have developed an advanced method of generating negative data that diverges from and improves upon Geoffrey Hinton's initial Forward-Forward Algorithm framework. My approach has been tested on the CIFAR10 dataset, where it has not only achieved remarkable accuracy but also surpassed the performance benchmarks set by existing unsupervised local learning algorithms.
 
-**Impact**: Improving machine learning models' interpretability. The implications extend to real-world applications, including but not limited to, enhanced computer vision systems, etc.
+**Impact**: Improving machine learning models' interpretability. The implications extend to real-world applications, including but not limited to, enhanced computer vision systems, more efficient natural language processors, etc.
 
-**Future work**: 
-
+**Future work**: Scaling these methods for larger and more complex datasets and exploring the potential for broader applications in various AI domains.
 
 
 ## Neural Ordinary Differential Equations for modeling time series data
 
 Related field: Noise contrastive Learning, visual representations, un/self supervised learning
-
 
 - [Project: What Is And Why Reservoir Computing](https://xing-chen18.github.io/Project-What-is-and-why-Reservoir-Computing/)
 
