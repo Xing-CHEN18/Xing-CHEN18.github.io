@@ -38,6 +38,16 @@ Related field: Echo state network, Ridge regression
 - [How does FFT helps in micromagnetic simulations](https://xing-chen18.github.io/My-PhD/)
 
 
+## Micromagnetic simulations for modeling magnetic materials
+
+Related field: Echo state network, Ridge regression
+
+
+- [Project: What Is And Why Reservoir Computing](https://xing-chen18.github.io/Project-What-is-and-why-Reservoir-Computing/)
+
+- [How does FFT helps in micromagnetic simulations](https://xing-chen18.github.io/My-PhD/)
+
+
 ## List of my posts
 _I want to know more about other things_ 
 
