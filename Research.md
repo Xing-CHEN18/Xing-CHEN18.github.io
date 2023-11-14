@@ -20,10 +20,11 @@ To learn more about the details, I would recommend watching his interview, or my
 **Future work**: Scaling these methods for larger and more complex datasets and exploring the potential for broader applications in various AI domains.
 
 
-## -Neural Ordinary Differential Equations for modeling time series data
+- ## Neural Ordinary Differential Equations for modeling time series data
 
 **Related fields**: Noise contrastive Learning, visual representations, un/self supervised learning
 
+**Introduction**: Our research introduces a breakthrough method utilizing Neural Ordinary Differential Equations (Neural ODEs) to forecast the behavior of spintronic devices. Trained on minimal data, this dynamic neural network model offers high accuracy and remarkable time efficiency—an acceleration factor over 200 times—compared to traditional micromagnetic simulations.
 
 
 
