@@ -24,6 +24,11 @@ To learn more about the details, I would recommend watching his interview, or my
 
 **Introduction**: This study addresses the gap in applying artificial intelligence to discover the complete differential equations governing physical experiments. It focuses on the domain of spintronics, where the behavior of devices underpins future technological advancements.
 
+<p align="center">
+  <img alt="img-name" src="{{ site.baseurl }}/images/NODE.PNG" height="auto" width="600">
+    <em>Selfie with yeye in Jan 1st of 2022 (Left: at home; Right: at Temple of Heaven 天坛)</em>
+</p>
+
 **My Contribution**: I led the initiative to adapt Neural Ordinary Differential Equations to spintronics' unique constraints, involving few outputs, multiple inputs, and internal parameters. Our model, trained on minimal data, successfully predicted spintronic devices' behaviors with remarkable accuracy and efficiency.
 
 **Impact**: Our approach demonstrated an over 200-fold acceleration in simulation time compared to traditional methods, predicting the response of experimental spintronic nano-oscillators effectively. It stands to significantly speed up the development process in spintronics and potentially other areas involving dynamic electronic devices.
