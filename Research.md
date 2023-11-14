@@ -22,11 +22,15 @@ To learn more about the details, I would recommend watching his interview, or my
 
 - ## Neural Ordinary Differential Equations for modeling time series data
 
-**Related fields**: Noise contrastive Learning, visual representations, un/self supervised learning
+**Related fields**: Residual Network, Differential Equations, Time series forcasting
 
-**Introduction**: Our research introduces a breakthrough method utilizing Neural Ordinary Differential Equations (Neural ODEs) to forecast the behavior of spintronic devices. Trained on minimal data, this dynamic neural network model offers high accuracy and remarkable time efficiency—an acceleration factor over 200 times—compared to traditional micromagnetic simulations.
+**Introduction**: This study addresses the gap in applying artificial intelligence to discover the complete differential equations governing physical experiments. It focuses on the domain of spintronics, where the behavior of devices underpins future technological advancements.
 
+**My Contribution**: I led the initiative to adapt Neural Ordinary Differential Equations to spintronics' unique constraints, involving few outputs, multiple inputs, and internal parameters. Our model, trained on minimal data, successfully predicted spintronic devices' behaviors with remarkable accuracy and efficiency.
 
+**Impact**: Our approach demonstrated an over 200-fold acceleration in simulation time compared to traditional methods, predicting the response of experimental spintronic nano-oscillators effectively. It stands to significantly speed up the development process in spintronics and potentially other areas involving dynamic electronic devices.
+
+**Reflection/Future Work** The promising results from Neural ODEs in spintronics suggest a disruptive tool for rapid and accurate modeling, complementing time-intensive micromagnetic simulations. Looking ahead, we aim to generalize this approach to a broader range of electronic devices, optimizing the functionality and efficiency of next-generation technologies.
 
 ## Reservoir computing for modeling time series data
 
