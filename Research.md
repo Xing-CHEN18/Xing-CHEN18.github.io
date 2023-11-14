@@ -26,7 +26,7 @@ To learn more about the details, I would recommend watching his interview, or my
 
 <p align="center">
   <img alt="img-name" src="{{ site.baseurl }}/images/NODE.PNG" height="auto" width="600">
-    <em>Selfie with yeye in Jan 1st of 2022 (Left: at home; Right: at Temple of Heaven 天坛)</em>
+    <em>Design of the network architecture</em>
 </p>
 
 **My Contribution**: I led the initiative to adapt Neural Ordinary Differential Equations to spintronics' unique constraints, involving few outputs, multiple inputs, and internal parameters. Our model, trained on minimal data, successfully predicted spintronic devices' behaviors with remarkable accuracy and efficiency.
