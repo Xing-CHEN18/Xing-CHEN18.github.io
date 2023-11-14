@@ -3,7 +3,7 @@
 
 Research Overview
 
-## Generalization of the Forward-forward algorithm
+## Advancing the Forward-Forward Algorithm
 
 Related fields: Noise contrastive Learning, visual representations, un/self-supervised learning
 
