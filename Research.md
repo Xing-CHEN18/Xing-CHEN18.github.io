@@ -9,9 +9,7 @@ Research Overview
 
 **Introduction**: The Forward-Forward Algorithm, as conceptualized by Geoffrey Hinton, is a novel approach to learning in neural networks. This learning method is particularly distinctive because it replaces the traditional forward and backward passes of backpropagation—fundamental to deep learning— with two forward passes. This project can be presented as a step towards more energy-efficient and potentially biologically realistic forms of learning in artificial neural networks. 
 
-To learn more about the details, I would recommend watching his interview, or my post for a general intro: 
-
-- [Introduction Of The Forward Forward Method By Geoffrey Hilton](https://xing-chen18.github.io/Project-Introduction-of-the-forward-forward-method-by-Geoffrey-Hilton/)
+To learn more about the details, I would recommend watching his interview, or my post for a general intro: [Introduction Of The Forward Forward Method By Geoffrey Hilton](https://xing-chen18.github.io/Project-Introduction-of-the-forward-forward-method-by-Geoffrey-Hilton/)
 
 **My Work**: I have developed an advanced method of generating negative data that diverges from and improves upon Geoffrey Hinton's initial Forward-Forward Algorithm framework. My approach has been tested on the CIFAR10 dataset, where it has not only achieved remarkable accuracy but also surpassed the performance benchmarks set by existing unsupervised local learning algorithms.
 
@@ -31,6 +29,8 @@ To learn more about the details, I would recommend watching his interview, or my
 **Impact**: Our approach demonstrated an over 200-fold acceleration in simulation time compared to traditional methods, predicting the response of experimental spintronic nano-oscillators effectively. It stands to significantly speed up the development process in spintronics and potentially other areas involving dynamic electronic devices.
 
 **Reflection/Future Work** The promising results from Neural ODEs in spintronics suggest a disruptive tool for rapid and accurate modeling, complementing time-intensive micromagnetic simulations. Looking ahead, we aim to generalize this approach to a broader range of electronic devices, optimizing the functionality and efficiency of next-generation technologies.
+
+**Publication and code**: [Forecasting the outcome of spintronic experiments with neural ordinary differential equations](https://www.nature.com/articles/s41467-022-28571-7)
 
 - ## Reservoir computing for modeling time series data
 
