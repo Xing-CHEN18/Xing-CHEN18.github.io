@@ -25,7 +25,7 @@ To learn more about the details, I would recommend watching his interview, or my
 **Introduction**: This study addresses the gap in applying artificial intelligence to discover the complete differential equations governing physical experiments. It focuses on the domain of spintronics, where the behavior of devices underpins future technological advancements.
 
 <p align="center">
-  <img alt="img-name" src="{{ site.baseurl }}/images/NODE.PNG" height="auto" width="600">
+  <img alt="img-name" src="{{ site.baseurl }}/images/NODE.PNG" height="auto" width="auto">
     <em>Design of the network architecture</em>
 </p>
 
