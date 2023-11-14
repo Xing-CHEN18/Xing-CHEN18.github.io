@@ -17,7 +17,7 @@ To learn more about the details, I would recommend watching his interview, or my
 
 **Impact**: Improving machine learning models' interpretability. The implications extend to real-world applications, including but not limited to, enhanced computer vision systems, more efficient natural language processors, etc.
 
-**Future work**: Scaling these methods for larger and more complex datasets and exploring the potential for broader applications in various AI domains.
+**Future work**: Scaling these methods for larger and more complex datasets and exploring the potential for broader applications in various AI domains. The mauscript is under preparation and code is going to be published.
 
 
 - ## Neural Ordinary Differential Equations for modeling time series data
@@ -32,7 +32,7 @@ To learn more about the details, I would recommend watching his interview, or my
 
 **Reflection/Future Work** The promising results from Neural ODEs in spintronics suggest a disruptive tool for rapid and accurate modeling, complementing time-intensive micromagnetic simulations. Looking ahead, we aim to generalize this approach to a broader range of electronic devices, optimizing the functionality and efficiency of next-generation technologies.
 
-## Reservoir computing for modeling time series data
+- ## Reservoir computing for modeling time series data
 
 Related field: Echo state network, Ridge regression
 
