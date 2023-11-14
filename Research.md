@@ -7,7 +7,7 @@ Research Overview
 
 **Related fields**: Noise contrastive Learning, visual representations, un/self-supervised learning
 
-**Introduction**: The Forward-Forward Algorithm, as conceptualized by Geoffrey Hinton, is a novel approach to learning in neural networks. This learning method is particularly distinctive because it replaces the traditional forward and backward passes of backpropagation—fundamental to deep learning— with two forward passes. This project can be presented as a step towards more energy-efficient and potentially biologically realistic forms of learning in artificial neural networks. The research focuses on pushing the boundaries of what's currently possible with neural network training, aiming to both improve upon traditional methods and provide insights into how learning might actually occur in the human brain.
+**Introduction**: The Forward-Forward Algorithm, as conceptualized by Geoffrey Hinton, is a novel approach to learning in neural networks. This learning method is particularly distinctive because it replaces the traditional forward and backward passes of backpropagation—fundamental to deep learning— with two forward passes. This project can be presented as a step towards more energy-efficient and potentially biologically realistic forms of learning in artificial neural networks. 
 
 To learn more about the details, I would recommend watching his interview, or my post for a general intro: 
 
