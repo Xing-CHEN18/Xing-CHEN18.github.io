@@ -22,7 +22,7 @@ To learn more about the details, I would recommend watching his interview, or my
 
 ## -Neural Ordinary Differential Equations for modeling time series data
 
-Related field: Noise contrastive Learning, visual representations, un/self supervised learning
+**Related field**: Noise contrastive Learning, visual representations, un/self supervised learning
 
 - [Project: What Is And Why Reservoir Computing](https://xing-chen18.github.io/Project-What-is-and-why-Reservoir-Computing/)
 
