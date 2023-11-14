@@ -19,7 +19,6 @@ Impact: Improving machine learning models' interpretability.
 
 Reflection:
 
-this project can be presented as a step towards more energy-efficient and potentially biologically realistic forms of learning in artificial neural networks. The research focuses on pushing the boundaries of what's currently possible with neural network training, aiming to both improve upon traditional methods and provide insights into how learning might actually occur in the human brain.
 
 
 ## Neural Ordinary Differential Equations for modeling time series data
