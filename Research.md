@@ -3,7 +3,7 @@
 
 Research Overview
 
-## Advancing the Forward-Forward Algorithm
+## -Advancing the Forward-Forward Algorithm
 
 **Related fields**: Noise contrastive Learning, visual representations, un/self-supervised learning
 
@@ -20,7 +20,7 @@ To learn more about the details, I would recommend watching his interview, or my
 **Future work**: Scaling these methods for larger and more complex datasets and exploring the potential for broader applications in various AI domains.
 
 
-## Neural Ordinary Differential Equations for modeling time series data
+## -Neural Ordinary Differential Equations for modeling time series data
 
 Related field: Noise contrastive Learning, visual representations, un/self supervised learning
 
@@ -39,7 +39,7 @@ Related field: Echo state network, Ridge regression
 - [How does FFT helps in micromagnetic simulations](https://xing-chen18.github.io/My-PhD/)
 
 
-## Micromagnetic simulations for modeling magnetic materials
+## -Micromagnetic simulations for modeling magnetic materials
 
 Related field: Echo state network, Ridge regression
 
@@ -49,7 +49,7 @@ Related field: Echo state network, Ridge regression
 - [How does FFT helps in micromagnetic simulations](https://xing-chen18.github.io/My-PhD/)
 
 
-## List of my posts
+## -List of my posts
 _I want to know more about other things_ 
 
 - [Daily: Why Not Drink Hot Water From Tap](https://xing-chen18.github.io/Daily-Turning-Up-the-Heat-Why-You-Rethink-Drinking-Warm-Tap-Water/)
