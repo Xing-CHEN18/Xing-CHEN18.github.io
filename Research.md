@@ -13,11 +13,11 @@ To learn more about the details, I would recommend watching his interview, or my
 
 [Introduction Of The Forward Forward Method By Geoffrey Hilton](https://xing-chen18.github.io/Project-Introduction-of-the-forward-forward-method-by-Geoffrey-Hilton/)
 
-My Work: Generalize the forward-forward algorithm in a broader situation and can be applied in different dataset with higher accuracy
+My Work: I have developed an advanced method of generating negative data that diverges from and improves upon Geoffrey Hinton's initial Forward-Forward Algorithm framework. My approach has been tested on the CIFAR10 dataset, where it has not only achieved remarkable accuracy but also surpassed the performance benchmarks set by existing unsupervised local learning algorithms.
 
 Impact: Improving machine learning models' interpretability.
 
-Reflection:
+Future work: 
 
 
 
