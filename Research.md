@@ -66,7 +66,6 @@ Related field: Echo state network, Ridge regression
 **Related publications**: I contributed to the design of reservoir computing experiments and optimization of the algorithms for train the network.
 
 
-
 - [How does FFT helps in micromagnetic simulations](https://xing-chen18.github.io/My-PhD/)
 
 
