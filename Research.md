@@ -52,11 +52,7 @@ To learn more about the details, I would recommend watching his interview, or my
 
 **Impact**: This work successfully demonstrated the functionality of RC system in waveform classification and time series prediction tasks, achieving a recognition rate of 99.3% and a normalized root mean square error of 0.2, respectively. These results highlight the potential of our system in developing low-power, highly efficient neuromorphic computing systems, paving the way for advanced spintronic applications.
 
-**Reflection/Future Work** The promising results from Neural ODEs in spintronics suggest a disruptive tool for rapid and accurate modeling, complementing time-intensive micromagnetic simulations. Looking ahead, we aim to generalize this approach to a broader range of electronic devices, optimizing the functionality and efficiency of next-generation technologies.
-
-
-Reflection/Future Work
-Reflecting on our findings, this research represents a significant step towards leveraging magneto-electro-ferroelastic tunability for neuromorphic computing. Going forward, the aim is to extend these concepts to more complex applications and further optimize the system for real-world neuromorphic computing challenges.
+**Reflection/Future Work** Reflecting on our findings, this research represents a significant step towards leveraging magneto-electro-ferroelastic tunability for neuromorphic computing. Going forward, the aim is to extend these concepts to more complex applications and further optimize the system for real-world neuromorphic computing challenges.
 
 - [Project: What Is And Why Reservoir Computing](https://xing-chen18.github.io/Project-What-is-and-why-Reservoir-Computing/)
 
