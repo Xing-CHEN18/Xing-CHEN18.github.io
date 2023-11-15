@@ -41,18 +41,22 @@ To learn more about the details, I would recommend watching his interview, or my
 
 **Related field**: Echo state network, Ridge regression
 
-**Introduction**: This study addresses the gap in applying artificial intelligence to discover the complete differential equations governing physical experiments. It focuses on the domain of spintronics, where the behavior of devices underpins future technological advancements.
+**Introduction**: This work explores the implementation of reservoir computing (RC) systems, a subset of neuromorphic computing, which are particularly efficient for processing temporal and sequential information. These systems utilize a network of nonlinear nodes for rapid and stable learning, significantly reducing computational costs compared to traditional recurrent neural networks (RNNs).
 
 <p align="center">
   <img alt="img-name" src="{{ site.baseurl }}/images/NC_reservoir.PNG" height="auto" width="auto">
     <em>Reservoir network and its ability to predict chaotic time series</em>
 </p>
 
-**My Contribution**: I led the initiative to adapt Neural Ordinary Differential Equations to spintronics' unique constraints, involving few outputs, multiple inputs, and internal parameters. Our model, trained on minimal data, successfully predicted spintronic devices' behaviors with remarkable accuracy and efficiency.
+**My Contribution**: I contributed to the design of reservoir computing experiments and optimization of the algorithms for train the network.
 
-**Impact**: Our approach demonstrated an over 200-fold acceleration in simulation time compared to traditional methods, predicting the response of experimental spintronic nano-oscillators effectively. It stands to significantly speed up the development process in spintronics and potentially other areas involving dynamic electronic devices.
+**Impact**: This work successfully demonstrated the functionality of RC system in waveform classification and time series prediction tasks, achieving a recognition rate of 99.3% and a normalized root mean square error of 0.2, respectively. These results highlight the potential of our system in developing low-power, highly efficient neuromorphic computing systems, paving the way for advanced spintronic applications.
 
 **Reflection/Future Work** The promising results from Neural ODEs in spintronics suggest a disruptive tool for rapid and accurate modeling, complementing time-intensive micromagnetic simulations. Looking ahead, we aim to generalize this approach to a broader range of electronic devices, optimizing the functionality and efficiency of next-generation technologies.
+
+
+Reflection/Future Work
+Reflecting on our findings, this research represents a significant step towards leveraging magneto-electro-ferroelastic tunability for neuromorphic computing. Going forward, the aim is to extend these concepts to more complex applications and further optimize the system for real-world neuromorphic computing challenges.
 
 - [Project: What Is And Why Reservoir Computing](https://xing-chen18.github.io/Project-What-is-and-why-Reservoir-Computing/)
 
