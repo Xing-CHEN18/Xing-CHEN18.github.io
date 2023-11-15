@@ -35,7 +35,7 @@ To learn more about the details, I would recommend watching his interview, or my
 
 **Reflection/Future Work** The promising results from Neural ODEs in spintronics suggest a disruptive tool for rapid and accurate modeling, complementing time-intensive micromagnetic simulations. Looking ahead, we aim to generalize this approach to a broader range of electronic devices, optimizing the functionality and efficiency of next-generation technologies.
 
-**Publication and code**: [Forecasting the outcome of spintronic experiments with neural ordinary differential equations](https://www.nature.com/articles/s41467-022-28571-7), Nature Communications.
+**Publication and code**: [Forecasting the outcome of spintronic experiments with neural ordinary differential equations](https://www.nature.com/articles/s41467-022-28571-7), _Nat Commun 13, 1016 (2022)_.
 
 - ## Reservoir computing for modeling time series data
 
@@ -54,7 +54,7 @@ To learn more about the details, I would recommend watching his interview, or my
 
 **Reflection/Future Work**: This research represents a significant step towards leveraging magneto-electro-ferroelastic tunability for neuromorphic computing. Going forward, the aim is to extend these concepts to more complex applications and further optimize the system for real-world neuromorphic computing challenges.
 
-**Publication and code**: [Experimental demonstration of a skyrmion-enhanced strain-mediated physical reservoir computing system](https://www.nature.com/articles/s41467-023-39207-9), Nature Communications.
+**Publication and code**: [Experimental demonstration of a skyrmion-enhanced strain-mediated physical reservoir computing system](https://www.nature.com/articles/s41467-023-39207-9), _Nat Commun 14, 3434 (2023)_.
 
 - ## Micromagnetic simulations for modeling magnetic materials
 
