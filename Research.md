@@ -58,10 +58,14 @@ To learn more about the details, I would recommend watching his interview, or my
 
 ## -Micromagnetic simulations for modeling magnetic materials
 
+**Introduction**: This study addresses the gap in applying artificial intelligence to discover the complete differential equations governing physical experiments. It focuses on the domain of spintronics, where the behavior of devices underpins future technological advancements.
 Related field: Echo state network, Ridge regression
 
+**My work**: I contributed to the design of reservoir computing experiments and optimization of the algorithms for train the network.
 
-- [Project: What Is And Why Reservoir Computing](https://xing-chen18.github.io/Project-What-is-and-why-Reservoir-Computing/)
+**Related publications**: I contributed to the design of reservoir computing experiments and optimization of the algorithms for train the network.
+
+
 
 - [How does FFT helps in micromagnetic simulations](https://xing-chen18.github.io/My-PhD/)
 
