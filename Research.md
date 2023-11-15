@@ -54,10 +54,6 @@ To learn more about the details, I would recommend watching his interview, or my
 
 **Reflection/Future Work** Reflecting on our findings, this research represents a significant step towards leveraging magneto-electro-ferroelastic tunability for neuromorphic computing. Going forward, the aim is to extend these concepts to more complex applications and further optimize the system for real-world neuromorphic computing challenges.
 
-- [Project: What Is And Why Reservoir Computing](https://xing-chen18.github.io/Project-What-is-and-why-Reservoir-Computing/)
-
-- [How does FFT helps in micromagnetic simulations](https://xing-chen18.github.io/My-PhD/)
-
 
 ## -Micromagnetic simulations for modeling magnetic materials
 
