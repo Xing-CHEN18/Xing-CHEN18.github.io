@@ -15,7 +15,7 @@ To learn more about the details, I would recommend watching his interview, or my
 
 **Impact**: Improving machine learning models' interpretability. The implications extend to real-world applications, including but not limited to, enhanced computer vision systems, more efficient natural language processors, etc.
 
-**Future work**: Scaling these methods for larger and more complex datasets and exploring the potential for broader applications in various AI domains. The mauscript is under preparation and code is going to be published.
+**Future work**: Scaling these methods for larger and more complex datasets and exploring the potential for broader applications in various AI domains. The mauscript is under preparation and code will be published.
 
 
 - ## Neural Ordinary Differential Equations for modeling time series data
