@@ -69,7 +69,7 @@ Related field: Echo state network, Ridge regression
 - [How does FFT helps in micromagnetic simulations](https://xing-chen18.github.io/My-PhD/)
 
 
-## -List of my posts
+- ## List of my posts
 _I want to know more about other things_ 
 
 - [Project: Introduction Of The Forward Forward Method By Geoffrey Hilton](https://xing-chen18.github.io/Project-Introduction-of-the-forward-forward-method-by-Geoffrey-Hilton/)
