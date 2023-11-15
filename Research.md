@@ -41,7 +41,7 @@ To learn more about the details, I would recommend watching his interview, or my
 
 **Related field**: Echo state network, Ridge regression
 
-**Introduction**: This work explores the implementation of reservoir computing (RC) systems, a subset of neuromorphic computing, which are particularly efficient for processing temporal and sequential information. These systems utilize a network of nonlinear nodes for rapid and stable learning, significantly reducing computational costs compared to traditional recurrent neural networks (RNNs).
+**Introduction**: This work explores the implementation of reservoir computing (RC) systems, a subset of neuromorphic computing, which are particularly efficient for processing temporal and sequential information. These systems utilize a network of nonlinear nodes for rapid and stable learning, significantly reducing computational costs compared to traditional recurrent neural networks (RNNs). For more info about RC, pls check my previous posts if it interests you: [Project: What Is And Why Reservoir Computing](https://xing-chen18.github.io/Project-What-is-and-why-Reservoir-Computing/), [Memory and Nonlinearity in Reservoir Computing](https://xing-chen18.github.io/Project-Memory-and-Nonlinearity-in-Reservoir-Computing/)
 
 <p align="center">
   <img alt="img-name" src="{{ site.baseurl }}/images/NC_reservoir.PNG" height="auto" width="auto">
