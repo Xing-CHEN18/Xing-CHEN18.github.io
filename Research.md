@@ -60,7 +60,7 @@ To learn more about the details, I would recommend watching his interview, or my
 
 **Introduction**: Just as weather simulations predict the weather, micromagnetic simulations forecast the behavior of magnetic materials, which are crucial in many technologies around us — from the hard drives storing our precious memories to the sensors in our smartphones.  To know more about Micromagnetic simulations, have a look at my previous post: [How does FFT helps in micromagnetic simulations](https://xing-chen18.github.io/My-PhD/)
 
-**My work**: I worked on several projects during my phd about modeling and simulations of the magnetic materials to explore their dynamical characteristics under external sources (e.g., current, voltage, magnetic field). The mathematical approach being used included 
+**My work**: I worked on several projects during my phd about modeling and simulations of the magnetic materials to explore their dynamical characteristics under external sources (e.g., current, voltage, magnetic field). The mathematical approaches being used included partial differential equations, ordinary differential equations
 
 **Related publications**: 
 
