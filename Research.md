@@ -52,7 +52,7 @@ To learn more about the details, I would recommend watching his interview, or my
 
 **Impact**: This work successfully demonstrated the functionality of RC system in waveform classification and time series prediction tasks, achieving a recognition rate of 99.3% and a normalized root mean square error of 0.2, respectively. These results highlight the potential of our system in developing low-power, highly efficient neuromorphic computing systems, paving the way for advanced spintronic applications.
 
-**Reflection/Future Work** This research represents a significant step towards leveraging magneto-electro-ferroelastic tunability for neuromorphic computing. Going forward, the aim is to extend these concepts to more complex applications and further optimize the system for real-world neuromorphic computing challenges.
+**Reflection/Future Work**: This research represents a significant step towards leveraging magneto-electro-ferroelastic tunability for neuromorphic computing. Going forward, the aim is to extend these concepts to more complex applications and further optimize the system for real-world neuromorphic computing challenges.
 
 **Publication and code**: [Experimental demonstration of a skyrmion-enhanced strain-mediated physical reservoir computing system](https://www.nature.com/articles/s41467-023-39207-9), Nature Communications.
 
