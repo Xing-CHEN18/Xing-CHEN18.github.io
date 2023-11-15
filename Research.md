@@ -58,11 +58,11 @@ To learn more about the details, I would recommend watching his interview, or my
 
 - ## Micromagnetic simulations for modeling magnetic materials
 
-**Introduction**: Just as weather simulations predict the weather, micromagnetic simulations forecast the behavior of magnetic materials, which are crucial in many technologies around us — from the hard drives storing our precious memories to the sensors in our smartphones. To know more about Micromagnetic simulations, have a look at my previous post: [How does FFT helps in micromagnetic simulations](https://xing-chen18.github.io/My-PhD/)
+**Introduction**: Just as weather simulations predict the weather, micromagnetic simulations forecast the behavior of magnetic materials, which are crucial in many technologies around us — from the hard drives storing our precious memories to the sensors in our smartphones.  To know more about Micromagnetic simulations, have a look at my previous post: [How does FFT helps in micromagnetic simulations](https://xing-chen18.github.io/My-PhD/)
 
-**My work**: I contributed to the design of reservoir computing experiments and optimization of the algorithms for train the network.
+**My work**: 
 
-**Related publications**: I contributed to the design of reservoir computing experiments and optimization of the algorithms for train the network.
+**Related publications**: 
 
 
 - ## List of my posts
