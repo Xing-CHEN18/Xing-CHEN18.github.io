@@ -56,7 +56,7 @@ To learn more about the details, I would recommend watching his interview, or my
 
 **Publication and code**: [Experimental demonstration of a skyrmion-enhanced strain-mediated physical reservoir computing system](https://www.nature.com/articles/s41467-023-39207-9), Nature Communications.
 
-## -Micromagnetic simulations for modeling magnetic materials
+- ## Micromagnetic simulations for modeling magnetic materials
 
 **Introduction**: This study addresses the gap in applying artificial intelligence to discover the complete differential equations governing physical experiments. It focuses on the domain of spintronics, where the behavior of devices underpins future technological advancements.
 Related field: Echo state network, Ridge regression
