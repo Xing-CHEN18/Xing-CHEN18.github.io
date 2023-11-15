@@ -66,10 +66,14 @@ To learn more about the details, I would recommend watching his interview, or my
 
 **Selected publications**: 
 
+- [A compact skyrmionic leaky–integrate–fire spiking neuron device](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=_1rFPswAAAAJ&citation_for_view=_1rFPswAAAAJ:u5HHmVD_uO8C)
+
+- [Skyrmion dynamics in width-varying nanotracks and implications for skyrmionic applications](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=_1rFPswAAAAJ&citation_for_view=_1rFPswAAAAJ:2osOgNQ5qMEC)
+
+- [Magnetic skyrmion spectrum under voltage excitation and its linear modulation](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=_1rFPswAAAAJ&citation_for_view=_1rFPswAAAAJ:Y0pCki6q_DkC)
 
 
-
-- ## List of my posts
+## List of my posts
 _I want to know more about other things_ 
 
 - [Project: Introduction Of The Forward Forward Method By Geoffrey Hilton](https://xing-chen18.github.io/Project-Introduction-of-the-forward-forward-method-by-Geoffrey-Hilton/)
