@@ -39,8 +39,20 @@ To learn more about the details, I would recommend watching his interview, or my
 
 - ## Reservoir computing for modeling time series data
 
-Related field: Echo state network, Ridge regression
+**Related field**: Echo state network, Ridge regression
 
+**Introduction**: This study addresses the gap in applying artificial intelligence to discover the complete differential equations governing physical experiments. It focuses on the domain of spintronics, where the behavior of devices underpins future technological advancements.
+
+<p align="center">
+  <img alt="img-name" src="{{ site.baseurl }}/images/NC_reservoir.PNG" height="auto" width="auto">
+    <em>Reservoir network and its ability to predict chaotic time series</em>
+</p>
+
+**My Contribution**: I led the initiative to adapt Neural Ordinary Differential Equations to spintronics' unique constraints, involving few outputs, multiple inputs, and internal parameters. Our model, trained on minimal data, successfully predicted spintronic devices' behaviors with remarkable accuracy and efficiency.
+
+**Impact**: Our approach demonstrated an over 200-fold acceleration in simulation time compared to traditional methods, predicting the response of experimental spintronic nano-oscillators effectively. It stands to significantly speed up the development process in spintronics and potentially other areas involving dynamic electronic devices.
+
+**Reflection/Future Work** The promising results from Neural ODEs in spintronics suggest a disruptive tool for rapid and accurate modeling, complementing time-intensive micromagnetic simulations. Looking ahead, we aim to generalize this approach to a broader range of electronic devices, optimizing the functionality and efficiency of next-generation technologies.
 
 - [Project: What Is And Why Reservoir Computing](https://xing-chen18.github.io/Project-What-is-and-why-Reservoir-Computing/)
 
@@ -59,6 +71,12 @@ Related field: Echo state network, Ridge regression
 
 ## -List of my posts
 _I want to know more about other things_ 
+
+- [Project: Introduction Of The Forward Forward Method By Geoffrey Hilton](https://xing-chen18.github.io/Project-Introduction-of-the-forward-forward-method-by-Geoffrey-Hilton/)
+
+- [Project: What Is And Why Reservoir Computing](https://xing-chen18.github.io/Project-What-is-and-why-Reservoir-Computing/)
+
+- [Project: How does FFT helps in micromagnetic simulations](https://xing-chen18.github.io/My-PhD/)
 
 - [Daily: Why Not Drink Hot Water From Tap](https://xing-chen18.github.io/Daily-Turning-Up-the-Heat-Why-You-Rethink-Drinking-Warm-Tap-Water/)
 
