@@ -66,7 +66,7 @@ To learn more about the details, I would recommend watching his interview, or my
 
 **Selected publications**: 
 
-- [A compact skyrmionic leaky–integrate–fire spiking neuron device](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=_1rFPswAAAAJ&citation_for_view=_1rFPswAAAAJ:u5HHmVD_uO8C), Nanoscale.
+- [A compact skyrmionic leaky–integrate–fire spiking neuron device](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=_1rFPswAAAAJ&citation_for_view=_1rFPswAAAAJ:u5HHmVD_uO8C), 	_Nanoscale, 2018,10, 6139-6146_.
 
 - [Skyrmion dynamics in width-varying nanotracks and implications for skyrmionic applications](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=_1rFPswAAAAJ&citation_for_view=_1rFPswAAAAJ:2osOgNQ5qMEC), Applided Physics Letter.
 
