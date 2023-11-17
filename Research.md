@@ -33,7 +33,7 @@ To learn more about the details, I would recommend watching his interview, or my
 
 **Impact**: Our approach demonstrated an over 200-fold acceleration in simulation time compared to traditional methods, predicting the response of experimental spintronic nano-oscillators effectively. It stands to significantly speed up the development process in spintronics and potentially other areas involving dynamic electronic devices.
 
-**Reflection/Future Work** The promising results from Neural ODEs in spintronics suggest a disruptive tool for rapid and accurate modeling, complementing time-intensive micromagnetic simulations. Looking ahead, we aim to generalize this approach to a broader range of electronic devices, optimizing the functionality and efficiency of next-generation technologies.
+**Reflection/Future Work**: The promising results from Neural ODEs in spintronics suggest a disruptive tool for rapid and accurate modeling, complementing time-intensive micromagnetic simulations. Looking ahead, we aim to generalize this approach to a broader range of electronic devices, optimizing the functionality and efficiency of next-generation technologies.
 
 **Publication and code**: [Forecasting the outcome of spintronic experiments with neural ordinary differential equations](https://www.nature.com/articles/s41467-022-28571-7), _Nat Commun 13, 1016 (2022)_.
 
