@@ -64,7 +64,7 @@ To learn more about the details, I would recommend watching his interview, or my
 
 <p align="center">
   <img alt="img-name" src="{{ site.baseurl }}/images/mics.png" height="auto" width="auto">
-    <em>Design of the network architecture and test prediction</em>
+    <em>Left: Scales in micromagnetism. Right: Magnetic phenomenon under certain conditions </em>
 </p>
 
 **My work**: I worked on several projects during my phd about modeling and simulations of the magnetic materials to explore their dynamical characteristics under external sources (e.g., current, voltage, magnetic field). The mathematical approaches being used included partial differential equations, ordinary differential equations, Finite Difference Method, Monte Carlo Simulations, Fourier Transforms .etc.
