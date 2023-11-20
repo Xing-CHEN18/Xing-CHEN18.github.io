@@ -11,7 +11,7 @@ Research Overview
 
 <p align="center">
   <img alt="img-name" src="{{ site.baseurl }}/images/ff.png" height="auto" width="auto">
-    <em>Design of the network architecture and test prediction</em>
+    <em>Comparison of backprob and forward forward training</em>
 </p>
 
 To learn more about the details, I would recommend watching his interview, or my post for a general intro: [Introduction Of The Forward Forward Method By Geoffrey Hilton](https://xing-chen18.github.io/Project-Introduction-of-the-forward-forward-method-by-Geoffrey-Hilton/)
