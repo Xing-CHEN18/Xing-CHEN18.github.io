@@ -22,6 +22,8 @@ It was during my research project at C2N in France that I discovered my passion 
 
 ## Recent news/experience
 
+* 2024.06 &nbsp; I presented my poster entitled "Contrastive Forward Forward Algorithm" [International Conference on Neuromorphic Computing and Engineering](https://www.icnce-2024.de/) (ICNCE-2024) in Aachen, Germany. 
+
 * 2023.10 &nbsp; I attended the [International conference on neuromorphic, natural and physical computing](https://nnpc-conference.com/) (NNPC 2023) in Hanover, Germany. 
 
 * 2023.06 &nbsp; Our work of "Experimental demonstration of a skyrmion-enhanced strain-mediated physical reservoir computing system" was published in [Nature communications](https://www.nature.com/articles/s41467-023-39207-9)!
