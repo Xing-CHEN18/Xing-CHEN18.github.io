@@ -5,7 +5,7 @@ Research Overview
 
 - ## Advancing the Forward-Forward Algorithm
 
-**Related fields**: Noise contrastive Learning, visual representations, un/self-supervised learning
+**Related fields**: Slef-supervised learning, un-supervised learning, Noise contrastive Learning, Bio-inspired learning, local learning, Neuromorphic algorithm
 
 **Introduction**: The Forward-Forward Algorithm, as conceptualized by Geoffrey Hinton, is a novel approach to learning in neural networks. This learning method is particularly distinctive because it replaces the traditional forward and backward passes of backpropagation—fundamental to deep learning— with two forward passes. This project can be presented as a step towards more energy-efficient and potentially biologically realistic forms of learning in artificial neural networks. 
 
@@ -16,7 +16,7 @@ Research Overview
 
 To learn more about the details, I would recommend watching his interview, or my post for a general intro: [Introduction Of The Forward Forward Method By Geoffrey Hilton](https://xing-chen18.github.io/Project-Introduction-of-the-forward-forward-method-by-Geoffrey-Hilton/)
 
-**My Work**: I have developed an advanced method of generating negative data that diverges from and improves upon Geoffrey Hinton's initial Forward-Forward Algorithm framework. My approach has been tested on diverse datasets, ranging from vison to audio task, where it has not only achieved remarkable accuracy but also surpassed the performance benchmarks set by existing unsupervised local learning algorithms.
+**My Work**: I have developed an advanced method of generating negative data that diverges from and improves upon Geoffrey Hinton's initial Forward-Forward Algorithm framework. My approach has been tested on diverse datasets, ranging from vison to audio tasks, where it has not only achieved remarkable accuracy but also surpassed the performance benchmarks set by existing unsupervised local learning algorithms.
 
 **Impact**: Improving machine learning models' interpretability. The implications extend to real-world applications, including but not limited to, enhanced computer vision systems, more efficient natural language processors, etc.
 
