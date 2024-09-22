@@ -20,7 +20,7 @@ To learn more about the details, I would recommend watching his interview, or my
 
 **Impact**: Improving machine learning models' interpretability. The implications extend to real-world applications, including but not limited to, enhanced computer vision systems, more efficient natural language processors, etc.
 
-**Publication and code**: Manuscript currently available in arXiv at [Self-Contrastive Forward-Forward Algorithm](https://arxiv.org/abs/2409.11593). Code is available at [Github repo](https://github.com/neurophysics-cnrsthales/contrastive-forward-forward).
+**Publication and code**: Manuscript currently available at arXiv: [Self-Contrastive Forward-Forward Algorithm](https://arxiv.org/abs/2409.11593). Code is available at [Github repo](https://github.com/neurophysics-cnrsthales/contrastive-forward-forward).
 
 
 - ## Neural Ordinary Differential Equations for modeling time series data
