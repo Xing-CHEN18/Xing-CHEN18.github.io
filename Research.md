@@ -59,7 +59,7 @@ To learn more about the details, I would recommend watching his interview, or my
 
 **Reflection/Future Work**: This research represents a significant step towards leveraging magneto-electro-ferroelastic tunability for neuromorphic computing. Going forward, the aim is to extend these concepts to more complex applications and further optimize the system for real-world neuromorphic computing challenges.
 
-**Publication and code**: [Experimental demonstration of a skyrmion-enhanced strain-mediated physical reservoir computing system](https://www.nature.com/articles/s41467-023-39207-9), _Nat Commun 14, 3434 (2023)_. Code is available at [Github repo](https://github.com/neurophysics-cnrsthales/contrastive-forward-forward).
+**Publication and code**: [Experimental demonstration of a skyrmion-enhanced strain-mediated physical reservoir computing system](https://www.nature.com/articles/s41467-023-39207-9), _Nat Commun 14, 3434 (2023)_. Code is available at [Github repo](https://github.com/Xing-CHEN18/NeuralODEs_for_physics).
 
 - ## Micromagnetic simulations for modeling magnetic materials
 
