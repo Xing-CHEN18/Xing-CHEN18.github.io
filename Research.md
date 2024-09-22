@@ -20,7 +20,7 @@ To learn more about the details, I would recommend watching his interview, or my
 
 **Impact**: Improving machine learning models' interpretability. The implications extend to real-world applications, including but not limited to, enhanced computer vision systems, more efficient natural language processors, etc.
 
-**Future work**: Scaling these methods for larger and more complex datasets and exploring the potential for broader applications in various AI domains. The mauscript is online at arkiv:.
+**Publication and code**: Manuscript currently available in arXiv at [Self-Contrastive Forward-Forward Algorithm](https://arxiv.org/abs/2409.11593). Code is available at [Github repo](https://github.com/neurophysics-cnrsthales/contrastive-forward-forward).
 
 
 - ## Neural Ordinary Differential Equations for modeling time series data
@@ -59,7 +59,7 @@ To learn more about the details, I would recommend watching his interview, or my
 
 **Reflection/Future Work**: This research represents a significant step towards leveraging magneto-electro-ferroelastic tunability for neuromorphic computing. Going forward, the aim is to extend these concepts to more complex applications and further optimize the system for real-world neuromorphic computing challenges.
 
-**Publication and code**: [Experimental demonstration of a skyrmion-enhanced strain-mediated physical reservoir computing system](https://www.nature.com/articles/s41467-023-39207-9), _Nat Commun 14, 3434 (2023)_.
+**Publication and code**: [Experimental demonstration of a skyrmion-enhanced strain-mediated physical reservoir computing system](https://www.nature.com/articles/s41467-023-39207-9), _Nat Commun 14, 3434 (2023)_. Code is available at [Github repo](https://github.com/neurophysics-cnrsthales/contrastive-forward-forward).
 
 - ## Micromagnetic simulations for modeling magnetic materials
 
