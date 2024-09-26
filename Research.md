@@ -10,8 +10,8 @@ Research Overview
 **Introduction**: The Forward-Forward Algorithm, as conceptualized by Geoffrey Hinton, is a novel approach to learning in neural networks. This learning method is particularly distinctive because it replaces the traditional forward and backward passes of backpropagation—fundamental to deep learning— with two forward passes. This project can be presented as a step towards more energy-efficient and potentially biologically realistic forms of learning in artificial neural networks. 
 
 <p align="center">
-  <img alt="img-name" src="{{ site.baseurl }}/images/ff.png" height="auto" width="auto">
-    <em>Comparison of backprob and forward forward training</em>
+  <img alt="img-name" src="{{ site.baseurl }}/images/SCFF.png" height="auto" width="auto">
+    <em>Comparison of FF, Contrastive Learning and SCFF (our method)</em>
 </p>
 
 To learn more about the details, I would recommend watching his interview, or my post for a general intro: [Introduction Of The Forward Forward Method By Geoffrey Hilton](https://xing-chen18.github.io/Project-Introduction-of-the-forward-forward-method-by-Geoffrey-Hilton/)
