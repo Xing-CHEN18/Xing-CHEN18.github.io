@@ -17,11 +17,11 @@ Research Overview
 To learn more about the details, I would recommend watching his interview, or my post for a general intro: [Introduction Of The Forward Forward Method By Geoffrey Hilton](https://xing-chen18.github.io/Project-Introduction-of-the-forward-forward-method-by-Geoffrey-Hilton/)
 
 **My Work**: I have developed an advanced method of generating negative data that diverges from and improves upon Geoffrey Hinton's initial Forward-Forward Algorithm framework. My approach has been tested on diverse datasets, ranging from vison (MNIST, CIFAR, STL-10 (a few number of labeled data alongside a large amount of unlabeled data)) to audio (FSDD dataset) tasks. The approach has not only achieved remarkable accuracy but also surpassed the performance benchmarks set by existing unsupervised local learning algorithms.
-
+<!--
 <p align="center">
   <img alt="img-name" src="{{ site.baseurl }}/images/actmap.png" height="auto" width="auto">
     <em>Visulization of the activation map after trained with SCFF </em>
-</p>
+</p>-->
 
 **Impact**: Improving machine learning models' interpretability. The implications extend to real-world applications, including but not limited to, enhanced computer vision systems, more efficient natural language processors, etc.
 
