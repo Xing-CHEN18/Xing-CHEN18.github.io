@@ -87,7 +87,7 @@ To learn more about the details, I would recommend watching his interview, or my
 
 - [Magnetic skyrmion spectrum under voltage excitation and its linear modulation](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=_1rFPswAAAAJ&citation_for_view=_1rFPswAAAAJ:Y0pCki6q_DkC), _Phys. Rev. Applied 12, 024008_.
 
-
+<!--
 ## List of my posts
 _I want to know more about other things_ 
 
@@ -108,3 +108,4 @@ _I want to know more about other things_
 - [Daily: Tunnel Vision](https://xing-chen18.github.io/Daily-Tunnel-vision/)
 
 - [Daily: You Are Ready When You Are Ready](https://xing-chen18.github.io/Daily-You-are-ready-when-you-are-ready/)
+-->
