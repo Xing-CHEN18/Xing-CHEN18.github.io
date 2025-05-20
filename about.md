@@ -28,7 +28,7 @@ It was during my research project at C2N in France that I discovered my passion 
 
 * 2022.11 &nbsp; I gave an oral presentation at IEEE MMM conference in Minneapolis, USA. My talk was also selected as a finalist for the [**Best student presentation award**](https://2023.magnetism.org/awards/presentations-awards)!
 
-* 2022.09 &nbsp; I started my six-months internship as a research scientist at AI lab of Huawei Technology in Beijing, China.
+* 2022.09 &nbsp; I started my six-months internship at AI lab of Huawei Technology in Beijing, China.
 
 * 2022.02 &nbsp; Our work of "Forecasting the outcome of spintronic experiments with neural ordinary differential equations" was published in [Nature communications](https://www.nature.com/articles/s41467-022-28571-7)!
 
