@@ -21,8 +21,8 @@ To learn more about the details, I would recommend watching his interview, or my
 <p align="center">
   <img alt="img-name" src="{{ site.baseurl }}/images/actmap.png" height="auto" width="auto">
     <em>Visulization of the activation map after trained with SCFF </em>
-</p>-->
-
+</p>
+-->
 **Impact**: Improving machine learning models' interpretability. The implications extend to real-world applications, including but not limited to, enhanced computer vision systems, more efficient natural language processors, etc.
 
 **Publication and code**: Manuscript currently available at arXiv: [Self-Contrastive Forward-Forward Algorithm](https://arxiv.org/abs/2409.11593). Code is available at [Github repo](https://github.com/neurophysics-cnrsthales/contrastive-forward-forward).
