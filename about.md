@@ -35,10 +35,7 @@ It was during my research project at C2N in France that I discovered my passion 
 * 2019.10 &nbsp; I won the **Best poster award** at 4th International workshop on Spintronic Memory and Logic, SML at Beihang University, China. I was also furtunate to be awarded by the physicist of the 2007 Nobel Prize winner, Albert Fert!
 
 * 2019.06 &nbsp; I attened IEEE magnetics Summer school with full scholarship in Virgina, USA.
-<!--
-* 2019.01 &nbsp; I gave an oral presentation at IEEE Joint-MMM conference in DC, USA. 
-* 2018.05 &nbsp; I gave an oral presentation at IEEE INTERMAG conference in Singapore. 
--->
+
 ## Publications
 
 [Google Scholar](https://scholar.google.com/citations?user=_1rFPswAAAAJ&hl=zh-CN) or [Researchgate](https://www.researchgate.net/profile/Xing-Chen-26).
