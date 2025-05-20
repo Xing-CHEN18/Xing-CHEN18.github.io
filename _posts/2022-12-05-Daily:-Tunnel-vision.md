@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 ---
 
 Tunnel vision is defined as one’s tendency to focus on a single goal or point of view. The more important the goal or the more threatening a stimulus is perceived to be, the more likely a person is to focus attention on it [Ref](https://www.samatters.com/explaining-tunnel-vision/#:~:text=Tunnel%20vision%20is%20defined%20as,to%20focus%20attention%20on%20it.).
