@@ -42,7 +42,7 @@ It was during my research project at C2N in France that I discovered my passion 
 -->
 ## Publications
 
-[Google Scholar](https://scholar.google.com/citations?user=_1rFPswAAAAJ&hl=zh-CN) or [Researchgate](https://www.researchgate.net/profile/Xing-Chen-26) page.
+[Google Scholar](https://scholar.google.com/citations?user=_1rFPswAAAAJ&hl=zh-CN) or [Researchgate](https://www.researchgate.net/profile/Xing-Chen-26).
 
 ## Contact me
 
