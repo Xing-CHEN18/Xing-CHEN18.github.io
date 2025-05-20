@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 ---
 
 One of the enlighting take-aways from one of my favorite podcasts -- 得意忘形 (literally means someone gets so arrogant to an extent that she/he forgets who she/he is) that I listened recently is that just getting started/moving towards it/getting into action whenever you have an idea instead of overthinking. 
