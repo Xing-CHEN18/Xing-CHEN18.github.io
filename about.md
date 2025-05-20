@@ -37,7 +37,6 @@ It was during my research project at C2N in France that I discovered my passion 
 * 2019.06 &nbsp; I attened IEEE magnetics Summer school with full scholarship in Virgina, USA.
 <!--
 * 2019.01 &nbsp; I gave an oral presentation at IEEE Joint-MMM conference in DC, USA. 
-
 * 2018.05 &nbsp; I gave an oral presentation at IEEE INTERMAG conference in Singapore. 
 -->
 ## Publications
